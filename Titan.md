@@ -90,6 +90,7 @@ You have an uncanny sense of when things nearby aren't as they should be, giving
 At level two, you gain the Lift ability which allows you to LongJump three times your normal jump distance.
 
 At 5th level, your Lift ability gains one of the following features.
+
 Ability | Description
 ---|---
 **Increased Height:** | Upgrades Lift to travel to greater height. This extends your high jump to allow you to jump three times the normal height.
