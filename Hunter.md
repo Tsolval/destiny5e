@@ -136,17 +136,19 @@ Don't see much else to say about it. That's just truth.
 #### Super Ability - [Golden Gun](http://destiny-grimoire.info/#Card-301140)
 Draw a hand cannon burning with Solar Light and loaded with three rounds of sunfire. Aim steady and keep your wits about you. You are a Gunslinger, and this is what you live for.
 
-At level 3, you can use your Golden Gun super ability to summon a flaming hand cannon which lasts for 30 seconds (5 rounds) or until it has fired 3 shots.  To fire, roll to hit as normal (d20 + dexterity + proficiency) and add an additional +2 to account for the living flames desire to burn the darkness.  Note that this stacks with an aim bonus as well.  When you hit a target, roll a 3d10 and add your dexterity modifier and proficiency bonus.  The target takes this much solar damage.  
+At level 3, you can spend 50 Light from your Super Ability pool to summon your Golden Gun; a flaming hand cannon which lasts for 30 seconds (5 rounds) or until it has fired 3 shots.  
 
-Golden Gun has a range of 30/90 and does 3d10 damage.
+**Attack:** 1d20 + 2 + dexterity modifier + proficiency bonus
+**Damage:** 3d10 + dexterity modifier + proficiency bonus; Solar
+**Range:** 30/90
 
 At level 8, you can choose one of the following additional features for your Golden Gun.
 
-|Ability | Description|Bonus|
+Ability | Description | Bonus
 :---|:---|:---
-|**Deadeye:** | Significantly increases the accuracy of Golden Gun.| Golden Gun gets +5 to hit instead of +2|
-|**Combustion:** | Killing enemies with Golden Gun causes them to explode after about one second. | The victim explodes, dealing 3d6 splash damage to all enemies within 5 feet.<br>Dexterity save at DC 17 for half damage. |
-|**Gunfighter:** | Reduces the cooldown of Golden Gun, allowing it to be used more often. | Golden Gun now consumes only 40 light from the Super pool.|
+**Deadeye:** | Significantly increases the accuracy of Golden Gun. | Attack bonus increases from +2 to +5
+**Combustion:** | Killing enemies with Golden Gun causes them to explode after about one second. | The victim explodes, dealing 3d6 splash damage to all enemies within 5 feet.<br>half damage with a DC 17 Dexterity save.
+**Gunfighter:** | Reduces the cooldown of Golden Gun, allowing it to be used more often. | Cost reduced to 40 light.
 
 #### Throwing Knife
 At 3rd Level, your melee ability becomes Throwing Knife.  It now deals Solar Damage and can strike at range (20/60).
