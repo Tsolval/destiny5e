@@ -51,10 +51,10 @@ Warrior-scholars of the Light, Warlocks devote themselves to understanding the T
 ## Starting Proficiencies
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
-**Armor:** Warlock Armor
-**Weapons:** All handguns (Hand Cannons, Scout Rifles, Pulse Rifles, Auto Rifles, Fusion Rifles, Sniper Rifles, Shotguns, Sidearms, Machine Guns, and Rocket Launchers), and Heavy Swords or Axes.
-**Tools:** None
-**Saving Throws:** Wisdom, Intelligence
+**Armor:** Light Armor<br>
+**Weapons:** All Primary, Special, and Heavy weapons<br>
+**Tools:** None<br>
+**Saving Throws:** Wisdom, Intelligence<br>
 **Skills:** Choose 2 from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Medicine, Nature, Perception, Performance, Persuasion, Sleight of Hand, and Stealth, Survival.
 
 ## Class Features
