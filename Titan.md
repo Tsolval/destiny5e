@@ -99,8 +99,8 @@ At 5th level, your Lift ability gains one of the following features.
 
 Ability | Description | Bonus
 ---|---|---
-**Increased Height:** | Upgrades Lift to travel to greater height. | Increases your potential jump height to (3 + strength modifier) * 3.
-**Increased Control:** | Upgrades Lift for better directional control while in the air. | You can now change direction up to 90 degrees in any direction once while in the middle of a jump.
+**Increased Height:** | Upgrades Lift to travel to greater height. | Increases your high jump to (3 + strength modifier) * 3.
+**Increased Control:** | Upgrades Lift for better directional control while in the air. | You can now change direction up to 90 degrees once while in the middle of a jump.
 **Catapult:** | Upgrades Lift to provide a strong initial burst of momentum. | When long jumping, you gain an additional 5 feet of movement after a jump.
 
 ### Light Pools
