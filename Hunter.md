@@ -57,15 +57,22 @@ You don't need advantage on the Attack roll if another enemy of the target is wi
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Hunter's table.
 
 ### Double Jump
-At level two, you gain the Double Jump ability which allows you to Jump again while still in the air.  This allows you to jump twice your normal jump distance in both length and height.
+At level two, you gain the Double Jump ability which allows you to make a dexterous second leap while still in the air.  This allows your long jump and high jump to cover twice your normal jump distance.
 
-At 5th level, your Double Jump ability gains one of three features based on your selected Hunter Archetype.  Nightstalkers and Gunslingers can choose between Increased Control, Increased Height, and Triple Jump.  Bladedancer's get to choose between Increased Control, Increased Height, and Blink.
-Ability|Description|Bonus
+#### Long Jump
+When you make a long jump with Double Jump, you can cover a number of feet equal to twice your Dexterity score (not modifier) if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half that distance.  Each foot you clear on the jump costs a foot of distance.
+
+#### High Jump
+When you make a high jump with Double Jump, you leap into the air a number of feet equal to (3 + dexterity modifier) * 2 if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half this distance.  Each foot you clear on the jump costs a foot of movement.
+
+At 5th level, your Double Jump ability gains one of three features based on your selected Hunter Archetype.  Nightstalkers and Gunslingers can choose between Increased Control, Increased Height, and Triple Jump.  Bladedancers get to choose between Increased Control, Increased Height, and Blink.
+
+Ability | Description | Bonus
 :---|:---|:---
-**Increased Height** | Upgrades Double Jump to travel to greater height. |This extends your high jump to allow you to jump three times the normal height.
-**Increased Control** | Upgrades Double Jump for better directional control while in the air.  |You can now change direction while in the middle of a jump.
-**Triple Jump** | Upgrades Double Jump to Triple Jump, allowing you to jump while in the air twice.  |This extends extends your jump distance to three times normal in both height and length.  Only Gunslingers and Nightstalkers may choose Triple Jump.
-**Blink** | Teleport a short distance. | Takes you three times your normal jump distance in any forward direction, including straight up.  Only Bladedancers may choose Blink.
+**Increased Height** | Upgrades Double Jump to travel to greater height. | Your high jump distance is tripled.
+**Increased Control** | Upgrades Double Jump for better directional control while in the air. | You can now change direction up to 90 degrees once while in the middle of a jump.
+**Triple Jump** | Upgrades Double Jump to Triple Jump, allowing you to jump while in the air twice. | You can now long and high jump up to triple the normal distance.
+**Blink** | Teleport a short distance. | You teleport up to your twice normal jump distance. You cannot blink through solid obstacles, but it can be used to avoid traps, difficult terrain, etc. 
 
 ### Light Pools
 At level 2, you gain access to three pools of light.  One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super.  All pools start at 0 light.  The melee pool has a maximum of 20 light points, the grenade pool max is 30, and the pool empowering your super maxes at 50 points. 
