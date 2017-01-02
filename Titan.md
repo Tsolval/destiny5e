@@ -138,7 +138,7 @@ Codex | Description | Benefit
 Starting at level 6, your can reroll a saving throw that you fail.  If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
 
 ### Second Wind
-At 6th level, you gain access to a limited well of stamina that you can draw on to protect yourself from harm.  On your turn, you can use a bonus action to regain hit points equal to 1d10 + your constitution modifier.  Once you use this feature, you must finish a short or long rest before you can use it again.
+At 6th level, you gain access to a limited well of stamina that you can draw on to protect yourself from harm.  On your turn, you can use a bonus action to regain hit points equal to 1d8 + your constitution modifier.  Once you use this feature, you must finish a short or long rest before you can use it again.
 
 ## Titan Archetypes
 ### [Striker](http://destiny-grimoire.info/#Card-307020)
