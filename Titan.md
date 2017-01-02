@@ -227,7 +227,7 @@ Feature | Description | Benefit
 :---|:---|:---
 **War Machine:** | While Force Barrier is active, all of your weapons reload and ready blindingly fast. | You may reload or switch weapons as a bonus action.
 **Gift of Light:** | When the shield created by Disintegrate is active, all of your melee kills generate Orbs of Light. | Share the wealth, Titan.
-**Unbreakable:** | Force Barrier continually recharges. | If your Force Barrier is about to expire or you have run out of the temporary hit points it grants you, you can use a bonus action to renew it once.  Remove any temporary hit points granted by the original Force Barrier, roll for new temp hp, and reset duration to 2 rounds.
+**Unbreakable:** | Force Barrier continually recharges. | You can use a bonus action to renew Force Barrier once during it's original duration.  Remove any temporary hit points granted by the original Force Barrier, roll for new temp hp, and reset duration to 2 rounds.
 
 #### Void Grenades
 At 3rd level, your grenade now does Void damage.
