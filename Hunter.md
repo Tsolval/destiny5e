@@ -77,7 +77,9 @@ Ability | Description | Bonus
 ### Light Pools
 At level 2, you gain access to three pools of Light. One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super Ability. All pools start at 0 Light. The Melee pool has a maximum of 20 Light points, the Grenade pool max is 30, and the pool empowering your Super Ability maxes at 50 points. During its round, Your ghost distills Light from the environment, enemies you've destroyed, and Orbs of Light you've encountered, and distributes it to your resource pools. See the section on Ghosts for more information.
 
-### Melee
+### Melee - [Stab](http://destiny-grimoire.info/#Card-301190)
+_With their finely tuned reflexes, Hunters are naturally gifted with knives. The make and shape of the perfect knife is a matter of endless debate._
+
 At level two, you gain access to a special light-enhanced, close-quarters, dagger-based melee attack. This melee consumes 20 Light from your Melee resource pool and upgrades a standard melee attack.  You can use this attack on any enemy within 5 feet to deal 1d6 damage.  Add your Dexterity modifier and Proficiency bonus to both the attack and damage rolls.
 
 At 5th level, your melee will gain a feature based on your chosen Archetype. See the archetype section for options.
