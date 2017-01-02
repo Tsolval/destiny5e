@@ -72,7 +72,7 @@ Ability | Description | Bonus
 **Increased Height** | Upgrades Double Jump to travel to greater height. | Increases your high jump to (3 + dexterity modifier) * 3.
 **Increased Control** | Upgrades Double Jump for better directional control while in the air. | You can now change direction up to 90 degrees once while in the middle of a jump.
 **Triple Jump** | Upgrades Double Jump to Triple Jump, allowing you to jump while in the air twice. | You can now long and high jump up to triple the normal distance.
-**Blink** | Teleport a short distance. | You teleport up to your twice normal jump distance. You cannot blink through solid obstacles, but it can be used to avoid traps, difficult terrain, etc. 
+**Blink** | Teleport a short distance. | You teleport up to your maximum Double Jump distance. You cannot blink through solid obstacles, and you have to be able to see where you are going, but you can Blink over traps, difficult terrain, etc.
 
 ### Light Pools
 At level 2, you gain access to three pools of light.  One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super.  All pools start at 0 light.  The melee pool has a maximum of 20 light points, the grenade pool max is 30, and the pool empowering your super maxes at 50 points. 
