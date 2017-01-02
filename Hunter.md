@@ -1,14 +1,14 @@
->She leaves the Sparrow and climbs a long way across spars of volcano rock and between vents of blue fire. Down below the Ishtar ruins spark with skirmish light but the guns seem as distant and brief as the constant starfall and the brooding crater high above. She is alone on the rock. She goes on with her head down so as to fight the sense that she is going to fall up off the world and burn like an inverse meteor.
-The message that brought her to this place had no sign but she could hear Cayde in it. Draksis in the Cinders it said. Is it true?
-And also: Remember your promise.
-At dawn she finds a sentry and kills it with her knife. Its throat bleeds gas. She takes its post and lays out her bullets one by one on the rock as if to make a count of all the years she has been waiting. Her rifle is near as long as she is tall. She lies down by her bullets and uses them to kill the other sentries one by one until at last they understand the thunder and the Shanks rise up angry from the Cinders below to seek her out.
-She leaves the rifle and walks across the naked obsidian into the swarm firing from the hip as she goes, each kick of the old revolver a word, Draksis, Draksis, Kell of Winter, Kell of hate, lord of the kingdom of her vendetta. Her jaw aches. She used to imagine biting out his throat with armored teeth.
-The stone smokes around her where the arc fire lashes it and the shrapnel guns throw up leaves of obsidian like glass butterflies. She shoots her bandoliers dry and a team of Vandals in glassy stealth leap up to rush her with knives but she raises her hand and burns them down with the golden gun, laughing, crying out Draksis, Draksis, I am come!
-She kills them all and takes the next ridge, high above the Cinders. She can see the blue-green pools and the cave mouths where the Vex lights dance. And there among them, gowned in smoke and ash, is the long shark shape of a Ketch, a Wintership, the Kell's ship, come down to nest.
-She could go down there now and finish this. But she made a promise.
-A Captain jumps her. She throws two knives into his armor and then staves his chest in with her own Ghost, wrapped up in her fist like a stone.
-"Tell the Vanguard," she says to her Ether-spattered fist. "Tell them Draksis is here."
-Her Ghost looks up at her in silence. When she makes no move to go down the cliff towards the ship it blinks once, in its own way, and makes a soft sound, like a sigh, like relief.
+>She leaves the Sparrow and climbs a long way across spars of volcano rock and between vents of blue fire. Down below the Ishtar ruins spark with skirmish light but the guns seem as distant and brief as the constant starfall and the brooding crater high above. She is alone on the rock. She goes on with her head down so as to fight the sense that she is going to fall up off the world and burn like an inverse meteor.<br>
+The message that brought her to this place had no sign but she could hear Cayde in it. Draksis in the Cinders it said. Is it true?<br>
+And also: Remember your promise.<br>
+At dawn she finds a sentry and kills it with her knife. Its throat bleeds gas. She takes its post and lays out her bullets one by one on the rock as if to make a count of all the years she has been waiting. Her rifle is near as long as she is tall. She lies down by her bullets and uses them to kill the other sentries one by one until at last they understand the thunder and the Shanks rise up angry from the Cinders below to seek her out.<br>
+She leaves the rifle and walks across the naked obsidian into the swarm firing from the hip as she goes, each kick of the old revolver a word, Draksis, Draksis, Kell of Winter, Kell of hate, lord of the kingdom of her vendetta. Her jaw aches. She used to imagine biting out his throat with armored teeth.<br>
+The stone smokes around her where the arc fire lashes it and the shrapnel guns throw up leaves of obsidian like glass butterflies. She shoots her bandoliers dry and a team of Vandals in glassy stealth leap up to rush her with knives but she raises her hand and burns them down with the golden gun, laughing, crying out Draksis, Draksis, I am come!<br>
+She kills them all and takes the next ridge, high above the Cinders. She can see the blue-green pools and the cave mouths where the Vex lights dance. And there among them, gowned in smoke and ash, is the long shark shape of a Ketch, a Wintership, the Kell's ship, come down to nest.<br>
+She could go down there now and finish this. But she made a promise.<br>
+A Captain jumps her. She throws two knives into his armor and then staves his chest in with her own Ghost, wrapped up in her fist like a stone.<br>
+"Tell the Vanguard," she says to her Ether-spattered fist. "Tell them Draksis is here."<br>
+Her Ghost looks up at her in silence. When she makes no move to go down the cliff towards the ship it blinks once, in its own way, and makes a soft sound, like a sigh, like relief.<br>
 [Ghost Fragment: Hunter](http://destiny-grimoire.info/#Card-101080)
 
 # [Hunter](http://destiny-grimoire.info/#Card-101020)
@@ -63,7 +63,6 @@ The ghost distills light from the environment, enemies you've destroyed, and Orb
 At level two, you gain the Double Jump ability which allows you to Jump again while still in the air.  This allows you to jump twice your normal jump distance in both length and height.
 
 At 5th level, your Double Jump ability gains one of three features based on your selected Hunter Archetype.  Nightstalkers and Gunslingers can choose between Increased Control, Increased Height, and Triple Jump.  Bladedancer's get to choose between Increased Control, Increased Height, and Blink.
-
 Ability|Description|Bonus
 :---|:---|:---
 **Increased Height** | Upgrades Double Jump to travel to greater height. |This extends your high jump to allow you to jump three times the normal height.
@@ -77,18 +76,15 @@ At level two, you gain access to a special light-enhanced, close-quarters, dagge
 At levels 3 and 5, your melee will be affected by your chosen Archetype.  See the archetype section for details.
 
 ### Grenade
-At level two, you gain access to a special light-powered grenade.  These grenades consume 30 light from your Grenade resource pool.  When you want to use a grenade, spend the light points and make an attack roll against the 5-foot square location you wish the grenade to land in (DC 10).  As a hunter, you add your dexterity modifier and proficiency bonus to the attack roll.  If you miss, the grenade will land in one of the surrounding squares, as determined by the GM.  The grenade will explode immediately, damaging creatures within 10 feet with Light.  Roll 3d6 for damage.  Any creature of darkness at the center of the blast takes this amount of damage.  Remove the highest roll die.  Any creature within 5 feet of the grenade will take this damage.  Remove the next highest die roll.  Any creature within 10 feet of the blast will take this much damage.  If the creature succeeds at a Dexterity save at DC 15, it will take half damage (round down).
+At level two, you gain access to a special light-powered grenade. These grenades consume 30 light from your Grenade resource pool. When you want to use a grenade, spend the light points and throw the grenade to any location within 60 feet.  The grenade will explode immediately, doing 3d6 Light damage to all enemies within 10 feet.  If the creature succeeds at a Dexterity save at DC 15, it will take half damage (round down).
 
-For example:  A level 2 hunter decides to throw her grenade at a group of Fallen Dregs menacing her and her fireteam.  She makes an attack roll and adds her dexterity modifier (+2) and her proficiency modifier (+2).  She rolls a d20 and it comes up 10.  10+2+2 is 14, which is a hit.  The grenade lands on the targeted space, which is occupied by an enemy, and there are two other enemies in the blast radius.  The GM rolls each target's Dexterity save.  The hunter rolls 3d6 and gets a 6, a 4, and a 1.  The creature at the center of the blast failed his Dexterity save and therefore takes 6+4+1, or 11 damage.  The creature within 5 feet of the blast succeeds at its save and therefore takes &lfloor;(4+1)/2&rfloor; or 2 damage.  The creature at the edge of the blast radius takes 1 damage.
-
-At 3rd and 5th level, your grenade is affected by your chosen Archetype.  See the archetype section for details.
+At 3rd and 5th level, your grenade is affected by your chosen Archetype. See the archetype section for details.
 
 ### Hunter Archetype & Super Ability
 At level 3, you choose one of the available Hunter Archetypes, see below, and gain the ability to use your light via an super ability as determined by your chosen Hunter Archetype.  This ability consumes 50 light from your Super resource pool.
 
 ### Hunter Paths
 At level 4, you begin walking one of these Hunter's Paths.  Choose one and gain its benefits.
-
 Path | Description | Bonus
 :---|:---|:---
 **Path Forgotten:** |Training focused on toughness and speed. | Add 5 to your movement rate and 1 to your AC.
@@ -97,7 +93,6 @@ Path | Description | Bonus
 
 ### Hunter Ways
 At level 4, you begin following one of these Hunter's Ways.  Choose one and gain its benefits.
-
 Way | Description | Bonus
 :---|:---|:---
 **Way of the Drifter:** | Training focused on all attributes. | Add 1 to your AC, 5 to your movement rate, and reduce your healing cooldown by 1.
@@ -121,7 +116,6 @@ At level 3, you can use your Golden Gun super ability to summon a flaming hand c
 Golden Gun has a range of 30/90 and does 3d10 damage.
 
 At level 8, you can choose one of the following additional features for your Golden Gun.
-
 |Ability | Description|Bonus|
 :---|:---|:---
 |**Deadeye:** | Significantly increases the accuracy of Golden Gun.| Golden Gun gets +5 to hit instead of +2|
@@ -131,7 +125,6 @@ At level 8, you can choose one of the following additional features for your Gol
 #### Throwing Knife
 At 3rd Level, your melee ability becomes Throwing Knife.  It now deals Solar Damage and can strike at range (20/60).
 At 5th level, choose one of the following features to add to your Throwing Knife.
-
 Ability | Description | Bonus 
 :---|:---|:---
 **Circle of Life:** |Getting a precision kill with Throwing Knife reduces Golden Gun's cooldown.| Add 1d6 light to the Super pool 
@@ -141,7 +134,6 @@ Ability | Description | Bonus
 #### Solar Grenades
 At 3rd level, your grenade now does Solar damage.
 At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
-
 Ability | Description | Bonus
 :---|:---|:---
 **Incendiary Grenade:** | An explosive grenade that sets enemies on fire, causing additional damage to them. | Deals 1d4 damage each round for 2 rounds to any enemy caught in the blast 
@@ -150,7 +142,6 @@ Ability | Description | Bonus
 
 #### Additional Features
 At level 7, you choose one of the following abilities.
-
 Ability | Description | Bonus
 :---|:---|:---
 **Scavenger:** | Picking up ammo reduces the cooldown of your grenade and Throwing Knife. | Each box of ammo you pick up grants 1d4 light
@@ -158,7 +149,6 @@ Ability | Description | Bonus
 **Gunslinger's Trance:** | Precision kills increase weapon stability. Stacks up to 3 times. | If you make a kill with a critical hit, gain +1 to all attack rolls for 3 rounds.
 
 And at 9th level, you can add one of the following abilities.
-
 Ability | Description | Bonus
 :---|:---|:---
 **Chain of Woe:** | Precision kills allow follow up attacks. Stacks up to 3 times. | If you kill a target with a critical hit, attack another target.  You can attack (and kill) a maximum of 4 targets a round with this ability
@@ -177,7 +167,6 @@ Set aside your weapons and lose yourself in the blade trance. Arc Light galvaniz
 At level 3, you can use your Arc Blade super ability to begin a dance of death which lasts for 30 seconds (5 rounds).  You exchange any guns you are carrying for a pair of daggers which become electrified.  You charge toward the enemy attacking them with your blades.  Roll to melee as per normal.  If you hit, the daggers do 2d8 damage plus dexterity and proficiency bonuses.  You are dual wielding, so you may attack twice per round.  
 
 At level 8, you can choose one of the following additional features for your Super ability.
-
 Ability | Description | Bonus
 :---|:---|:---
 **Showstopper:** | Damage nearby enemies. | Apply 3d8 damage to every enemy within 10 feet of you.
@@ -187,7 +176,6 @@ Ability | Description | Bonus
 #### Blink Strike
 At 3rd Level, your melee ability becomes Blink Strike.  Teleport to a target within 10 feet of you and gain advantage on the attack as if it were a sneak attack.
 At 5th level, choose one of the following features to add to your Blink Strike.
-
 Ability | Description | Bonus 
 :---|:---|:---
 **Backstab:** | Hitting an enemy from behind with Blink Strike causes significantly more damage.| If you attack a creature's flank or rear, you do an additional 1d6 damage.
@@ -197,7 +185,6 @@ Ability | Description | Bonus
 #### Arc Grenades
 At 3rd level, your grenade now does Solar damage.
 At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
-
 Ability | Description | Bonus
 :---|:---|:---
 **Flux Grenade:** | An explosive grenade which deals additional damage when attached to enemies. | If your roll to hit meets or exceeds the AC of an enemy standing in the targeted area, the grenade sticks to this enemy and does an additional 2d6 damage to it.
@@ -206,7 +193,6 @@ Ability | Description | Bonus
 
 #### Additional Features
 At level 7, you choose one of the following abilities.
-
 Ability | Description | Bonus
 :---|:---|:---
 **Fleet Footed:** | Increases maximum sprint speed. | Your movement is increased by 5.
@@ -214,7 +200,6 @@ Ability | Description | Bonus
 **Shadowjack:** | Increases the duration of invisibility effects. | The durations of your Arc Powered stealth abilities are increased to 3 rounds.
 
 And at 9th level, you can add one of the following abilities.
-
 Ability | Description | Bonus
 :---|:---|:---
 **Encore:** | Killing an enemy with Arc Blade extends its duration. | Killing 2 enemies extends your Arc Blade by 1 round.
@@ -242,7 +227,6 @@ Tethered enemies move as if they are in difficult terrain and may not use specia
 The tether itself has hit points equivalent to twice its creators maximum hit points and can thus be directly dispelled via damage.
 
 At level 8, you can choose one of the following additional features for your Super ability.
-
 Ability | Description | Bonus
 :---|:---|:---
 **Blood Bound:** | Tethered enemies explode when killed. Damage to tethered enemies is shared to all. | When a tethered enemy takes damage, apply the same amount of damage to every other tethered enemy.
@@ -252,7 +236,6 @@ Ability | Description | Bonus
 #### Smoke
 At 3rd Level, your melee ability becomes Smoke.  Throw a smoke bomb to slow and disorient those within its cloud.  Smoke has an area of effect of 10 feet, similar to a grenade.  It persists for 2 rounds and becomes difficult terrain for all enemies passing through it.  Enemies in smoke are disoriented and gain disadvantage as if they were poisoned.
 At 5th level, choose one of the following features to add to your Smoke.
-
 Ability | Description | Bonus 
 :---|:---|:---
 **Envenomed:** | Adds a toxin that damages enemies within the smoke. | Toxin deals 1d6 damage to enemies within the smoke cloud.
@@ -262,7 +245,6 @@ Ability | Description | Bonus
 #### Void Grenades
 At 3rd level, your grenade now does Solar damage.
 At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
-
 Ability | Description | Bonus
 :---|:---|:---
 **Spike Grenade:** | A grenade that attaches to any surface and emits a torrent of damaging void light. | The grenade now does damage in a conical area 15 feet long and 10 feet wide. The grenade lasts for 18 seconds (3 rounds), but no longer explodes. Instead, any enemy inside or passing through the cone created by the grenade takes 2d6 damage.
@@ -271,7 +253,6 @@ Ability | Description | Bonus
 
 #### Additional Features
 At level 7, you choose one of the following abilities.
-
 Ability | Description | Bonus
 :---|:---|:---
 **Courage of the Pack:** | Killing tethered targets increases Recovery and Armor for you and nearby allies. Stacks up to 5 times. | Each stack reduces recovery by one and increases AC by 1.  Effect lasts 3 rounds.
@@ -279,7 +260,6 @@ Ability | Description | Bonus
 **Lockdown:** | Grenade and Smoke effects last twice as long, allowing strong territory control.
 
 And at 9th level, you can add one of the following abilities.
-
 Ability | Description | Bonus
 :---|:---|:---
 **Keen Scout:** | Sprint and Sneak faster, gain Enhanced Tracker, and ability to Mark targets you damage. | Increase your movement speed by 5 feet.  Targets you damage are marked, granting +1 for ally rolls to hit.  Treasure and materials show up on your HUD, though how to get to them may still be an issue.
