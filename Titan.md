@@ -101,11 +101,10 @@ Ability | Description | Bonus
 ---|---|---
 **Increased Height:** | Upgrades Lift to travel to greater height. | Increases your high jump to (3 + strength modifier) * 3.
 **Increased Control:** | Upgrades Lift for better directional control while in the air. | You can now change direction up to 90 degrees once while in the middle of a jump.
-**Catapult:** | Upgrades Lift to provide a strong initial burst of momentum. | When long jumping, you gain an additional 5 feet of movement after a jump.
+**Catapult:** | Upgrades Lift to provide a strong initial burst of momentum. | Your long jump takes you 10 feet further over the non-upgraded Glide.
 
 ### Light Pools
-At level 2, you gain access to three pools of light.  One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super.  All pools start at 0 light.  The melee pool has a maximum of 20 light points, the grenade pool max is 30, and the pool empowering your super maxes at 50 points. 
-At the end of each player's round their ghost gets a round.  The ghost distills 1d4 light from the environment, 1d6 light from any Orbs of Light within 5 feet of the player's path, and 1d4, 1d6, 1d8, and 1d10 light from any normal, major, elite, and boss enemy type, respectively, that you destroyed during the round.  Player's choose how to distribute the collected light between their resource pools.  They may split it equally between all three resource pools or deposit all of the generated light in a single resource pool or anything in between.
+At level 2, you gain access to three pools of Light. One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super Ability. All pools start at 0 Light. The Melee pool has a maximum of 20 Light points, the Grenade pool max is 30, and the pool empowering your Super Ability maxes at 50 points. During its round, Your ghost distills Light from the environment, enemies you've destroyed, and Orbs of Light you've encountered, and distributes it to your resource pools. See the section on Ghosts for more information.
 
 ### Melee
 At level two, you gain access to a special light-enhanced, close-quarters, hand-to-hand melee attack.  When you make a normal melee attack, you roll d20 and add your strength modifier and proficiency bonus to attack.  Damage is 1 + your strength modifier.  If you consume 20 light from your Melee resource pool to upgrade this attack, you can increase the damage to 1d6 + your strength modifier + your proficiency bonus.
