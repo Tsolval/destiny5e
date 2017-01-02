@@ -65,7 +65,7 @@ You have spent many hours researching the Travelers gift and have gained a few i
 Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures.  You can telepathically speak to any creature you can see within 30 feet of you.  You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
 
 ### Glide
-At level two, you gain the Glide ability which allows you to use your light to slow your fall.  This can extend your long jump and high jump to twice your normal jump distance and also prevents damage from a fall much as the spell Feather Fall.  Depending on how this is used, this can extend either your long jump or your high jump as described below.
+At level two, you gain the Glide ability which allows you to use your light to neutralize your own gravity.  This can extend your long jump and high jump to twice your normal jump distance and also prevents damage from falling.  Depending on how it is used, Glide can extend either your long jump or your high jump as described below.
 
 #### Long Jump
 When you make a long jump with Glide, you can cover a number of feet up to twice your Wisdom score (not modifier) if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half that distance.  Each foot you clear on the jump costs a foot of distance.
@@ -77,10 +77,10 @@ At 5th level, your Glide ability gains one of the following features based on yo
 
 Ability | Description | Bonus
 ---|---|---
-Focused Control: | Upgrades Glide for better directional control while in mid-air. | You can now change direction up to 90 degrees in any direction once while in the middle of a jump.
-Focused Burst: | Upgrades Glide to provide an initial burst of speed. | You cross the distance faster and gain an additional 5 feet of movement after a jump.
-Balanced Glide: | Upgrades Glide to provide bonuses to both speed and control. | You cross the distance faster and gain an additional 5 feet of movement after a jump and you may alter your jump direction up to 45 degrees in any direction once while in the air.
-Blink: | Teleport a short distance. | You teleport up to your maximum jump distance.  You cannot blink through solid obstacles, but it can be used to avoid traps, difficult terrain, etc.
+Focused Control: | Upgrades Glide for better directional control while in mid-air. | You can now change direction up to 90 degrees once while in the middle of a jump.
+Focused Burst: | Upgrades Glide to provide an initial burst of speed. | Your long jump takes you 10 feet further and your high jump takes you 5 feet higher over the non-upgraded Glide.
+Balanced Glide: | Upgrades Glide to provide bonuses to both speed and control. | Your long jump and high jump take you 5 feet further than non-upgraded Glide and you may alter your jump direction up to 45 degrees in any direction once while in the air.
+Blink: | Teleport a short distance. | You teleport up to your maximum Glide distance.  You cannot blink through solid obstacles, and you have to be able to see where you are going, but you can Blink over traps, difficult terrain, etc.
 
 ### Light Pools
 At level 2, you gain access to three pools of light. One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super. All pools start at 0 light. The melee pool has a maximum of 20 light points, the grenade pool max is 30, and the pool empowering your super maxes at 50 points. The ghost distills light from the environment, enemies you've destroyed, and Orbs of Light during the ghost round. See the section on Ghosts for more information.
