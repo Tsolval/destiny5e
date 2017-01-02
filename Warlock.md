@@ -219,12 +219,6 @@ Ability | Description | Bonus
 **Solar Wind:** | Reduces the cooldown of Scorch. Hitting an enemy with Scorch knocks them back. | The cost of Scorch is reduced to 15 light.  Enemies hit with Scorch are knocked 10 feet away from you.
 **Brimstone:** | Reduces the cooldown of Scorch. Killing enemies with Scorch causes them to explode. | The cost of Scorch is reduced to 15 light.  Exploding enemies deal 3d6 damage to all enemies within 5 feet.  A DC 15 Dex save reduces damage by half.
 
-Ability | Description | Bonus 
-:---|:---|:---
-**Circle of Life:** |Getting a precision kill with Throwing Knife reduces Golden Gun's cooldown.| Add 1d6 light to the Super pool 
-**Incendiary Blade:** |Throwing Knife sets enemies on fire, dealing additional damage over time.| Deals 1d4 damage each round for 2 rounds.
-**Knife Juggler:** |Precision kills with Throwing Knife immediately resets its cooldown.| If you got a critical hit, add 20 light back to the Melee pool to reset the Throwing Knife.
-
 #### Solar Grenades
 At 3rd level, your grenade now does Solar damage.
 
@@ -262,6 +256,52 @@ You must feel it take hold, let it flow through, but not consume you. You are a 
 You are a weapon.
 #### Super Ability - [Storm Trance](http://destiny-grimoire.info/#Card-700120)
 Focus your Light to call forth a powerful Arc storm, and siphon it, channeling lightning through your fingertips to send it surging between your targets. A Warlock in Stormtrance is exercising such unbreakable focus that the Arc energy they summon draws them off the ground, the air humming and crackling around them. Like lightning you bend your path forward through the air, striking down anything too slow escape the storm.
+
+At level 3, you summon a thunderstorm and channel lightning into your enemies like Emperor Palpatine for 30 seconds (5 rounds). Point your hand at an enemy within 15 feet of you to cause the lightning to stream into them, doing 3d8 damage per hand, per round.  Lightning can chain to another enemy within 10 feet of your target dealing 1d8 damage.
+
+At level 8, you can choose one of the following additional features for Radiance.
+
+Ability | Description | Bonus
+:---|:---|:---
+**Landfall:** | On casting Stormtrance, fire a bolt of lightning into the ground, creating a devastating shockwave under you. | Shockwave deals 5d6 damage in a 10 foot radius, and blinds enemies.
+**Superconductor:** | Doubles your Stormtrance lightning's chaining capabilities. | Chained lightning can now spread 15 feet from your target, deals 2d8 damage, and can chain a second time.
+**Ionic Blink:** | Teleport during Stormtrance. | This teleport is equivalent to blink.
+
 #### Thunderstrike
+At 3rd Level, your melee ability becomes Thunderstrike.  It now deals Arc Damage and does 1d8 damage.
+
+At 5th level, choose one of the following features to add to your Scorch.
+
+Ability | Description | Bonus 
+:---|:---|:---
+**Chain Lightning:** | Your Thunderstrike chains from the struck target to another nearby enemy. | An enemy within 10 feet is struck by lightning and takes 1d8 damage.
+**Amplitude:** | Your Thunderstrike has a greater range. | Thunderstrike can now hit enemies 10 feet from you.
+**Rising Storm:** | Hits with Thunderstrike charge your Super Ability and Melee energy. | Hits add 1d8 to your Super resource pool and 1d6 to your Melee resource pool.
+
 #### Arc Grenades
+At 3rd level, your grenade now does Arc damage.
+
+At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
+
+Ability | Description | Bonus
+:---|:---|:---
+**Pulse&nbsp;Grenade:** | A grenade that periodically damages enemies inside its explosive radius. | Instead of exploding, your grenade remains for 18 seconds (3 rounds) doing 2d6 damage each round to enemies within its blast radius.
+**Storm&nbsp;Grenade:** | This grenade calls down a localized lightning storm. | Instead of exploding, this lightning strikes twice.  It deals 2d6 each round for 2 rounds.
+**Arcbolt&nbsp;Grenade:** | A grenade that chains bolts of lightning to nearby enemies. | The grenade no longer explodes, but its area of effect is increased to 15 feet. When the grenade goes off, each target in the area is hit by a bolt of lightning which then chains to a creature within 10 feet of that target. Each target hit by a lightning bolt takes 1d8 damage.
+
 #### Additional Features
+At level 7, you choose one of the following abilities.
+
+Ability | Description | Bonus
+:---|:---|:---
+**Pulse Wave:** | When critically wounded, trigger a Pulsewave that boosts speed for you and your allies. | When your health drops below half your maximum, you and any allies within 30 feet of you gain 10 Movement for 2 rounds.
+**Feedback:** | Incoming melee attacks fully recharge and intensify your Thunderstrike. | If you are hit by a melee attack, add the cost of a melee to your Melee resource pool.
+**Transcendence:** | When cast with full grenade and melee energy, Stormtrance restores your health to full and drains slower. | Your health is reset to maximum and Stormtrance now lasts for 6 rounds.
+
+And at 9th level, you can add one of the following abilities.
+
+Ability | Description | Bonus
+:---|:---|:---
+**Electrostatic Mind:** | Stormtrance charges faster when allies are near. When Stormtrance is active, nearby enemies take damage. | You generate an extra 1d6 Light for Stormtrance each round.  Stormtrance deals 1d6 damage to any enemy within 10 feet of you.
+**Arc Web:** | Enemies damaged by your grenades chain deadly lightning to other nearby enemies. | Enemies within 10 feet of an enemy that was damaged by your grenade are struck by lightning and take 1d8 damage.
+**Perpetual Charge:** | Getting a grenade kill recharges your melee. Getting a melee kill recharges your grenade. | Add the cost of the grenade or melee to the appropriate resource pool.
