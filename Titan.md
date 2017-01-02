@@ -116,8 +116,8 @@ At level two, you gain access to a special light-powered grenade. These grenades
 
 At 3rd and 5th level, your grenade is affected by your chosen Archetype. See the archetype section for details.
 
-### Titan Archetype & Super Ability
-At level 3, you choose one of the available Titan Archetypes, see below, and gain the ability to use your light via an ultimate ability as determined by your chosen Titan Archetype.  This ability consumes 50 light from your Super resource pool.
+### Titan Archetype
+At level 3, you choose one of the available Archetypes, see below, and gain your chosen Archetype's Super Ability.  This ability consumes 50 light from your Super resource pool.
 
 ### Titan Codex
 At level 4, you gain access to two of the following Codices, one of Codex I-III, and one from Codex IV-VI.  
