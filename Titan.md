@@ -98,8 +98,8 @@ When you make a high jump with Lift, you leap into the air a number of feet equa
 
 At 5th level, your Lift ability gains one of the following features.
 
-Ability | Description | Bonus
----|---|---
+Ability | Description | Benefit
+:---|:---|:---
 **Increased Height:** | Upgrades Lift to travel to greater height. | Increases your high jump to (3 + strength modifier) * 3.
 **Increased Control:** | Upgrades Lift for better directional control while in the air. | You can now change direction up to 90 degrees once while in the middle of a jump.
 **Catapult:** | Upgrades Lift to provide a strong initial burst of momentum. | Your long jump takes you 10 feet further over the non-upgraded Glide.
@@ -150,54 +150,54 @@ Striker tactics depend on shock and disciplined aggression. They must awe and sc
 #### Super Ability - [Fist of Havoc](http://destiny-grimoire.info/#Card-301120)
 Leap forward and smash the ground, obliterating everything nearby. You will be a thunderbolt - but use your fury carefully. If there are survivors, you will surely draw their wrath.
 
-At level 3, you can use your Fist of Havoc super ability.  You leap toward a location within your movement range and strike the ground with your fist, releasing a blast of Light in a 15 foot radius from the titan.  All enemies within the blast area take Arc damage to the tune of 5d10 + strength modifier + proficiency modifier, or half that amount if they pass a dexterity saving throw against a DC of 17.  For instance, a Hive Wizard caught in the radius of a Level 3 Titan's Fist of Havoc rolls a 16 on his saving throw. The titan rolls 5d10 and gets 1, 8, 3, 2 and 2.  The titan's strength and proficiency mods are both 2, so the Wizard takes 20 damage, and dies of its wounds.
+At level 3, you can spend 50 Light from your Super Ability pool to launch your Fist of Havoc, leaping toward a location within your movement range and striking the ground with your fist, releasing a blast of Light in a 15 foot radius from the titan.  All enemies within the blast area take Arc damage to the tune of 5d10 + strength modifier + proficiency modifier, or half that amount if they pass a dexterity saving throw against a DC of 17.
 
 At level 8, you can choose one of the following additional features for your Fist of Havoc.
 
-Ability | Description
----|---
-**Death From Above:** | After jumping, Fist of Havoc can be aimed at enemies below.  This ability allows you to gain a little extra distance on your strike by allowing you to add half your jump distance to the distance you can travel to hit the target.
-**Shockwave:** | Fist of Havoc unleases a wave of devastating energy which travels along the ground.  This wave of energy travels in a straight line in front of you for 30 feet, dealing 3d10 damage to enemies in its path.
-**Aftermath:** | Fist of Havoc leaves a damage-dealing field in its wake.  This field has the same effect area as the initial strike, lasts for 30 seconds (5 rounds) and deals up to 1d10 damage per round to any enemy creature that touches the field that round.
+Ability | Description | Benefit
+:---|:---|:---
+**Death From Above:** | After jumping, Fist of Havoc can be aimed at enemies below. | This ability allows you to gain a little extra distance on your strike by allowing you to add half your jump distance to the distance you can travel to hit the target.
+**Shockwave:** | Fist of Havoc unleashes a wave of devastating energy which travels along the ground. | This wave of energy travels in a straight line in front of you for 30 feet, dealing 3d10 damage to enemies in its path.
+**Aftermath:** | Fist of Havoc leaves a damage-dealing field in its wake. | This field has the same effect area as the initial strike, lasts for 5 rounds and deals up to 1d10 damage per round to any enemy creature that touches the field that round.
 
 #### Storm Fist
 At 3rd Level, your melee ability becomes Storm Fist.  It now deals Arc Damage and damage is increased from 1d6 to 1d10.
 
 At 5th level, choose one of the following features to add to your Storm Fist.
 
-Ability | Description
----|---
-**Overload:** | Hits with Storm Fist have a chance to immediately reset its cooldown.  Roll a die.  If the result is even, then set the Grenade resource pool back to 20 light so that Storm Fist can be used again.
-**Discharge:** | Hits with Storm Fist deal area of effect damage around the target.  Enemies within 5 feet of the target will take 1d6 splash damage.
-**Amplify:** | Kills with Storm Fist significantly reduce the cooldown of Fist of Havoc.  Each Storm Fist kill adds 1d10 light points to Fist of Havoc's resource pool.  Fist of Havoc's resource pool cannot exceed the maxiumum of 50 light.
+Ability | Description | Benefit
+:---|:---|:---
+**Overload:** | Hits with Storm Fist have a chance to immediately reset its cooldown. | Roll a die.  If the result is even, then set the Grenade resource pool back to 20 light so that Storm Fist can be used again.
+**Discharge:** | Hits with Storm Fist deal area of effect damage around the target. | Enemies within 5 feet of the target will take 1d6 splash damage.
+**Amplify:** | Kills with Storm Fist significantly reduce the cooldown of Fist of Havoc. | Each Storm Fist kill adds 1d10 light points to Fist of Havoc's resource pool.  Fist of Havoc's resource pool cannot exceed the maxiumum of 50 light.
 
 #### Arc Grenades
 At 3rd level, your grenade now does Arc damage.
 
 At 5th level, you may select one of the following grenade types.  Your grenade ability will be modified as described.
 
-Ability | Description
----|---
-**Flashbang Grenade:** | Your grenade also blinds enemies for 1 round.
-**Pulse Grenade:** | Instead of exploding, your grenade remains for 18 seconds (3 rounds) doing 2d6 damage each round to enemies within its blast radius.
-**Lightning Grenade:** | A grenade that sticks to any surface, periodically emitting bolts of lightning.  The grenade now has a 15 foot range and lasts for 18 seconds (3 rounds), but no longer explodes.  Every round, roll a DC15 constitution save for each creature in the grenade's sphere of influence.  If they fail, they are struck by a bolt from the grenade and take 2d6 damage.
+Ability | Description | Benefit
+:---|:---|:---
+**Flashbang Grenade:** | An explosive grenade that disorients the enemies it damages. | Your grenade also blinds enemies for 1 round.
+**Pulse Grenade:** | A grenade that periodically damages enemies inside its explosive radius. | Instead of exploding, your grenade remains for 3 rounds and does 2d6 damage each round to enemies within its blast radius.
+**Lightning Grenade:** | A grenade that sticks to any surface, periodically emitting bolts of lightning. | The grenade now has a 15 foot range and lasts for 3 rounds, but no longer explodes.  Every round, roll a DC15 constitution save for each creature in the grenade's sphere of influence.  If they fail, they are struck by a bolt from the grenade and take 2d6 damage.
 
 #### Additional Features
 At level 7, you choose one of the following features for your Titan.
 
-Ability | Description
----|---
-**Headstrong:** | Sprinting increases the leap distance of Fist of Havoc.  If you sprint before you smash, you can add half your jump distance to the distance you can travel to hit the target.  Note that if you stack this with Death From Above, you are adding your entire jump distance to the distance you can travel.
-**Aftershocks:** | Increases the duration of the Pulse Grenade, Lightning Grenade, and Aftermath.  Pulse and Lightning grenades now last 4 rounds.  Aftermath now lasts 6 rounds.
-**Transfusion:** | Kills with Storm Fist or Shoulder Charge immediately trigger health regeneration.  You gain health as indicated in the health regeneration rules.
+Ability | Description | Benefit
+:---|:---|:---
+**Headstrong:** | Sprinting increases the leap distance of Fist of Havoc. | If you sprint before you smash, you can add half your jump distance to the distance you can travel to hit the target.  Note that if you stack this with Death From Above, you are adding your entire jump distance to the distance you can travel.
+**Aftershocks:** | Increases the duration of the Pulse Grenade, Lightning Grenade, and Aftermath. | Pulse and Lightning grenades now last 4 rounds.  Aftermath now lasts 6 rounds.
+**Transfusion:** | Kills with Storm Fist or Shoulder Charge immediately trigger health regeneration. | Your ghost will begin your recovery this round, no matter how much recovery time remains.
 
 And at 9th level, you can add one of the following features as well.
 
-Ability | Description
----|---
-**Unstoppable:** | You are harder to kill while using Fist of Havoc.  While you are charging in for your Fist of Havoc, gain a number of temporary hit points equal to your hit point maximum.  These points expire at the beginning of your next turn.
-**Shoulder Charge:** | After sprinting for a short time, unleash a devastating melee attack.  You must sprint for at least 10 feet and then Make a melee attack against the target, as with Storm Fist, to Shoulder charge into an opponent.  This attack does 2d6, plus your strength modifier, plus your proficiency modifier, in damage.
-**Juggernaut:** | After sprinting for a short time, gain a protective shield.  You must sprint for at least 10 feet.  A shield appears in front of you which has a number of hit points equal to your current hit point maximum.  Note that this shield doesn't protect your flanks or rear.
+Ability | Description | Benefit
+:---|:---|:---
+**Unstoppable:** | You are harder to kill while using Fist of Havoc. | While you are charging in for your Fist of Havoc, gain a number of temporary hit points equal to your hit point maximum.  These points expire at the beginning of your next turn.
+**Shoulder Charge:** | After sprinting for a short time, unleash a devastating melee attack. | You must sprint for at least 10 feet and then Make a melee attack against the target, as with Storm Fist, to Shoulder charge into an opponent.  This attack does 2d6, plus your strength modifier, plus your proficiency modifier, in damage.
+**Juggernaut:** | After sprinting for a short time, gain a protective shield. | You must sprint for at least 10 feet.  A shield appears in front of you which has a number of hit points equal to your current hit point maximum.  Note that this shield doesn't protect your flanks or rear.
 
 ### [Defender](http://destiny-grimoire.info/#Card-307030)
 _"The wall against which the Darkness breaks."_
@@ -208,54 +208,54 @@ Armed with unflinching conviction and an armory of Void techniques, Defenders bl
 #### Super Ability - [Ward of Dawn](http://destiny-grimoire.info/#Card-301130)
 Open a pocket in the universe, an impregnable fortress for you and your allies. The mighty Ward allows Guardians to hold key points and gather their strength in the face of overwhelming opposition.  
 
-At level 3, you can use your Ward of Dawn ability to create a bubble with a 15 feet radius from the titan which prevents ranged attacks from penetrating.  The bubble lasts for 30 seconds (5 rounds) or until it is destroyed and has 100 hitpoints for each titan level.  So, at level 3, when you get the ability, it has 300 hp.  At level 4, it has 400 hp, etc.  Enemies are not prevented from entering your bubble.
+At level 3, you can use your Ward of Dawn ability to create a bubble with a 15 feet radius from the titan which prevents ranged attacks from penetrating.  The bubble lasts for 5 rounds or until destroyed and has 100 hitpoints for each titan level.  So, at level 3, when you get the ability, it has 300 hp.  At level 4, it has 400 hp, etc.  Enemies are not prevented from entering your bubble.
 
 At level 8, you can choose one of the following additional features for your Ward of Dawn.
 
-Ability | Description
----|---
-**Armor of Light:** | While inside Ward of Dawn, you and your allies gain significant damage resistance.  Allies inside your Ward of Dawn get a number of temporary hit points equivalent to their current hit point maximum, and a +2 to their AC.
-**Blessing of Light:** | Passing through Ward of Dawn grants you and your allies a shield that lasts 12 seconds (2 rounds).  This shield grants a number of temporary hit points equal to the character's hit point maximum.
-**Weapons of Light:** | Passing through Ward of Dawn grants you and your allies an increase to weapon damage for 12 seconds (2 rounds).  Characters with this bonus will roll an additional 1d8 for damage.
+Ability | Description | Benefit
+:---|:---|:---
+**Armor of Light:** | While inside Ward of Dawn, you and your allies gain significant damage resistance. | Allies inside your Ward of Dawn get a number of temporary hit points equivalent to their current hit point maximum, and a +2 to their AC.  These bonuses disappear when an ally leaves the Ward, when the Ward is destroyed, or its duration ends.
+**Blessing of Light:** | Passing through Ward of Dawn grants you and your allies a temporary shield. | This shield grants a number of temporary hit points equal to the character's hit point maximum for 2 rounds.
+Weapons of Light:** | Passing through Ward of Dawn grants you and your allies an increase to weapon damage. |  Characters with this bonus will roll an additional 1d8 for damage for 2 rounds.
 
 #### Disintegrate
 At 3rd level, your melee ability becomes Disintegrate.  It now deals Void damage.  When you strike an enemy with Disintegrate, you gain Force Barrier, which grants you 1d8(5) temporary hit points for 2 rounds.
 
 At 5th level, choose one of the following features to add to your Disintegrate.
 
-Ability | Description
----|---
-**War Machine:** | While Force Barrier is active, all of your weapons reload and ready blindingly fast.  Readying becomes a reaction and Reloading becomes a bonus action.
-**Gift of Light:** | When the shield created by Disintegrate is active, all of your melee kills generate Orbs of Light.
-**Unbreakable:** | Force Barrier continually recharges.  If your Force Barrier is about to expire or you have run out of the temporary hit points it grants you, you can use a bonus action to renew it once.  Remove any temporary hit points granted by the original Force Barrier, roll for new temp hp, and reset duration to 2 rounds.
+Ability | Description | Benefit
+:---|:---|:---
+**War Machine:** | While Force Barrier is active, all of your weapons reload and ready blindingly fast. | You may reload or switch weapons as a bonus action.
+**Gift of Light:** | When the shield created by Disintegrate is active, all of your melee kills generate Orbs of Light. | Share the wealth, Titan.
+**Unbreakable:** | Force Barrier continually recharges. | If your Force Barrier is about to expire or you have run out of the temporary hit points it grants you, you can use a bonus action to renew it once.  Remove any temporary hit points granted by the original Force Barrier, roll for new temp hp, and reset duration to 2 rounds.
 
 #### Void Grenades
 At 3rd level, your grenade now does Void damage.
 
 At 5th level, you may select one of the following grenade types.  Your grenade ability will be modified as described.
 
-Ability | Description
----|---
-**Magnetic Grenade:** | A grenade that attaches to enemies and explodes twice.  Throw this grenade as per normal.  If there is an enemy within 5 feet of where the grenade would land, it will become stuck to the enemy.  This grenade will last 2 rounds, dealing explosive damage as per a normal grenade and doing an additional 1d6 to the creature it is stuck to.
-**Spike Grenade:** | A grenade that attaches to any surface and emits a torrent of damaging void light.  The grenade now does damage in a conical area 15 feet long and 10 feet wide.  The grenade lasts for 18 seconds (3 rounds), but no longer explodes.  Instead, any enemy inside or passing through the cone created by the grenade takes 2d6 damage.
-**Suppressor Grenade:** | An explosive grenade that prevents enemies from using abilities for a short time.  An enemy damaged by this grenade cannot use any ability that requires light for 3 rounds.
+Ability | Description | Benefit
+:---|:---|:---
+**Magnetic Grenade:** | A grenade that attaches to enemies and explodes twice. | This grenade will automatically attach itself to any enemy within 5 feet of where the grenade would land, and last 2 rounds.  It explodes each round, dealing explosive damage as per a normal grenade and doing an unavoidable 1d6 to the creature it is stuck to.
+**Spike Grenade:** | A grenade that attaches to any surface and emits a torrent of damaging void light. | The grenade now does damage in a conical area 15 feet long and 10 feet wide.  The grenade lasts for 3 rounds, but no longer explodes.  Instead, any enemy inside or passing through the cone created by the grenade takes 2d6 damage.
+**Suppressor Grenade:** | An explosive grenade that prevents enemies from using abilities for a short time. | An enemy damaged by this grenade cannot use any ability that requires light for 3 rounds.
 
 #### Additional Features
 At level 7, you choose one of the following features for your Titan.
 
-Ability | Description
----|---
-**Bastion:** | Increases the duration of Ward of Dawn to 42 seconds.  The Ward of Dawn now lasts 6 rounds.
-**Relentless:** | Increases the duration and strength of the Force Barrier created by Disintegrate. The duration is increased to 18 seconds (3 rounds) and grants 1d10 temporary hit points.
-**Gift of the Void:** | As Ward of Dawn takes damage from enemy fire it creates additional Orbs of Light.
+Ability | Description | Benefit
+:---|:---|:---
+**Bastion:** | Increases the duration of Ward of Dawn. | The Ward of Dawn now lasts 6 rounds.
+**Relentless:** | Increases the duration and strength of the Force Barrier created by Disintegrate. | The duration is increased to 3 rounds and grants 1d10 temporary hit points.
+**Gift of the Void:** | As Ward of Dawn takes damage from enemy fire it creates additional Orbs of Light. | One orb is generated for every 25 damage taken.
 
 And at 9th level, you can add one of the following features as well.
 
-Ability | Description
----|---
-**Untouchable:** | Reduces the cooldown time of Ward of Dawn.  Ward of Dawn can now be cast at 35 light.
-**Iron Harvest:** | Heavy Weapon kills have a chance to create Orbs of Light for your allies.  When you kill an enemy, roll a die.  If the result is even, you create an orb.
-**Illuminated:** | Increases the benefits granted by Blessing of Light and Weapons of Light.  Weapons and Blessing now last 3 rounds each and their benefits are increased by 1d4(3).
+Ability | Description | Benefit
+:---|:---|:---
+**Untouchable:** | Reduces the cooldown time of Ward of Dawn. | Ward of Dawn can now be cast at 35 light.
+**Iron Harvest:** | Heavy Weapon kills have a chance to create Orbs of Light for your allies. | When you kill an enemy, roll a die.  If the result is even, you create an orb.
+**Illuminated:** | Increases the benefits granted by Blessing of Light and Weapons of Light. | Weapons and Blessing now last 3 rounds each and their benefits are increased by 1d4.
 
 ### [Sunbreaker](http://destiny-grimoire.info/#Card-700040)
 _“Forge the fury of undying suns.”_
@@ -266,51 +266,51 @@ Wield the Hammer of Sol with honor, Titan, it is a thing of legend, both past an
 #### Super Ability - [Hammer of Sol](http://destiny-grimoire.info/#Card-700100)
 Forge your Light into a raging inferno of Solar energy, and pull forth a blazing hammer from the fire. Cloaked in flames, launch your hammer at enemies from afar, releasing a devastating eruption of Solar fire on impact. You burn with the intensity of stars, and no shadow is safe from your Light.
 
-At level 3, you can use your Hammer of Sol ability to summon a flaming hammer which lasts for 30 seconds (5 rounds).  You can thrown the hammer as your action every round until the ability ends.  Make an attack roll as normal, adding your strength modifier and proficiency bonus.  If you hit the target, the impact does 1d10 damage directly.  Once thrown, the hammer will explode on impact, dealing 3d6 splash damage to all enemies within 5 feet of the impact area, and then reappear in the hand of the titan by the start of his next round.  If you miss the target, you hit the 5 foot square the target was standing in and the target takes splash damage.  All enemies taking splash damage that pass a dexterity save vs DC 17 take half damage. 
+At level 3, you can use your Hammer of Sol ability to summon a flaming hammer which lasts for 5 rounds.  You can thrown the hammer as your action every round until the ability ends.  Make an attack roll as normal, adding your strength modifier and proficiency bonus.  If you hit the target, the impact does 1d10 damage directly.  Once thrown, the hammer will explode on impact, dealing 3d6 splash damage to all enemies within 5 feet of the impact area, and then reappear in the hand of the titan by the start of his next round.  If you miss the target, you hit the 5 foot square the target was standing in and the target takes splash damage.  All enemies taking splash damage that pass a dexterity save vs DC 17 take half damage. 
 
 At level 8, you can choose one of the following additional features for your Hammer of Sol.
 
-Ability | Description
----|---
-**Forgemaster:** | Throw more hammers, and hammers cause bigger explosions.  This increases the duration of Hammer of Sol from 5 rounds to 6 and the area of effect is increased from 5 feet to 10 feet.
-**Suncharge:** | During Hammer of Sol, you can use your action to hurl yourself forward, causing enemies in your path to explode and chaining fiery damage to other enemies.  Move your standard movement distance for the round.  Enemies in your path explode, dealing splash damage as your hammer would.
-**Scorched Earth:** | Ignite the world, creating Sunspots where your Hammer of Sol impacts.  This leaves a damage dealing field in the wake of the exploding hammer.  This field lasts 3 rounds, has the same area of effect as the hammer, and deals 1d10 damage to any enemy standing in the area at the start of each round.
+Ability | Description | Benefit
+:---|:---|:---
+**Forgemaster:** | Throw more hammers, and hammers cause bigger explosions. | This increases the duration of Hammer of Sol from 5 rounds to 6 and the area of effect is increased from 5 feet to 10 feet.
+**Suncharge:** | During Hammer of Sol, you can use your action to hurl yourself forward, causing enemies in your path to explode and chaining fiery damage to other enemies. | Move your standard movement distance for the round.  Enemies in your path explode, dealing splash damage as your hammer would.
+**Scorched Earth:** | Ignite the world, creating Sunspots where your Hammer of Sol impacts. | This leaves a damage dealing field in the wake of the exploding hammer.  This field lasts 3 rounds, has the same area of effect as the hammer, and deals 1d10 damage to any enemy standing in the area at the start of each round.
 
 #### Sunstrike
-At 3rd level, your melee ability becomes Sunstrike.  It now deals solar damage and ignites your enemies, dealing 1d4 damage per round for 2 rounds (12 seconds).
+At 3rd level, your melee ability becomes Sunstrike.  It now deals solar damage and ignites your enemies, dealing 1d4 damage per round for 2 rounds.
 
 At 5th level, choose one of the following features to add to your Sunstrike.
 
-Ability | Description
----|---
-**Melting Point:** | Burn away your target's defense. Targets take more damage from both you and your allies.  All Damage to a target affected by Melting point is increased by 1d4 for 2 rounds.
-**Thermal Vent:** | Sunstrike releases a Solar explosion on hit. Kills create a Sunspot that damages enemies inside.  All enemies within 5 feet of the target take an additional 1d6 damage from the explosion.  If the target dies, the blast area becomes a Sunspot that lasts for 3 rounds and deals 1d10 damage to any enemy in or passing through the affected area.
-**Stoke the Forge:** | Natively reduces the cooldown of your Sunstrike melee. Getting a killing blow with Sunstrike instantly recharges it.  The cost for your Sunstrike is reduced from 20 light to 15 light.  If you get a kill with Sunstrike, add 15 light to the Melee resource pool. Note the resource pool maximum does not change.
+Ability | Description | Benefit
+:---|:---|:---
+**Melting Point:** | Burn away your target's defense. Targets take more damage from both you and your allies. | All Damage to a target affected by Melting point is increased by 1d4 for 2 rounds.
+**Thermal Vent:** | Sunstrike releases a Solar explosion on hit. Kills create a Sunspot that damages enemies inside. | All enemies within 5 feet of the target take an additional 1d6 damage from the explosion.  If the target dies, the blast area becomes a Sunspot that lasts for 3 rounds and deals 1d10 damage to any enemy in or passing through the affected area.
+**Stoke the Forge:** | Natively reduces the cooldown of your Sunstrike melee. Getting a killing blow with Sunstrike instantly recharges it. | The cost for your Sunstrike is reduced from 20 light to 15 light.  If you get a kill with Sunstrike, add 15 light to the Melee resource pool. Note the resource pool maximum does not change.
 
 #### Solar Grenades
 At 3rd level, your grenade now does Solar damage.
 
 At 5th level, you may select one of the following grenade types.  Your grenade ability will be modified as described.
 
-Ability | Description
----|---
-**Fusion Grenade:** | A grenade that causes bonus damage when attached to its target. If your roll to hit meets or exceeds the AC of an enemy standing in the targeted area, the grenade sticks to this enemy and does an additional 2d6 damage to it.
-**Thermite Grenade:** | Grenade explosion sends forward a burning line of fire.  This grenade creates a line of fire 20 feet long for 3 rounds from the point of impact directly away from you that burns enemies inside of it or passing through it for 2d6 damage.
-**Incendiary Grenade:** | An explosive grenade that sets enemies on fire, causing additional damage to them. Any enemies in the explosive radius of this grenade catch on fire and burn for an additional 1d4 damage per round for 3 rounds.  Targets may use an action to make a constitution save against a DC of 12 to put out the fire after each damage phase.
+Ability | Description | Benefit
+:---|:---|:---
+**Fusion Grenade:** | A grenade that causes bonus damage when attached to its target. | If your roll to hit meets or exceeds the AC of an enemy standing in the targeted area, the grenade sticks to this enemy and does an additional 2d6 damage to it.
+**Thermite Grenade:** | Grenade explosion sends forward a burning line of fire. | This grenade creates a line of fire 20 feet long for 3 rounds from the point of impact directly away from you that burns enemies inside of it or passing through it for 2d6 damage.
+**Incendiary Grenade:** | An explosive grenade that sets enemies on fire, causing additional damage to them. | Any enemies in the explosive radius of this grenade catch on fire and burn for an additional 1d4 damage per round for 3 rounds.  Targets may use an action to make a constitution save against a DC of 12 to put out the fire after each damage phase.
 
 #### Additional Features
 At level 7, your Sunbreaker gains one of the following abilities:
 
-Ability | Description
----|---
-**Flameseeker:** | Your Hammer of Sol will alter its flight path to seek out your enemies.  You no longer have to roll to hit your target.
-**Explosive Pyre:** | Enemies felled by your hammer explode, chaining fiery Solar damage to others.  If the target is hit by your hammer, then it explodes violently creating an explosion as if it were a grenade.
-**Fleetfire:** | Enemies brought down by your fire grant you bonus agility and reload speed for a short time. Stacks up to 3 times and lasts for 2 rounds. Your reload becomes a bonus action.  Each stack increases your movement speed by 5 feet.
+Ability | Description | Benefit
+:---|:---|:---
+**Flameseeker:** | Your Hammer of Sol will alter its flight path to seek out your enemies. | You no longer have to roll to hit your target.
+**Explosive Pyre:** | Enemies felled by your hammer explode, chaining fiery Solar damage to others. | Enemies killed by your hammer explode violently creating an explosion as if it were a grenade.
+**Fleetfire:** | Enemies brought down by your fire grant you bonus agility and reload speed for a short time. Stacks up to 3 times. | Your reload becomes a bonus action.  Each stack lasts for 3 rounds and increases your movement speed by 5 feet.
 
 At level 9, your Sunbreaker gains one of the following abilities:
 
-Ability | Description
----|---
-**Simmering Flames:** | When Super energy is full, grenade and melee abilities recharge twice as fast.  If you have Super resource pool is at its maximum, then you double the amount of light deposit in grenade and melee resource pools.
-**Cauterize:** | Enemies brought down by your fire regenerate your health.  If one of your fire based attacks (hammer of sol, grenade, melee) kills your target, then your health will begin to recharge immediately.
-**Fire Keeper:** | When standing in a Sunspot you gain an Overshield and Hammer of Sol lasts longer.  While Hammer of Sol is active, any round that you end inside an allied Sunbreaker's Sunspot grants you half your hitpoint maximum as temporary hitpoints (not cumulative), and extends your Hammer by 3 seconds (half a round).  This potential extends Hammer of Sol to a maximum of 8 rounds duration, or 10 rounds total if you also have the Forgemaster ability.
+Ability | Description | Benefit
+:---|:---|:---
+**Simmering Flames:** | When Super energy is full, grenade and melee abilities recharge twice as fast. | If you have Super resource pool is at its maximum, then you double the amount of light deposit in grenade and melee resource pools.
+**Cauterize:** | Enemies brought down by your fire regenerate your health. | If one of your fire based attacks (hammer of sol, grenade, melee) kills your target, then your health will begin to recharge immediately.
+**Fire Keeper:** | When standing in a Sunspot you gain an Overshield and Hammer of Sol lasts longer. | Gain half your hit point maximum as temporary hit points while standing in a Sunspot.  Every 2 rounds you remain inside a Sunspot extends Hammer of Sol by one round.  
