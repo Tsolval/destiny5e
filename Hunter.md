@@ -38,8 +38,8 @@ Hunters stalk the wilderness beyond the City, harnessing the Light to reclaim th
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 **Armor:** Medium Armor<br>
-**Weapons:** All Primary, Special, and Heavy weapons; daggers
-**Tools:** Thieve's Tools
+**Weapons:** All Primary, Special, and Heavy weapons; daggers<br>
+**Tools:** Thieve's Tools<br>
 **Saving Throws:** Dexterity, Charisma<br>
 **Skills:** Choose 4 from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth.
 
