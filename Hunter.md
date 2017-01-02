@@ -37,9 +37,10 @@ Hunters stalk the wilderness beyond the City, harnessing the Light to reclaim th
 ## Starting Proficiencies
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
-**Armor:** Hunter Armor
-**Weapons:** All handguns (Hand Cannons, Scout Rifles, Pulse Rifles, Auto Rifles, Fusion Rifles, Sniper Rifles, Shotguns, Sidearms, Machine Guns, and Rocket Launchers), Heavy Swords or Axes, and daggers.
+**Armor:** Medium Armor<br>
+**Weapons:** All Primary, Special, and Heavy weapons; daggers
 **Tools:** Thieve's Tools
+**Saving Throws:** Dexterity, Charisma<br>
 **Skills:** Choose 4 from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth.
 
 ## Class Features
