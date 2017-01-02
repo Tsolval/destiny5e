@@ -92,6 +92,7 @@ At level 3, you choose one of the available Archetypes, see below, and gain your
 
 ### Hunter Paths
 At level 4, you begin walking one of these Hunter's Paths.  Choose one and gain its benefits.
+
 Path | Description | Bonus
 :---|:---|:---
 **Path Forgotten:** |Training focused on toughness and speed. | Add 5 to your movement rate and 1 to your AC.
@@ -100,6 +101,7 @@ Path | Description | Bonus
 
 ### Hunter Ways
 At level 4, you begin following one of these Hunter's Ways.  Choose one and gain its benefits.
+
 Way | Description | Bonus
 :---|:---|:---
 **Way of the Drifter:** | Training focused on all attributes. | Add 1 to your AC, 5 to your movement rate, and reduce your healing cooldown by 1.
