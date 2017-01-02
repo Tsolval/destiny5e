@@ -197,7 +197,11 @@ Leave the noise and fire to others. There's work to be done, out there in the da
 #### Super Ability - [Arc Blade](http://destiny-grimoire.info/#Card-301140)
 Set aside your weapons and lose yourself in the blade trance. Arc Light galvanizes your armor and hastens your movements, and when your knife finds a target it discharges a snap of annihilating current. For as long as the trance lasts, you are the very shadow of death.
 
-At level 3, you can use your Arc Blade super ability to begin a dance of death which lasts for 30 seconds (5 rounds).  You exchange any guns you are carrying for a pair of daggers which become electrified.  You charge toward the enemy attacking them with your blades.  Roll to melee as per normal.  If you hit, the daggers do 2d8 damage plus dexterity and proficiency bonuses.  You are dual wielding, so you may attack twice per round.  
+At level 3, you can spend 50 Light from your Super Ability pool to energize your Arc Blades and begin a dance of death which lasts for 30 seconds (5 rounds).  
+
+Super | Type | Attack | Damage | Special
+---|---|---|---|---
+Arc Blades | Arc | 1d20 + dex mod + prof bonus | 2d8 + dex mod + prof bonus | 2 Attacks per Round
 
 At level 8, you can choose one of the following additional features for your Super ability.
 
@@ -258,11 +262,40 @@ Do not hunt the monster. Become the monster.
 #### Super Ability - [Shadowshot](http://destiny-grimoire.info/#Card-700110)
 Summon the power of the Void to draw back and launch a precision long-range projectile that reaches out and snares enemies with slowing, draining tethers of Void Light. Shadowshot lets a Hunter's dead-eye precision carve a path to new battles.
 
-At level 3, you can use your Shadowshot super ability to create a void tether which lasts for 30 seconds (5 rounds).  You deploy Shadowshot in a 5 foot square and it reaches tendrils of void energy toward up to 10 enemies no more than 20 feet away.  If your Shadowshot hits an enemy directly, that enemy takes 3d10 damage from the attack.
+At level 3, you can spend 50 Light from your Super pool to use your Shadowshot super ability to create a void tether which lasts for 30 seconds (5 rounds).  You deploy Shadowshot in a 5 foot square and it reaches tendrils of void energy toward up to 10 enemies no more than 20 feet away.  If your Shadowshot hits an enemy directly, that enemy takes 3d10 damage from the attack.
 
-Tethered enemies move as if they are in difficult terrain and may not use special abilities including grenades, melees, or super abilities.
-
-The tether itself has hit points equivalent to twice its creators maximum hit points and can thus be directly dispelled via damage.
+<table>
+  <thead>
+    <tr>
+      <th>Super</th>
+      <th>Type</th>
+      <th>Attack (Optional)</th>
+      <th>Damage</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <th>Shadowshot</th>
+    <td>Void</td>
+    <td>Deploy to a square within 30 feet or<br>roll 1d20 + dex mod + prof bonus</td>
+    <td>3d10 + dex mod + prof bonus</td>
+    <td>Tether and Drain 10 enemies within 20 feet</td>
+  </tr>
+  <tr>
+    <th>Tether</th>
+    <td colspan="4">Tethered enemies move as if they are in difficult terrain.</td>
+  </tr>
+  <tr>
+    <th>Drain</th>
+    <td colspan="4">Drained enemies cannot use grenade, melee, or super abilities.</td>
+  </tr>
+  <tr>
+    <th>Health</th>
+    <td colspan="4">The Shadowshot has hit points equivalent to twice its creators maximum hit points and can thus be directly dispelled via damage.</td>
+  </tr>
+  </tbody>
+</table>
 
 At level 8, you can choose one of the following additional features for your Super ability.
 
