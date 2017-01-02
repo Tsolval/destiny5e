@@ -64,10 +64,10 @@ Titans are warriors - heroic defenders of the Light, channeling the gifts of the
 ## Starting Proficiencies
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
-**Armor:** Titan Armor
-**Weapons:** All handguns (Hand Cannons, Scout Rifles, Pulse Rifles, Auto Rifles, Fusion Rifles, Sniper Rifles, Shotguns, Sidearms, Machine Guns, and Rocket Launchers), and Heavy Swords or Axes.
-**Tools:** None
-**Saving Throws:** Strength, Constitution
+**Armor:** Heavy Armor<br>
+**Weapons:** All Primary, Special, and Heavy weapons<br>
+**Tools:** None<br>
+**Saving Throws:** Strength, Constitution<br>
 **Skills:** Choose 4 from Animal Handling, Athletics, History, Insight, Intimidation, Investigation, Perception, Persuasion, Survival
 
 ## Class Features
