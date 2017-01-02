@@ -87,8 +87,8 @@ At level two, you gain access to a special light-powered grenade. These grenades
 
 At 3rd and 5th level, your grenade is affected by your chosen Archetype. See the archetype section for details.
 
-### Hunter Archetype & Super Ability
-At level 3, you choose one of the available Hunter Archetypes, see below, and gain the ability to use your light via an super ability as determined by your chosen Hunter Archetype.  This ability consumes 50 light from your Super resource pool.
+### Hunter Archetype
+At level 3, you choose one of the available Archetypes, see below, and gain your chosen Archetype's Super Ability.  This ability consumes 50 light from your Super resource pool.
 
 ### Hunter Paths
 At level 4, you begin walking one of these Hunter's Paths.  Choose one and gain its benefits.
