@@ -95,20 +95,20 @@ At level 3, you choose one of the available Archetypes, see below, and gain your
 ### Hunter Paths
 At level 4, you begin walking one of these Hunter's Paths.  Choose one and gain its benefits.
 
-Path | Description | Bonus
+Path | Description | Benefit
 :---|:---|:---
-**Path Forgotten:** |Training focused on toughness and speed. | Add 5 to your movement rate and 1 to your AC.
-**Path Forbidden:** |Training focused on battle recovery and speed. | Reduce your healing cooldown by 1 and add 5 to your movement rate.
-**Path Unknown:** |Training focused on battle recovery and toughness. |  Reduce your healing cooldown by 1 and add 1 to your AC
+**Path Forgotten:** | Training focused on toughness and speed. | AC +1, Movement +5
+**Path Forbidden:** | Training focused on battle recovery and speed. | Movement +5, Recovery -1
+**Path Unknown:** | Training focused on battle recovery and toughness. | AC +1, Recovery -1
 
 ### Hunter Ways
 At level 4, you begin following one of these Hunter's Ways.  Choose one and gain its benefits.
 
-Way | Description | Bonus
+Way | Description | Benefit
 :---|:---|:---
-**Way of the Drifter:** | Training focused on all attributes. | Add 1 to your AC, 5 to your movement rate, and reduce your healing cooldown by 1.
-**Way of the Fearless:** | Training focused on toughness at all costs. | Add 2 to your AC
-**Way of the Nomad:** | Training focused on maximum battle recovery. | Reduce your healing cooldown by 2 and add 1 to your Constitution score (maximum of 20).
+**Way of the Drifter:** | Training focused on all attributes. | AC +1, Movement +5, Recovery -1
+**Way of the Fearless:** | Training focused on toughness at all costs. | AC +2
+**Way of the Nomad:** | Training focused on maximum battle recovery. | Recovery -2
 
 ## Hunter Archetypes
 At level 3, you choose to adopt one of the following Hunter Archetypes.
