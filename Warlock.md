@@ -75,8 +75,8 @@ When you make a high jump with Lift, you leap into the air a number of feet equa
 
 At 5th level, your Glide ability gains one of the following features based on your selected Archetype.  Sunsingers and Stormcallers can choose between Focused Control, Focused Burst, and Balanced Glide.  Voidwalkers can choose between Focused Control, Focused Burst, and Blink.
 
-Ability | Description | Bonus
----|---|---
+Ability | Description | Benefit
+:---|:---|:---
 Focused Control: | Upgrades Glide for better directional control while in mid-air. | You can now change direction up to 90 degrees once while in the middle of a jump.
 Focused Burst: | Upgrades Glide to provide an initial burst of speed. | Your long jump takes you 10 feet further and your high jump takes you 5 feet higher over the non-upgraded Glide.
 Balanced Glide: | Upgrades Glide to provide bonuses to both speed and control. | Your long jump and high jump take you 5 feet further than non-upgraded Glide and you may alter your jump direction up to 45 degrees in any direction once while in the air.
@@ -142,7 +142,7 @@ At level 3, you can spend 50 Light from your Super pool to throw a Nova Bomb. Yo
 At level 8, you can choose one of the following additional features for your Nova Bomb.
 
 Ability | Description | Benefit
----|---|---
+:---|:---|:---
 **Vortex:** | Nova Bomb creates a temporary vortex which continually damages enemies trapped inside. | The vortex extends 15 feet from ground zero, lasts for 30 seconds (5 rounds) and deals 1d10 damage per round to any enemy creature that touches the field that round.
 **Shatter:** | Nova Bomb splits into three projectiles. | Blast radius reduced from 15 to 10 feet per projectile.  The second and third projectiles land 5 feet behind and 15 feet to the left and right of the main projectile.  Explosion damage is reduced to 3d10.
 **Lance:** | Nova Bomb travels farther and faster, and does more damage. | Range is increased to 60 feet, deals 6d10 damage, Blast radius reduced from 15 to 10 feet.
@@ -152,7 +152,7 @@ At 3rd level, your melee ability becomes Energy Drain.  This void palm attack dr
 
 At 5th level, choose one of the following features to modify your Energy Drain ability.
 
-Ability | Description | Bonus 
+Ability | Description | Benefit
 :---|:---|:---
 **Surge:** | Damaging an enemy with Energy Drain increases your weapon and movement speed. | For 2 rounds, You may ready or reload your weapon as a bonus action, and your Movement speed increases +5.
 **Life&nbsp;Steal:** | Damaging an enemy with Energy Drain immediately restores a significant portion of your health. | Roll a number of d8 equivalent to your level and replenish your hit points by this amount.
@@ -163,7 +163,7 @@ At 3rd level, your grenade now does Void damage.
 
 At 5th level, select one of the following grenade types. Your grenade ability will be modified as described.
 
-Ability | Description | Bonus
+Ability | Description | Benefit
 :---|:---|:---
 **Vortex&nbsp;Grenade:** | A grenade that creates a vortex which continually damages enemies inside the sphere. | Instead of exploding, your grenade remains for 18 seconds (3 rounds) doing 2d6 damage each round to enemies within its blast radius. 
 **Scatter&nbsp;Grenade:** | A grenade that splits into many submunitions and covers a large area with explosions. | Submunitions scatter to the spaces surrounding the target square and explode, doing an additional 1d4 unavoidable damage to enemies in the blast range.
@@ -172,7 +172,7 @@ Ability | Description | Bonus
 #### Additional Features
 At level 7, you choose one of the following abilities.
 
-Ability | Description | Bonus
+Ability | Description | Benefit
 :---|:---|:---
 **Annihilate:** | Increases the size of the explosion created by Nova Bomb and Vortex grenade. | Explosion radius is increased from 15 to 20 feet
 **Angry Magic:** | Nova Bomb tracks enemies. | Enemies can no longer save for half damage.
@@ -180,7 +180,7 @@ Ability | Description | Bonus
 
 And at 9th level, you can add one of the following abilities.
 
-Ability | Description | Bonus
+Ability | Description | Benefit
 :---|:---|:---
 **Vortex&nbsp;Mastery:** | Increases the range of Axion Bolt seekers and the duration of the Vortex effect of Nova Bomb and Vortex Grenade. | Axion Bolts track enemies up to 30 feet from impact and have 35 movement; Vortex effects now last 1 round longer.
 **Bloom:** | Enemies killed with any of your abilities explode. | Explosions deal 3d6 damage to all enemies within 5 feet.  A DC 15 Dex save reduces damage by half.
@@ -202,7 +202,7 @@ At level 3, you bathe yourself in Light for 30 seconds (5 rounds), strengthening
 
 At level 8, you can choose one of the following additional features for Radiance.
 
-Ability | Description | Bonus
+Ability | Description | Benefit
 :---|:---|:---
 **Song of Flame:** | While active, Radiance reduces all cooldowns for nearby allies. | Your grenade and melee cost reduction is granted to allies within 30 feet of you.
 **Radiant Skin:** | While active, Radiance reduces incoming damage. | You take half damage during Radiance.
@@ -213,7 +213,7 @@ At 3rd Level, your melee ability becomes Scorch.  It now deals Solar Damage and 
 
 At 5th level, choose one of the following features to add to your Scorch.
 
-Ability | Description | Bonus 
+Ability | Description | Benefit
 :---|:---|:---
 **Flame Shield:** | Damaging enemies with Scorch reduces incoming damage for a short time. | Incoming damage is halved for 2 rounds.
 **Solar Wind:** | Reduces the cooldown of Scorch. Hitting an enemy with Scorch knocks them back. | The cost of Scorch is reduced to 15 light.  Enemies hit with Scorch are knocked 10 feet away from you.
@@ -224,7 +224,7 @@ At 3rd level, your grenade now does Solar damage.
 
 At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
 
-Ability | Description | Bonus
+Ability | Description | Benefit
 :---|:---|:---
 **Solar Grenade:** | A grenade that creates a flare of Solar Light which continually damages enemies trapped inside. | Instead of exploding, your grenade remains for 18 seconds (3 rounds) doing 2d6 damage each round to enemies within its blast radius.
 **Firebolt Grenade:** | A grenade that unleashes bolts of Solar Light at nearby enemies. | The grenade no longer explodes, but its area of effect is increased to 15 feet. When the grenade goes off, each target in the area is hit by a bolt of fire which deals 2d8 damage.
@@ -233,7 +233,7 @@ Ability | Description | Bonus
 #### Additional Features
 At level 7, you choose one of the following abilities.
 
-Ability | Description | Bonus
+Ability | Description | Benefit
 :---|:---|:---
 **Radiant Will:** | Increases the duration of Radiance. | Radiance now lasts for 6 rounds.
 **Viking Funeral:** | Enemies you ignite take more damage from all sources. Stacks up to 3 times. | Each stack increases all damage to the target by 1d4.  Each stack lasts for 3 rounds.
@@ -241,7 +241,7 @@ Ability | Description | Bonus
 
 And at 9th level, you can add one of the following abilities.
 
-Ability | Description | Bonus
+Ability | Description | Benefit
 :---|:---|:---
 **Touch of Flame:** | All grenades ignite enemies, causing damage over time. | Ignited enemies take 1d4 damage for 3 rounds.
 **Angel of Light:** | Aiming your weapon while in the air will hold you in place for a short time. | Become the hummingbird.
@@ -261,7 +261,7 @@ At level 3, you summon a thunderstorm and channel lightning into your enemies li
 
 At level 8, you can choose one of the following additional features for Radiance.
 
-Ability | Description | Bonus
+Ability | Description | Benefit
 :---|:---|:---
 **Landfall:** | On casting Stormtrance, fire a bolt of lightning into the ground, creating a devastating shockwave under you. | Shockwave deals 5d6 damage in a 10 foot radius, and blinds enemies.
 **Superconductor:** | Doubles your Stormtrance lightning's chaining capabilities. | Chained lightning can now spread 15 feet from your target, deals 2d8 damage, and can chain a second time.
@@ -283,7 +283,7 @@ At 3rd level, your grenade now does Arc damage.
 
 At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
 
-Ability | Description | Bonus
+Ability | Description | Benefit
 :---|:---|:---
 **Pulse&nbsp;Grenade:** | A grenade that periodically damages enemies inside its explosive radius. | Instead of exploding, your grenade remains for 18 seconds (3 rounds) doing 2d6 damage each round to enemies within its blast radius.
 **Storm&nbsp;Grenade:** | This grenade calls down a localized lightning storm. | Instead of exploding, this lightning strikes twice.  It deals 2d6 each round for 2 rounds.
@@ -292,7 +292,7 @@ Ability | Description | Bonus
 #### Additional Features
 At level 7, you choose one of the following abilities.
 
-Ability | Description | Bonus
+Ability | Description | Benefit
 :---|:---|:---
 **Pulse Wave:** | When critically wounded, trigger a Pulsewave that boosts speed for you and your allies. | When your health drops below half your maximum, you and any allies within 30 feet of you gain 10 Movement for 2 rounds.
 **Feedback:** | Incoming melee attacks fully recharge and intensify your Thunderstrike. | If you are hit by a melee attack, add the cost of a melee to your Melee resource pool.
@@ -300,7 +300,7 @@ Ability | Description | Bonus
 
 And at 9th level, you can add one of the following abilities.
 
-Ability | Description | Bonus
+Ability | Description | Benefit
 :---|:---|:---
 **Electrostatic Mind:** | Stormtrance charges faster when allies are near. When Stormtrance is active, nearby enemies take damage. | You generate an extra 1d6 Light for Stormtrance each round.  Stormtrance deals 1d6 damage to any enemy within 10 feet of you.
 **Arc Web:** | Enemies damaged by your grenades chain deadly lightning to other nearby enemies. | Enemies within 10 feet of an enemy that was damaged by your grenade are struck by lightning and take 1d8 damage.
