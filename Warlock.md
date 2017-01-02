@@ -65,7 +65,7 @@ You have spent many hours researching the Travelers gift and have gained a few i
 Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures.  You can telepathically speak to any creature you can see within 30 feet of you.  You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
 
 ### Glide
-At level two, you gain the Glide ability which allows you to use your light to extend your long jump and high jump up to twice your normal jump distance and also acts as a slow fall, preventing damage from a fall.  Depending on how this is used, this can extend either your long jump or your high jump as described below.
+At level two, you gain the Glide ability which allows you to use your light to slow your fall.  This can extend your long jump and high jump to twice your normal jump distance and also prevents damage from a fall much as the spell Feather Fall.  Depending on how this is used, this can extend either your long jump or your high jump as described below.
 
 #### Long Jump
 When you make a long jump with Glide, you can cover a number of feet up to twice your Wisdom score (not modifier) if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half that distance.  Each foot you clear on the jump costs a foot of distance.
