@@ -69,7 +69,7 @@ At 5th level, your Double Jump ability gains one of three features based on your
 
 Ability | Description | Bonus
 :---|:---|:---
-**Increased Height** | Upgrades Double Jump to travel to greater height. | Your high jump distance is tripled.
+**Increased Height** | Upgrades Double Jump to travel to greater height. | Increases your high jump to (3 + dexterity modifier) * 3.
 **Increased Control** | Upgrades Double Jump for better directional control while in the air. | You can now change direction up to 90 degrees once while in the middle of a jump.
 **Triple Jump** | Upgrades Double Jump to Triple Jump, allowing you to jump while in the air twice. | You can now long and high jump up to triple the normal distance.
 **Blink** | Teleport a short distance. | You teleport up to your twice normal jump distance. You cannot blink through solid obstacles, but it can be used to avoid traps, difficult terrain, etc. 
