@@ -86,7 +86,7 @@ Blink: | Teleport a short distance. | You teleport up to your maximum Glide dist
 At level 2, you gain access to three pools of Light. One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super Ability. All pools start at 0 Light. The Melee pool has a maximum of 20 Light points, the Grenade pool max is 30, and the pool empowering your Super Ability maxes at 50 points. During its round, Your ghost distills Light from the environment, enemies you've destroyed, and Orbs of Light you've encountered, and distributes it to your resource pools. See the section on Ghosts for more information.
 
 ### Melee
-At level two, you gain access to a special light-enhanced, close-quarters, hand-to-hand melee attack. When you make a normal melee attack, you add your strength modifier and proficiency bonus to the roll to hit and do 1 + your strength modifier in damage.  If you consume 20 light from your Melee resource pool to upgrade this attack, you now add your wisdom modifier and proficiency bonus to the attack roll (instead of strength) and damage is 1d6 + wisdom modifier + proficiency bonus.
+At level two, you gain access to a special light-enhanced, close-quarters, hand-to-hand melee attack. This melee consumes 20 Light from your Melee resource pool and upgrades a standard melee attack.  You can use this attack on any enemy within 5 feet to deal 1d6 damage.  Add your Wisdom modifier and Proficiency bonus to both the attack and damage rolls.
 
 At 5th level, your melee will gain a feature based on your chosen Archetype. See the archetype section for options.
 
