@@ -278,7 +278,7 @@ At level 3, you can spend 50 Light from your Super pool to use your Shadowshot s
   <tr>
     <th>Shadowshot</th>
     <td>Void</td>
-    <td>Deploy to a square within 30 feet or<br>roll 1d20 + dex mod + prof bonus</td>
+    <td>Deploy to a square within 30 feet or roll 1d20 + dex mod + prof bonus</td>
     <td>3d10 + dex mod + prof bonus</td>
     <td>Tether and Drain 10 enemies within 20 feet</td>
   </tr>
