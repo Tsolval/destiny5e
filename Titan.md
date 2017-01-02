@@ -45,7 +45,7 @@ Titans are warriors - heroic defenders of the Light, channeling the gifts of the
 
 ## Table: The Titan
 |   Level  |  Proficiency Bonus  |  Features   | 
-|-----|:---:|----------------------------------|
+|:---:|:---:|----------------------------------|
 | 1st | +2  | Fighting Style, Danger Sense     |
 | 2nd | +2  | Lift, Melee, and Grenade         |
 | 3rd | +2  | Titan Archetype, Super Ability   | 
