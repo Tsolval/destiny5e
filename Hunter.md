@@ -24,7 +24,7 @@ Hunters stalk the wilderness beyond the City, harnessing the Light to reclaim th
 | 3rd | +2 | Hunter Archetype, Super Ability              | 2d6 |
 | 4th | +2 | Hunter’s Path, Way of the Hunter, Feat       | 2d6 |
 | 5th | +3 | Grenade, Melee, Double Jump Features         | 3d6 |
-| 6th | +3 | Uncanny Dodge, Natural Explorer, Expertise Improvements |  3d6 |
+| 6th | +3 | Hunter’s Prey, Natural Explorer, Expertise Improvements |  3d6 |
 | 7th | +3 | Hunter Archetype Improvement                 | 4d6 |
 | 8th | +3 | Super Ability Improvement, Feat              | 4d6 |
 | 9th | +4 | Hunter Archetype Improvement                 | 5d6 |
