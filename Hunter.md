@@ -17,17 +17,17 @@ ___
 Hunters stalk the wilderness beyond the City, harnessing the Light to reclaim the secrets of our lost worlds. They are daring scouts and stealthy killers, expert with knives and precision weapons. Hunters blaze their own trails and write their own laws.
 
 ## Table: The Hunter
-| Level | Proficiency Bonus | Sneak Attack | Features |
-|-------|:-----------------:|:------------:|----------|
-| 1st | +2 | 1d6 | Expertise, Sneak Attack, Natural Explorer    |
-| 2nd | +2 | 1d6 | Double Jump, Melee, Grenade                  |
-| 3rd | +2 | 2d6 | Hunter Archetype, Super Ability              | 
-| 4th | +2 | 2d6 | Hunter’s Path, Way of the Hunter, Feat       |
-| 5th | +3 | 3d6 | Grenade, Melee, Double Jump Features         | 
-| 6th | +3 | 3d6 | Uncanny Dodge, Natural Explorer, Expertise Improvements | 
-| 7th | +3 | 4d6 | Hunter Archetype Improvement                 | 
-| 8th | +3 | 4d6 | Super Ability Improvement, Feat              | 
-| 9th | +4 | 5d6 | Hunter Archetype Improvement                 |
+| Level | Proficiency Bonus | Features | Sneak Attack |
+|-------|:-----------------:|----------|:------------:|
+| 1st | +2 | Expertise, Sneak Attack, Natural Explorer    | 1d6 |
+| 2nd | +2 | Double Jump, Melee, Grenade                  | 1d6 |
+| 3rd | +2 | Hunter Archetype, Super Ability              | 2d6 |
+| 4th | +2 | Hunter’s Path, Way of the Hunter, Feat       | 2d6 |
+| 5th | +3 | Grenade, Melee, Double Jump Features         | 3d6 |
+| 6th | +3 | Uncanny Dodge, Natural Explorer, Expertise Improvements |  3d6 |
+| 7th | +3 | Hunter Archetype Improvement                 | 4d6 |
+| 8th | +3 | Super Ability Improvement, Feat              | 4d6 |
+| 9th | +4 | Hunter Archetype Improvement                 | 5d6 |
 
 ## Hit Points
 **Hit Dice:** 1d8 per hunter level
