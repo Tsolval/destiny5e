@@ -60,14 +60,41 @@ You are proficient with the following items, in addition to any proficiencies pr
 ## Class Features
 ### Arcane Optics
 You have spent many hours researching the Travelers gift and have gained a few insights into the nature of Light which have allowed you to learn to manipulate it to your advantage.  At first level, you know two cantrips of your choice from the Warlock spell list at the bottom of this page.  You may learn additional cantrips at higher levels, as indicated in the Cantrips Known column of the Warlock table.
+
 ### Awakened Mind
 Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures.  You can telepathically speak to any creature you can see within 30 feet of you.  You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
+
 ### Glide
-At level two, you gain the Glide ability which allows you to long jump up to three times your normal jump distance and also acts as a slow fall, preventing damage from a fall.
+At level two, you gain the Glide ability which allows you to use your light to extend your long jump and high jump up to twice your normal jump distance and also acts as a slow fall, preventing damage from a fall.  Depending on how this is used, this can extend either your long jump or your high jump as described below.
+
+#### Long Jump
+When you make a long jump with Glide, you can cover a number of feet up to twice your Wisdom score (not modifier) if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half that distance.  Each foot you clear on the jump costs a foot of distance.
+
+#### High Jump
+When you make a high jump with Lift, you leap into the air a number of feet equal to (3 + willpower modifier) * 2 if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half this distance.  Each foot you clear on the jump costs a foot of movement.
+
+At 5th level, your Glide ability gains one of the following features based on your selected Archetype.  Sunsingers and Stormcallers can choose between Focused Control, Focused Burst, and Balanced Glide.  Voidwalkers can choose between Focused Control, Focused Burst, and Blink.
+
+Ability | Description | Bonus
+---|---|---
+Focused Control: | Upgrades Glide for better directional control while in mid-air. | You can now change direction up to 90 degrees in any direction once while in the middle of a jump.
+Focused Burst: | Upgrades Glide to provide an initial burst of speed. | You cross the distance faster and gain an additional 5 feet of movement after a jump.
+Balanced Glide: | Upgrades Glide to provide bonuses to both speed and control. | You cross the distance faster and gain an additional 5 feet of movement after a jump and you may alter your jump direction up to 45 degrees in any direction once while in the air.
+Blink: | Teleport a short distance. | You teleport up to your maximum jump distance.  You cannot blink through solid obstacles, but it can be used to avoid traps, difficult terrain, etc.
+
 ### Light Pools
 At level 2, you gain access to three pools of light. One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super. All pools start at 0 light. The melee pool has a maximum of 20 light points, the grenade pool max is 30, and the pool empowering your super maxes at 50 points. The ghost distills light from the environment, enemies you've destroyed, and Orbs of Light during the ghost round. See the section on Ghosts for more information.
+
 ### Melee
+At level two, you gain access to a special light-enhanced, close-quarters, hand-to-hand melee attack. When you make a normal melee attack, you add your strength modifier and proficiency bonus to the roll to hit and do 1 + your strength modifier in damage.  If you consume 20 light from your Melee resource pool to upgrade this attack, you now add your wisdom modifier and proficiency bonus to the attack roll (instead of strength) and damage is 1d6 + wisdom modifier + proficiency bonus.
+
+At 5th level, your melee will gain a feature based on your chosen Archetype. See the archetype section for options.
+
 ### Grenade
+At level two, you gain access to a special light-powered grenade. These grenades consume 30 light from your Grenade resource pool. When you want to use a grenade, spend the light points and throw the grenade to any location within 60 feet.  The grenade will explode immediately, doing 3d6 Light damage to all enemies within 10 feet.  If the creature succeeds at a Dexterity save at DC 15, it will take half damage (round down).
+
+At 3rd and 5th level, your grenade is affected by your chosen Archetype. See the archetype section for details.
+
 ### Warlock Archetype & Super Ability
 ### Arcane Study
 ### Ancient Order
