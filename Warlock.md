@@ -55,7 +55,7 @@ You are proficient with the following items, in addition to any proficiencies pr
 **Weapons:** All Primary, Special, and Heavy weapons<br>
 **Tools:** None<br>
 **Saving Throws:** Wisdom, Intelligence<br>
-**Skills:** Choose 2 from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Medicine, Nature, Perception, Performance, Persuasion, Sleight of Hand, and Stealth, Survival.
+**Skills:** Choose 4 from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Medicine, Nature, Perception, Performance, Persuasion, Sleight of Hand, and Stealth, Survival.
 
 ## Class Features
 ### Arcane Optics
