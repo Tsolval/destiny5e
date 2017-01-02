@@ -23,25 +23,25 @@ It laughed at me. It said we were the same.
 /Crota marches with a thousand Knights and they say the sky above Mare Imbrium has turned into green fire. They are dying in numbers I cannot bear to repeat. He kills them one by one with a sword that eats their Light. Eriana, we have to do something - 
 Kill the Wizard. Scatter the ash. It has nothing but lies to offer.
 Get your Sparrows. We have Light and fury. That will be enough
-Ghost Fragment: Warlock 2
+[Ghost Fragment: Warlock 2](http://destiny-grimoire.info/#Card-101110)
 
-# Warlock
+# [Warlock](http://destiny-grimoire.info/#Card-101030)
 _"We have found new ways to weaponize curiosity. Pathways into the darkness."_
 ___
 Warrior-scholars of the Light, Warlocks devote themselves to understanding the Traveler and its power. A Warlock's mind is an arsenal of deadly secrets, balanced between godhood and madness. On the battlefield, those secrets can shatter reality itself.
 
 ## Table: The Warlock
-| Level | Proficiency Bonus | Sneak Attack | Features |
-|---|---|---|---|
-| 1st | +2 | 1d6 | Sneak Attack, Natural Explorer |
-| 2nd | +2 | 1d6 | Jump, Radiant Melee, Light Grenade |
-| 3rd | +2 | 2d6 | Hunter Archetype, Explosion of Light |
-| 4th | +2 | 2d6 | Hunter's Path, Way of the Hunter, Feat |
-| 5th | +3 | 3d6 | Grenade, Melee, Jump Features |
-| 6th | +3 | 3d6 | Uncanny Dodge, Natural Explorer Improvements |
-| 7th | +3 | 4d6 | Hunter Archetype Improvement |
-| 8th | +3 | 4d6 | Explosion of Light feature, Feat |
-| 9th | +4 | 5d6 | Hunter Archetype Improvement |
+| Level | Proficiency<br>Bonus | Features | Cantrips<br>Known |
+|:-----:|:---:|:--------------------------|:-----------------:|
+|  1st  | +2 | Arcane Optics, Awakened Mind      | 2 |
+|  2nd  | +2 | Glide, Melee, Grenade             | 2 |
+|  3rd  | +2 | Warlock Archetype, Super Ability  | 2 |
+|  4th  | +2 | Arcane Study, Ancient Order, Feat | 3 |
+|  5th  | +3 | Grenade, Melee, Glide Features    | 3 |
+|  6th  | +3 | Entropic Ward, Traveller's Gift   | 3 |
+|  7th  | +3 | Warlock Archetype Improvement     | 3 |
+|  8th  | +3 | Super Ability Improvement, Feat   | 3 |
+|  9th  | +4 | Warlock Archetype Improvement     | 3 |
 
 ## Hit Points
 **Hit Dice:** 1d8 per warlock level
@@ -54,4 +54,63 @@ You are proficient with the following items, in addition to any proficiencies pr
 **Armor:** Warlock Armor
 **Weapons:** All handguns (Hand Cannons, Scout Rifles, Pulse Rifles, Auto Rifles, Fusion Rifles, Sniper Rifles, Shotguns, Sidearms, Machine Guns, and Rocket Launchers), and Heavy Swords or Axes.
 **Tools:** None
+**Saving Throws:** Wisdom, Intelligence
 **Skills:** Choose 2 from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Medicine, Nature, Perception, Performance, Persuasion, Sleight of Hand, and Stealth, Survival.
+
+## Class Features
+### Arcane Optics
+You have spent many hours researching the Travelers gift and have gained a few insights into the nature of Light which have allowed you to learn to manipulate it to your advantage.  At first level, you know two cantrips of your choice from the Warlock spell list at the bottom of this page.  You may learn additional cantrips at higher levels, as indicated in the Cantrips Known column of the Warlock table.
+### Awakened Mind
+Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures.  You can telepathically speak to any creature you can see within 30 feet of you.  You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
+### Glide
+At level two, you gain the Glide ability which allows you to long jump up to three times your normal jump distance and also acts as a slow fall, preventing damage from a fall.
+### Light Pools
+At level 2, you gain access to three pools of light. One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super. All pools start at 0 light. The melee pool has a maximum of 20 light points, the grenade pool max is 30, and the pool empowering your super maxes at 50 points. The ghost distills light from the environment, enemies you've destroyed, and Orbs of Light during the ghost round. See the section on Ghosts for more information.
+### Melee
+### Grenade
+### Warlock Archetype & Super Ability
+### Arcane Study
+### Ancient Order
+### Entropic Ward
+### Traveller's Gift
+## Warlock Archetypes
+### [Voidwalker](http://destiny-grimoire.info/#Card-307060)
+_"Those who have stared into the Void are not bound by the laws of space and time."_
+The Traveler came out of the void that surrounds all things. Thus we know that the void is full of power. Thus we enter the void without fear.
+
+Small minds will call your abilities blasphemous. They will compare you to the abominable Wizards of the Hive.
+
+But you will not be held back. Gifted with the Traveler's Light, armed with the secret physics of a lost age, you will tear reality asunder.
+
+You will fear nothing, and nothing will not fear you.
+#### Super Ability - [Nova Bomb](http://destiny-grimoire.info/#Card-301160)
+Channel the Traveler's Light into a bolt of energy with the power of a collapsing star. The devastating Nova Bomb scours the battlefield with ethereal fire - but be careful in its use. It takes precious moments to summon, and it must be aimed precisely to avoid obstacles.
+#### Energy Drain
+#### Void Grenades
+#### Additional Features
+### [Sunsinger](http://destiny-grimoire.info/#Card-307070)
+_"There are flames that even the Darkness cannot extinguish."_
+These are dark times. Humanity stands on the brink of extinction. We will carry fire into that darkness - a beacon to guide the way, and a pyre to consume our great enemy. 
+
+The Light saved us from death and forged us into weapons. We seek to understand it, to embrace it, to consume and be consumed by it. We hope to become radiant.
+
+Our fellow Guardians need our power. Our civilization needs our strength.
+#### Super Ability - [Radiance](http://destiny-grimoire.info/#Card-301170)
+Open yourself to the Light. Glimpse, for a few rapturous moments, the truth beyond the powers you wield.
+
+A Warlock in a state of Radiance threatens to slip beyond the bonds of the material, shrugging off physical harm, channeling a torrent of abilities. Some may learn to elevate nearby Guardians, gifting them with power. Others, entranced by the Ghosts' power to reach beyond death, may learn to pluck themselves out of nothingness like the phoenix of ancient myth.
+#### Scorch
+#### Solar Grenades
+#### Additional Features
+### [Stormcaller](http://destiny-grimoire.info/#Card-700060)
+“Harmony within, hurricane without.”
+Meditate. Focus. Draw the static from within. The Arc is inside all life.
+
+You must feel it take hold, let it flow through, but not consume you. You are a conduit. Between sky and earth. Electricity and matter. Life and death.
+
+You are a weapon.
+#### Super Ability - [Storm Trance](http://destiny-grimoire.info/#Card-700120)
+Focus your Light to call forth a powerful Arc storm, and siphon it, channeling lightning through your fingertips to send it surging between your targets. A Warlock in Stormtrance is exercising such unbreakable focus that the Arc energy they summon draws them off the ground, the air humming and crackling around them. Like lightning you bend your path forward through the air, striking down anything too slow escape the storm.
+#### Thunderstrike
+#### Arc Grenades
+#### Additional Features
