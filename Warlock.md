@@ -101,15 +101,20 @@ At 3rd and 5th level, your grenade is affected by your chosen Archetype. See the
 At level 3, you choose one of the available Archetypes, see below, and gain your chosen Archetype's Super Ability.  This ability consumes 50 light from your Super resource pool.
 
 ### Arcane Study
-By level 4, you embody one of these Warlock Ideals. Choose one and gain its benefits.
-Arcane Wisdom: Training focused on battle recovery and speed.
-Arcane Spirit: Training focused on battle recovery and toughness.
-Arcane Force: Training focused on toughness and speed.
+At level 4, you specialize in one of these Warlock Ideals. Choose one and gain its benefits.
+Ideal | Description | Bonus
+:---|:---|:---
+**Arcane Wisdom:** | Training focused on battle recovery and speed. | Movement +5, Recovery -1
+**Arcane Spirit:** | Training focused on battle recovery and toughness. | AC +1, Recovery -1
+**Arcane Force:** | Training focused on toughness and speed. | AC +1, Movement +5
 
 ### Ancient Order
-Ancestral Order: Training focused on all attributes.
-Chaos Order: Training focused on speed.
-Divine Order: Training focused on toughness at all costs.
+At level 4, you are invited to join these Warlock Orders. Choose one and gain its benefits.
+Order | Description | Bonus
+:---|:---|:---
+**Ancestral Order:** | Training focused on all attributes. | AC +1, Movement +5, Recovery -1
+**Chaos Order:** | Training focused on speed. | Movement +10
+**Divine Order:** | Training focused on toughness at all costs. | AC +2
 
 ### Entropic Ward
 ### Traveller's Gift
