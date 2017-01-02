@@ -232,11 +232,27 @@ At 5th level, select one of the following grenade types.  Your grenade ability w
 
 Ability | Description | Bonus
 :---|:---|:---
-**Solar Grenade:** | A grenade that creates a flare of Solar Light which continually damages enemies trapped inside. | 
-**Firebolt Grenade:** | A grenade that unleashes bolts of Solar Light at nearby enemies. | 
+**Solar Grenade:** | A grenade that creates a flare of Solar Light which continually damages enemies trapped inside. | Instead of exploding, your grenade remains for 18 seconds (3 rounds) doing 2d6 damage each round to enemies within its blast radius.
+**Firebolt Grenade:** | A grenade that unleashes bolts of Solar Light at nearby enemies. | The grenade no longer explodes, but its area of effect is increased to 15 feet. When the grenade goes off, each target in the area is hit by a bolt of fire which deals 2d8 damage.
 **Fusion Grenade:** | A grenade that causes bonus damage when attached to its target. | If your roll to hit meets or exceeds the AC of an enemy standing in the targeted area, the grenade sticks to this enemy and does an additional 2d6 damage to it.
 
 #### Additional Features
+At level 7, you choose one of the following abilities.
+
+Ability | Description | Bonus
+:---|:---|:---
+**Radiant Will:** | Increases the duration of Radiance. | Radiance now lasts for 6 rounds.
+**Viking Funeral:** | Enemies you ignite take more damage from all sources. Stacks up to 3 times. | Each stack increases all damage to the target by 1d4.  Each stack lasts for 3 rounds.
+**Sunburst:** | Killing an enemy with Scorch generates an Orb of Light. | Make them take one for your team.
+
+And at 9th level, you can add one of the following abilities.
+
+Ability | Description | Bonus
+:---|:---|:---
+**Touch of Flame:** | All grenades ignite enemies, causing damage over time. | Ignited enemies take 1d4 damage for 3 rounds.
+**Angel of Light:** | Aiming your weapon while in the air will hold you in place for a short time. | Become the hummingbird.
+**Gift of the Sun:** | Gain an additional grenade. | Grenade pool maximum increases to 60.
+
 ### [Stormcaller](http://destiny-grimoire.info/#Card-700060)
 “Harmony within, hurricane without.”
 Meditate. Focus. Draw the static from within. The Arc is inside all life.
