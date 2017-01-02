@@ -222,7 +222,7 @@ Ability | Description | Bonus
 **Vanish:** | Disappear from sight for the duration of the Arc Blade Super or until an attack is made. | You may use a bonus action to enter Stealth.
 
 #### Blink Strike
-At 3rd Level, your melee ability becomes Blink Strike.  Teleport to a target within 10 feet of you and gain advantage on the attack as if it were a sneak attack.
+At 3rd Level, your melee ability becomes Blink Strike and now does Arc damage.  Teleport to a target within 10 feet of you and gain advantage on the attack as if it were a sneak attack.
 
 At 5th level, choose one of the following features to add to your Blink Strike.
 
@@ -233,7 +233,7 @@ Ability | Description | Bonus
 **Fast Twitch:** | Reduces the cooldown of Blink Strike.| Blink Strike now costs 10 light.
 
 #### Arc Grenades
-At 3rd level, your grenade now does Solar damage.
+At 3rd level, your grenade now does Arc damage.
 
 At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
 
@@ -318,7 +318,7 @@ Ability | Description | Bonus
 **Quiver:** | Fire Shadowshot up to three times. Void Anchors have reduced range. | You can fire up to three projectiles.  Range is reduced to 15 feet.
 
 #### Smoke
-At 3rd Level, your melee ability becomes Smoke.  Throw a smoke bomb to slow and disorient those within its cloud.  Smoke has an area of effect of 10 feet, similar to a grenade.  It persists for 2 rounds and becomes difficult terrain for all enemies passing through it.  Enemies in smoke are disoriented and gain disadvantage as if they were poisoned.
+At 3rd Level, your melee ability becomes Smoke and does Void damage.  Throw a smoke bomb to slow and disorient those within its cloud.  Smoke has an area of effect of 10 feet, similar to a grenade.  It persists for 2 rounds and becomes difficult terrain for all enemies passing through it.  Enemies in smoke are disoriented and gain disadvantage as if they were poisoned.
 
 At 5th level, choose one of the following features to add to your Smoke.
 
@@ -329,7 +329,7 @@ Ability | Description | Bonus
 **Snare:** | Allows smoke to stick to surfaces, detonating when enemies are near. | Smoke pellets stick to surfaces and detonate when enemies enter their area of effect.
 
 #### Void Grenades
-At 3rd level, your grenade now does Solar damage.
+At 3rd level, your grenade now does Void damage.
 
 At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
 
