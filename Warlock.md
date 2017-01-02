@@ -31,7 +31,7 @@ ___
 Warrior-scholars of the Light, Warlocks devote themselves to understanding the Traveler and its power. A Warlock's mind is an arsenal of deadly secrets, balanced between godhood and madness. On the battlefield, those secrets can shatter reality itself.
 
 ## Table: The Warlock
-| Level | Proficiency<br>Bonus | Features | Cantrips<br>Known |
+| Level | Proficiency Bonus | Features | Cantrips Known |
 |:-----:|:---:|:--------------------------|:-----------------:|
 |  1st  | +2 | Arcane Optics, Awakened Mind      | 2 |
 |  2nd  | +2 | Glide, Melee, Grenade             | 2 |
