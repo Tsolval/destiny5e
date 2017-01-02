@@ -140,8 +140,6 @@ Starting at level 6, your can reroll a saving throw that you fail.  If you do so
 At 6th level, you gain access to a limited well of stamina that you can draw on to protect yourself from harm.  On your turn, you can use a bonus action to regain hit points equal to 1d10 + your constitution modifier.  Once you use this feature, you must finish a short or long rest before you can use it again.
 
 ## Titan Archetypes
-At level 3, you choose to adopt one of the following Titan Archetypes.
-
 ### [Striker](http://destiny-grimoire.info/#Card-307020)
 _"At close quarters a fist is better than any gun."_
 Striker Titans charge into close combat, armored in Light and wielding fistfuls of thunder.
@@ -163,6 +161,7 @@ Ability | Description
 
 #### Storm Fist
 At 3rd Level, your melee ability becomes Storm Fist.  It now deals Arc Damage and damage is increased from 1d6 to 1d10.
+
 At 5th level, choose one of the following features to add to your Storm Fist.
 
 Ability | Description
@@ -173,6 +172,7 @@ Ability | Description
 
 #### Arc Grenades
 At 3rd level, your grenade now does Arc damage.
+
 At 5th level, you may select one of the following grenade types.  Your grenade ability will be modified as described.
 
 Ability | Description
@@ -230,6 +230,7 @@ Ability | Description
 
 #### Void Grenades
 At 3rd level, your grenade now does Void damage.
+
 At 5th level, you may select one of the following grenade types.  Your grenade ability will be modified as described.
 
 Ability | Description
