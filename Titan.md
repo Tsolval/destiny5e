@@ -120,7 +120,8 @@ At 3rd and 5th level, your grenade is affected by your chosen Archetype. See the
 At level 3, you choose one of the available Archetypes, see below, and gain your chosen Archetype's Super Ability.  This ability consumes 50 light from your Super resource pool.
 
 ### Titan Codex
-At level 4, you gain access to two of the following Codices, one of Codex I-III, and one from Codex IV-VI.  
+At level 4, you gain access to two of the following Codices.  Traditionally, a Titan selects one from Codex I-III, and one from Codex IV-VI.
+
 Codex | Description
 ---|---
 **Titan Codex I:** | Training focused on battle recovery and toughness.  Reduce your healing cooldown by 1 and add 1 to your AC
