@@ -20,7 +20,7 @@ Hunters stalk the wilderness beyond the City, harnessing the Light to reclaim th
 | Level | Proficiency Bonus | Features | Sneak Attack |
 |:-----:|:-----------------:|----------|:------------:|
 | 1st | +2 | Expertise, Sneak Attack, Natural Explorer    | 1d6 |
-| 2nd | +2 | Double Jump, Melee, Grenade                  | 1d6 |
+| 2nd | +2 | Double Jump, Light Pools, Melee, Grenade     | 1d6 |
 | 3rd | +2 | Hunter Archetype, Super Ability              | 2d6 |
 | 4th | +2 | Hunter’s Path, Way of the Hunter, Feat       | 2d6 |
 | 5th | +3 | Grenade, Melee, Double Jump Features         | 3d6 |
@@ -81,7 +81,7 @@ When you make a high jump with Double Jump, you leap into the air a number of fe
 
 At 5th level, your Double Jump ability gains one of three features based on your selected Hunter Archetype.  Nightstalkers and Gunslingers can choose between Increased Control, Increased Height, and Triple Jump.  Bladedancers get to choose between Increased Control, Increased Height, and Blink.
 
-Ability | Description | Bonus
+Feature | Description | Benefit
 :---|:---|:---
 **Increased Height** | Upgrades Double Jump to travel to greater height. | Increases your high jump to (3 + dexterity modifier) * 3.
 **Increased Control** | Upgrades Double Jump for better directional control while in the air. | You can now change direction up to 90 degrees once while in the middle of a jump.
@@ -128,8 +128,8 @@ Way | Description | Benefit
 At 6th level, you gain one of the following features of your choice.
 
 Feature | Description
----|---
-**Colossus&nbsp;Slayer:** | Your tenacity can wear down the most potent foes. When you hit a creature with a weapon Attack, the creature takes an extra 1d8 damage if it’s below its hit point maximum. You can deal this extra damage only once per turn.
+:---|:---
+**Colossus&nbsp;Slayer:** | Your tenacity can wear down the most potent foes.  When you hit a creature with a weapon Attack, the creature takes an extra 1d8 damage if it’s below its hit point maximum. You can deal this extra damage only once per turn.
 **Giant&nbsp;Killer:** | When a Large or larger creature within 5 feet of you hits or misses you with an Attack, you can use your reaction to Attack that creature immediately after its Attack, provided that you can see the creature.
 **Horde&nbsp;Breaker:** | Once on each of your turns when you make a weapon Attack, you can make another Attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
 
@@ -152,7 +152,7 @@ Golden Gun | Solar | 1d20 + 2 + dex mod + prof bonus | 3d10 + dex mod + prof bon
 
 At level 8, you can choose one of the following additional features for your Golden Gun.
 
-Ability | Description | Bonus
+Feature | Description | Benefit
 :---|:---|:---
 **Deadeye:** | Significantly increases the accuracy of Golden Gun. | Attack bonus increases from +2 to +5
 **Combustion:** | Killing enemies with Golden Gun causes them to explode after about one second. | The victim explodes, dealing 3d6 splash damage to all enemies within 5 feet.<br>half damage with a DC 17 Dexterity save.
@@ -163,7 +163,7 @@ At 3rd Level, your melee ability becomes Throwing Knife.  It now deals Solar Dam
 
 At 5th level, choose one of the following features to add to your Throwing Knife.
 
-Ability | Description | Bonus 
+Feature | Description | Benefit
 :---|:---|:---
 **Circle of Life:** |Getting a precision kill with Throwing Knife reduces Golden Gun's cooldown.| Add 1d6 light to the Super pool 
 **Incendiary Blade:** |Throwing Knife sets enemies on fire, dealing additional damage over time.| Deals 1d4 damage each round for 2 rounds.
@@ -174,7 +174,7 @@ At 3rd level, your grenade now does Solar damage.
 
 At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
 
-Ability | Description | Bonus
+Grenade | Description | Benefit
 :---|:---|:---
 **Incendiary Grenade:** | An explosive grenade that sets enemies on fire, causing additional damage to them. | Deals 1d4 damage each round for 2 rounds to any enemy caught in the blast 
 **Swarm Grenade:** | A grenade which detonates on impact, releasing multiple drones that seek nearby enemies. | The grenade no longer explodes, but leaves 12 drones at the target location for up to 3 rounds.  The drones track to enemies that pass within 10 feet of them doing 1d4 damage each.
@@ -183,7 +183,7 @@ Ability | Description | Bonus
 #### Additional Features
 At level 7, you choose one of the following abilities.
 
-Ability | Description | Bonus
+Feature | Description | Benefit
 :---|:---|:---
 **Scavenger:** | Picking up ammo reduces the cooldown of your grenade and Throwing Knife. | Each box of ammo you pick up grants 1d4 light
 **Keyhole:** | Golden Gun overpenetrates and can damage multiple targets. | Draw a 90 foot line from you through your target.  If any other targets are along that line, roll to hit with Golden Gun and apply damage to each of them.
@@ -191,7 +191,7 @@ Ability | Description | Bonus
 
 And at 9th level, you can add one of the following abilities.
 
-Ability | Description | Bonus
+Feature | Description | Benefit
 :---|:---|:---
 **Chain of Woe:** | Precision kills allow follow up attacks. Stacks up to 3 times. | If you kill a target with a critical hit, attack another target.  You can attack (and kill) a maximum of 4 targets a round with this ability
 **Over the Horizon:** | Increases the range of Golden Gun. | Range increases to 60/120.
@@ -215,7 +215,7 @@ Arc Blades | Arc | 1d20 + dex mod + prof bonus | 2d8 + dex mod + prof bonus | 2 
 
 At level 8, you can choose one of the following additional features for your Super ability.
 
-Ability | Description | Bonus
+Feature | Description | Benefit
 :---|:---|:---
 **Showstopper:** | Damage nearby enemies. | Apply 3d8 damage to every enemy within 10 feet of you.
 **Razor's Edge:** | Unleash a destructive wave of energy that travels along the ground in a straight path from the front of the player. | This wave of energy travels in a straight line in front of you for 30 feet, dealing 3d10 damage to enemies in its path. 
@@ -226,7 +226,7 @@ At 3rd Level, your melee ability becomes Blink Strike and now does Arc damage.  
 
 At 5th level, choose one of the following features to add to your Blink Strike.
 
-Ability | Description | Bonus 
+Feature | Description | Benefit
 :---|:---|:---
 **Backstab:** | Hitting an enemy from behind with Blink Strike causes significantly more damage.| If you attack a creature's flank or rear, you do an additional 1d6 damage.
 **Escape Artist:** | Hitting an enemy with Blink Strike grants brief invisibility.| Your Arc abilities grant you automatic Stealth for 2 rounds when you hit an enemy.
@@ -237,7 +237,7 @@ At 3rd level, your grenade now does Arc damage.
 
 At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
 
-Ability | Description | Bonus
+Grenade | Description | Benefit
 :---|:---|:---
 **Flux Grenade:** | An explosive grenade which deals additional damage when attached to enemies. | If your roll to hit meets or exceeds the AC of an enemy standing in the targeted area, the grenade sticks to this enemy and does an additional 2d6 damage to it.
 **Skip Grenade:** | A grenade which splits on impact, creating multiple projectiles which seek enemies. | The grenade no longer explodes, but splits into 5 drones which seek enemies within 10 yards of ground zero.  Drone targets must succeed with a DC 15 Dexterity save or take 2d6 damage.
@@ -246,7 +246,7 @@ Ability | Description | Bonus
 #### Additional Features
 At level 7, you choose one of the following abilities.
 
-Ability | Description | Bonus
+Feature | Description | Benefit
 :---|:---|:---
 **Fleet Footed:** | Increases maximum sprint speed. | Your movement is increased by 5.
 **Quick Draw:** | Weapons are ready immediately. | Readying your weapons is now a reaction.
@@ -254,7 +254,7 @@ Ability | Description | Bonus
 
 And at 9th level, you can add one of the following abilities.
 
-Ability | Description | Bonus
+Feature | Description | Benefit
 :---|:---|:---
 **Encore:** | Killing an enemy with Arc Blade extends its duration. | Killing 2 enemies extends your Arc Blade by 1 round.
 **Stalker:** | Gain invisibility after crouching in place for a short time. | Spending a round crouching grants automatic stealth for 2 rounds.
@@ -311,7 +311,7 @@ At level 3, you can spend 50 Light from your Super pool to use your Shadowshot s
 
 At level 8, you can choose one of the following additional features for your Super ability.
 
-Ability | Description | Bonus
+Feature | Description | Benefit
 :---|:---|:---
 **Blood Bound:** | Tethered enemies explode when killed. Damage to tethered enemies is shared to all. | When a tethered enemy takes damage, apply the same amount of damage to every other tethered enemy.
 **Black Hole:** | The Void Anchor has increased range, lasts significantly longer, and can tether more targets. | Tether may now reach up to 15 enemies no more than 25 feet away and lasts for 6 rounds.
@@ -322,7 +322,7 @@ At 3rd Level, your melee ability becomes Smoke and does Void damage.  Throw a sm
 
 At 5th level, choose one of the following features to add to your Smoke.
 
-Ability | Description | Bonus 
+Feature | Description | Benefit
 :---|:---|:---
 **Envenomed:** | Adds a toxin that damages enemies within the smoke. | Toxin deals 1d6 damage to enemies within the smoke cloud.
 **Vanish in Smoke:** | You and allies near Smoke explosions vanish from sight. | Allies gain automatic stealth for 2 rounds.
@@ -333,7 +333,7 @@ At 3rd level, your grenade now does Void damage.
 
 At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
 
-Ability | Description | Bonus
+Grenade | Description | Benefit
 :---|:---|:---
 **Spike Grenade:** | A grenade that attaches to any surface and emits a torrent of damaging void light. | The grenade now does damage in a conical area 15 feet long and 10 feet wide. The grenade lasts for 18 seconds (3 rounds), but no longer explodes. Instead, any enemy inside or passing through the cone created by the grenade takes 2d6 damage.
 **Voidwall Grenade:** | A Grenade that creates a horizontal wall of burning void light. | This grenade creates a line of void fire to expand 10 feet to the left and 10 feet to the right from the point of impact (from your perspective) for 3 rounds that burns enemies inside of it or passing through it for 2d6 damage.
@@ -342,7 +342,7 @@ Ability | Description | Bonus
 #### Additional Features
 At level 7, you choose one of the following abilities.
 
-Ability | Description | Bonus
+Feature | Description | Benefit
 :---|:---|:---
 **Courage of the Pack:** | Killing tethered targets increases Recovery and Armor for you and nearby allies. Stacks up to 5 times. | Each stack reduces recovery by one and increases AC by 1.  Effect lasts 3 rounds.
 **Light of the Pack:** | Killing tethered targets creates Orbs of Light for your allies. | 1 Orb is created for every 2 dead tethered enemies.
@@ -350,7 +350,7 @@ Ability | Description | Bonus
 
 And at 9th level, you can add one of the following abilities.
 
-Ability | Description | Bonus
+Feature | Description | Benefit
 :---|:---|:---
 **Keen Scout:** | Sprint and Sneak faster, gain Enhanced Tracker, and ability to Mark targets you damage. | Increase your movement speed by 5 feet.  Targets you damage are marked, granting +1 for ally rolls to hit.  Treasure and materials show up on your HUD, though how to get to them may still be an issue.
 **Predator:** | The Void Anchors fired from Shadowshot become traps that stick to surfaces and wait for prey. | Shadowshots activate when enemies enter their area of effect.
