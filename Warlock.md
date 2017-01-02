@@ -85,7 +85,9 @@ Blink: | Teleport a short distance. | You teleport up to your maximum Glide dist
 ### Light Pools
 At level 2, you gain access to three pools of Light. One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super Ability. All pools start at 0 Light. The Melee pool has a maximum of 20 Light points, the Grenade pool max is 30, and the pool empowering your Super Ability maxes at 50 points. During its round, Your ghost distills Light from the environment, enemies you've destroyed, and Orbs of Light you've encountered, and distributes it to your resource pools. See the section on Ghosts for more information.
 
-### Melee
+### Melee - [Palm](http://destiny-grimoire.info/#Card-301200)
+_Curiosity gets a Warlock into trouble, and force of will gets a Warlock out. Even novices can shear reality with a single deadly gesture._
+
 At level two, you gain access to a special light-enhanced, close-quarters, hand-to-hand melee attack. This melee consumes 20 Light from your Melee resource pool and upgrades a standard melee attack.  You can use this attack on any enemy within 5 feet to deal 1d6 damage.  Add your Wisdom modifier and Proficiency bonus to both the attack and damage rolls.
 
 At 5th level, your melee will gain a feature based on your chosen Archetype. See the archetype section for options.
@@ -99,7 +101,16 @@ At 3rd and 5th level, your grenade is affected by your chosen Archetype. See the
 At level 3, you choose one of the available Archetypes, see below, and gain your chosen Archetype's Super Ability.  This ability consumes 50 light from your Super resource pool.
 
 ### Arcane Study
+By level 4, you embody one of these Warlock Ideals. Choose one and gain its benefits.
+Arcane Wisdom: Training focused on battle recovery and speed.
+Arcane Spirit: Training focused on battle recovery and toughness.
+Arcane Force: Training focused on toughness and speed.
+
 ### Ancient Order
+Ancestral Order: Training focused on all attributes.
+Chaos Order: Training focused on speed.
+Divine Order: Training focused on toughness at all costs.
+
 ### Entropic Ward
 ### Traveller's Gift
 ## Warlock Archetypes
