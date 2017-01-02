@@ -102,6 +102,7 @@ At level 3, you choose one of the available Archetypes, see below, and gain your
 
 ### Arcane Study
 At level 4, you specialize in one of these Warlock Ideals. Choose one and gain its benefits.
+
 Ideal | Description | Bonus
 :---|:---|:---
 **Arcane Wisdom:** | Training focused on battle recovery and speed. | Movement +5, Recovery -1
@@ -110,6 +111,7 @@ Ideal | Description | Bonus
 
 ### Ancient Order
 At level 4, you are invited to join these Warlock Orders. Choose one and gain its benefits.
+
 Order | Description | Bonus
 :---|:---|:---
 **Ancestral Order:** | Training focused on all attributes. | AC +1, Movement +5, Recovery -1
