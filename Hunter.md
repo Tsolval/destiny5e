@@ -124,6 +124,16 @@ Way | Description | Benefit
 **Way of the Fearless:** | Training focused on toughness at all costs. | AC +2
 **Way of the Nomad:** | Training focused on maximum battle recovery. | Recovery -2
 
+### Hunter's Prey
+At 6th level, you gain one of the following features of your choice.
+
+Feature | Description
+---|---
+**Colossus&nbsp;Slayer:** | Your tenacity can wear down the most potent foes. When you hit a creature with a weapon Attack, the creature takes an extra 1d8 damage if it’s below its hit point maximum. You can deal this extra damage only once per turn.
+**Giant&nbsp;Killer:** | When a Large or larger creature within 5 feet of you hits or misses you with an Attack, you can use your reaction to Attack that creature immediately after its Attack, provided that you can see the creature.
+**Horde&nbsp;Breaker:** | Once on each of your turns when you make a weapon Attack, you can make another Attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
+
+
 ## Hunter Archetypes
 ### [Gunslinger](http://destiny-grimoire.info/#Card-307040)
 _"A lone wolf who lives for the perfect shot."_
@@ -344,4 +354,4 @@ Ability | Description | Bonus
 :---|:---|:---
 **Keen Scout:** | Sprint and Sneak faster, gain Enhanced Tracker, and ability to Mark targets you damage. | Increase your movement speed by 5 feet.  Targets you damage are marked, granting +1 for ally rolls to hit.  Treasure and materials show up on your HUD, though how to get to them may still be an issue.
 **Predator:** | The Void Anchors fired from Shadowshot become traps that stick to surfaces and wait for prey. | Shadowshots activate when enemies enter their area of effect.
-**Shadestep:** |  Crouch, Roll, and Blink; Become invincible | Once per round you may use a reaction to evade an attack.
+**Shadestep:** |  Crouch, Roll, and Blink; Become invincible | Once per round, when an attacker that you can see hits you with an Attack, you can use your reaction to evade the attack and avoid damage
