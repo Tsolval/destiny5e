@@ -107,9 +107,9 @@ Ability | Description | Bonus
 At level 2, you gain access to three pools of Light. One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super Ability. All pools start at 0 Light. The Melee pool has a maximum of 20 Light points, the Grenade pool max is 30, and the pool empowering your Super Ability maxes at 50 points. During its round, Your ghost distills Light from the environment, enemies you've destroyed, and Orbs of Light you've encountered, and distributes it to your resource pools. See the section on Ghosts for more information.
 
 ### Melee
-At level two, you gain access to a special light-enhanced, close-quarters, hand-to-hand melee attack.  When you make a normal melee attack, you roll d20 and add your strength modifier and proficiency bonus to attack.  Damage is 1 + your strength modifier.  If you consume 20 light from your Melee resource pool to upgrade this attack, you can increase the damage to 1d6 + your strength modifier + your proficiency bonus.
+At level two, you gain access to a special light-enhanced, close-quarters, hand-to-hand melee attack. This melee consumes 20 Light from your Melee resource pool and upgrades a standard melee attack.  You can use this attack on any enemy within 5 feet to deal 1d6 damage.  Add your Strength modifier and Proficiency bonus to both the attack and damage rolls.
 
-At 5th level, your melee will gain a feature based on your chosen Archetype.  See the archetype section for options.
+At 5th level, your melee will gain a feature based on your chosen Archetype. See the archetype section for options.
 
 ### Grenade
 At level two, you gain access to a special light-powered grenade. These grenades consume 30 light from your Grenade resource pool. When you want to use a grenade, spend the light points and throw the grenade to any location within 60 feet.  The grenade will explode immediately, doing 3d6 Light damage to all enemies within 10 feet.  If the creature succeeds at a Dexterity save at DC 15, it will take half damage (round down).
