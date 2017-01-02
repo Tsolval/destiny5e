@@ -138,9 +138,9 @@ Draw a hand cannon burning with Solar Light and loaded with three rounds of sunf
 
 At level 3, you can spend 50 Light from your Super Ability pool to summon your Golden Gun; a flaming hand cannon which lasts for 30 seconds (5 rounds) or until it has fired 3 shots.  
 
-**Attack:** 1d20 + 2 + dexterity modifier + proficiency bonus<br>
-**Damage:** 3d10 + dexterity modifier + proficiency bonus; Solar<br>
-**Range:** 30/90
+Super | Type | Attack | Damage | Range
+---|---|---|---|---
+Golden Gun | Solar | 1d20 + 2 + dex mod + prof bonus | 3d10 + dex mod + prof bonus | 30/90
 
 At level 8, you can choose one of the following additional features for your Golden Gun.
 
