@@ -59,7 +59,7 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 ## Class Features
 ### Arcane Optics
-You have spent many hours researching the Travelers gift and have gained a few insights into the nature of Light which have allowed you to learn to manipulate it to your advantage.  At first level, you know two cantrips of your choice from the Warlock spell list at the bottom of this page.  You may learn additional cantrips at higher levels, as indicated in the Cantrips Known column of the Warlock table.
+You have spent many hours researching the Travelers gift and have gained a few insights into the nature of Light which have allowed you to learn to manipulate it to your advantage.  At first level, you know two cantrips of your choice from the Traditional Warlock spell list at the bottom of this page.  You may learn additional cantrips at higher levels, as indicated in the Cantrips Known column of the Warlock table.
 
 ### Awakened Mind
 Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures.  You can telepathically speak to any creature you can see within 30 feet of you.  You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
@@ -119,7 +119,11 @@ Order | Description | Benefit
 **Divine Order:** | Training focused on toughness at all costs. | AC +2
 
 ### Entropic Ward
+At 6th level, you learn to magically ward yourself against attack and to turn an enemy’s failed strike into good luck for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn. Once you use this feature, you can’t use it again until you finish a short or long rest.
+
 ### Traveller's Gift
+The Traveler, via the Speaker, has gifted you with a repository of knowledge to aid you in your arcane endeavors. Your ghost provides you with direct access to this knowledge.  When you gain this feature, choose three cantrips from any class's spell list (the three needn't be from the same list). So long as your ghost is near, you can cast those cantrips at will. They don't count against your number of cantrips known. If they don't appear on the warlock spell list, they are nonetheless warlock spells for you.
+
 ## Warlock Archetypes
 ### [Voidwalker](http://destiny-grimoire.info/#Card-307060)
 _"Those who have stared into the Void are not bound by the laws of space and time."_
