@@ -216,7 +216,7 @@ Feature | Description | Benefit
 :---|:---|:---
 **Armor of Light:** | While inside Ward of Dawn, you and your allies gain significant damage resistance. | Allies inside your Ward of Dawn get a number of temporary hit points equivalent to their current hit point maximum, and a +2 to their AC.  These bonuses only apply while the ally is inside the Ward.
 **Blessing of Light:** | Passing through Ward of Dawn grants you and your allies a temporary shield. | This shield grants a number of temporary hit points equal to the character's hit point maximum for 3 rounds.
-Weapons of Light:** | Passing through Ward of Dawn grants you and your allies an increase to weapon damage. |  Characters with this bonus will add 1d8 to all their damage rolls for 3 rounds.
+**Weapons of Light:** | Passing through Ward of Dawn grants you and your allies an increase to weapon damage. |  Characters with this bonus will add 1d8 to all their damage rolls for 3 rounds.
 
 #### Disintegrate
 At 3rd level, your melee ability becomes Disintegrate.  It now deals Void damage.  When you strike an enemy with Disintegrate, you gain Force Barrier, which grants you 1d8(5) temporary hit points for 2 rounds.
