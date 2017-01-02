@@ -1,42 +1,42 @@
->/ Tighten that strap.<br>
->/ Eh?<br>
->/ The gardbrace is loose. Could slip.<br>
->/ Huh.<br>
->/ It's new?<br>
->/ Agema. Type 1.<br>
->/ How's it hold up? I tried using Agema at the Gap, remember? It didn't - well, what's this?<br>
->/ A Ghost!<br>
->/ Yes. Light be with you.<br>
->/ Excuse me, little Ghost - Tubach, pass me my helmet - thank you. Little Ghost, what are you doing here?<br>
->/ It's just looking around.<br>
->/ Where's your Guardian?<br>
->/ I don't think it has one.<br>
->/ Well, any servant of the Light is welcome among us. We are Holborn's Host, and I'm Holborn. The City's hand on Mars.<br>
->/ Tubach.<br>
->/ That's Tubach, my second. One of the finest Titans of the City. Now see here, little Ghost, on my shoulder? That's the mark of Holborn's Host. Record it. The twelve-pointed star. One for each of the - oh well, off it goes! It doesn't look well.<br>
->/ We should get moving.<br>
->/ A Ghost without a Guardian. I remember when I was risen, you know. When I woke in that wreckage, to see my Ghost hovering there, its light in my eyes, like an angel. And it said - <br>
->/ This story again.<br>
->/ Disrespectful youngster.<br>
->/ Youngster? I could be older than you, Tibon!<br>
->/ True. The gardbrace is fine now. Stop worrying at it. Will you take the Jigoku?<br>
->/ Thought I'd take the long rifle. Bayle has the Jigoku.<br>
->/ Good. That Ghost - what do you think is wrong with it? It's echoing something ancient, an Old Earth language. You know what that Ghost reminds me of, flitting about over there? <br>
->/ I don't.<br>
->/ The time Ghosts from Jagi's Host came back without them. Remember - they got in that fight at some point east of the Caspian? Seven Ghosts, damn near silent, buzzing with some sort of corruption. Drifting back to the Tower, one by one. Scared the Speaker well enough. <br>
->/ I remember. A long time ago. Jagi tells the story differently.<br>
->/ Well. We all grow old. In our way. Little Ghost! Come back here!<br>
->/ It's not going to make it, wherever it's going.<br>
->/ I want to talk to it. Little Ghost! <br>
->/ Lyssa and Bayle are probably there already. <br>
->/ Cabal move slowly. We've got time. <br>
->/ But the Warlocks have had a vision.<br>
->/ Yes. That new one, what's her name. Ingora?<br>
->/ Ikora.<br>
->/ She's always been hasty. I've faced these Cabal before. I know 'em like I know my own armor. <br>
->/ Message from Lyssa. "At the Dust Palace, now. All quiet."<br>
->/ See? All quiet. Why not come with us, little Ghost? We are looking for the old Warmind here, and the one who guards it.<br>
->[Ghost Fragment: Titan](http://destiny-grimoire.info/#Card-101060)<br>
+>/ Tighten that strap.
+/ Eh?
+/ The gardbrace is loose. Could slip.
+/ Huh.
+/ It's new?
+/ Agema. Type 1. 
+/ How's it hold up? I tried using Agema at the Gap, remember? It didn't - well, what's this?
+/ A Ghost!
+/ Yes. Light be with you. 
+/ Excuse me, little Ghost - Tubach, pass me my helmet - thank you. Little Ghost, what are you doing here?
+/ It's just looking around.
+/ Where's your Guardian?
+/ I don't think it has one.
+/ Well, any servant of the Light is welcome among us. We are Holborn's Host, and I'm Holborn. The City's hand on Mars.
+/ Tubach.
+/ That's Tubach, my second. One of the finest Titans of the City. Now see here, little Ghost, on my shoulder? That's the mark of Holborn's Host. Record it. The twelve-pointed star. One for each of the - oh well, off it goes! It doesn't look well.
+/ We should get moving.
+/ A Ghost without a Guardian. I remember when I was risen, you know. When I woke in that wreckage, to see my Ghost hovering there, its light in my eyes, like an angel. And it said - 
+/ This story again.
+/ Disrespectful youngster.
+/ Youngster? I could be older than you, Tibon!
+/ True. The gardbrace is fine now. Stop worrying at it. Will you take the Jigoku?
+/ Thought I'd take the long rifle. Bayle has the Jigoku.
+/ Good. That Ghost - what do you think is wrong with it? It's echoing something ancient, an Old Earth language. You know what that Ghost reminds me of, flitting about over there? 
+/ I don't.
+/ The time Ghosts from Jagi's Host came back without them. Remember - they got in that fight at some point east of the Caspian? Seven Ghosts, damn near silent, buzzing with some sort of corruption. Drifting back to the Tower, one by one. Scared the Speaker well enough. 
+/ I remember. A long time ago. Jagi tells the story differently.
+/ Well. We all grow old. In our way. Little Ghost! Come back here!
+/ It's not going to make it, wherever it's going.
+/ I want to talk to it. Little Ghost! 
+/ Lyssa and Bayle are probably there already. 
+/ Cabal move slowly. We've got time. 
+/ But the Warlocks have had a vision.
+/ Yes. That new one, what's her name. Ingora?
+/ Ikora.
+/ She's always been hasty. I've faced these Cabal before. I know 'em like I know my own armor. 
+/ Message from Lyssa. "At the Dust Palace, now. All quiet."
+/ See? All quiet. Why not come with us, little Ghost? We are looking for the old Warmind here, and the one who guards it.
+[Ghost Fragment: Titan](http://destiny-grimoire.info/#Card-101060)
 
 # [Titan](http://destiny-grimoire.info/#Card-101010)
 _"Strive for honor. Stand for hope."_
@@ -87,15 +87,21 @@ Style | Description
 You have an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.  You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
 
 ### Lift
-At level two, you gain the Lift ability which allows you to LongJump three times your normal jump distance.
+At level two, you gain the Lift ability which uses miniature jet packs built into your armor to lift you into the air.  Depending on how this is used, this can extend either your long jump or your high jump as described below.
+
+#### Long Jump
+When you make a long jump with Lift, you can cover a number of feet up to twice your Strength score (not modifier) if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half that distance.  Each foot you clear on the jump costs a foot of distance.
+
+#### High Jump
+When you make a high jump with Lift, you leap into the air a number of feet equal to (3 + strength modifier) * 2 if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half this distance.  Each foot you clear on the jump costs a foot of movement.
 
 At 5th level, your Lift ability gains one of the following features.
 
-Ability | Description
----|---
-**Increased Height:** | Upgrades Lift to travel to greater height. This extends your high jump to allow you to jump three times the normal height.
-**Increased Control:** | Upgrades Lift for better directional control while in the air.  You can now change direction while in the middle of a jump.
-**Catapult:** | Upgrades Lift to provide a strong initial burst of momentum.  You cross the distance faster and gain an additional 5 feet of movement after a jump.
+Ability | Description | Bonus
+---|---|---
+**Increased Height:** | Upgrades Lift to travel to greater height. | Increases your potential jump height to (3 + strength modifier) * 3.
+**Increased Control:** | Upgrades Lift for better directional control while in the air. | You can now change direction up to 90 degrees in any direction while in the middle of a jump.
+**Catapult:** | Upgrades Lift to provide a strong initial burst of momentum. | When long jumping, you gain an additional 5 feet of movement after a jump.
 
 ### Light Pools
 At level 2, you gain access to three pools of light.  One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super.  All pools start at 0 light.  The melee pool has a maximum of 20 light points, the grenade pool max is 30, and the pool empowering your super maxes at 50 points. 
@@ -107,11 +113,9 @@ At level two, you gain access to a special light-enhanced, close-quarters, hand-
 At 5th level, your melee will gain a feature based on your chosen Archetype.  See the archetype section for options.
 
 ### Grenade
-At level two, you gain access to a special light-powered grenade.  These grenades consume 30 light from your Grenade resource pool.  When you want to use a grenade, spend the light points and make an attack roll against the 5-foot square location you wish the grenade to land in (DC 10).  As a titan, add your strength modifier and proficiency bonus to the attack roll.  If you miss, the grenade will land in one of the surrounding squares, as determined by the GM.  The grenade will explode immediately, damaging creatures within 10 feet with Light.  Roll 3d6 for damage.  Any creature of darkness at the center of the blast takes this amount of damage.  Remove the highest roll die.  Any creature within 5 feet of the grenade will take this damage.  Remove the next highest die roll.  Any creature within 10 feet of the blast will take this much damage.  If the creature succeeds at a Dexterity save at DC 15, it will take half damage (round down).
+At level two, you gain access to a special light-powered grenade. These grenades consume 30 light from your Grenade resource pool. When you want to use a grenade, spend the light points and throw the grenade to any location within 60 feet.  The grenade will explode immediately, doing 3d6 Light damage to all enemies within 10 feet.  If the creature succeeds at a Dexterity save at DC 15, it will take half damage (round down).
 
-For example.  A level 2 titan decides to throw her grenade at a group of Fallen Dregs menacing her and her fireteam.  She makes an attack roll and adds her strength modifier (+2) and her proficiency modifier (+2).  She rolls a d20 and it comes up 3.  3+2+2 is 7, which is a miss (she would have needed to roll a 6 or higher to hit).  The DM has set up the adventure using a Hex Grid, so he rolls a D6 to determine which adjacent space the grenade actually lands in.  He determines that the grenade lands on a space occupied by another enemy, and there are three enemies in the new blast radius, including the original target.  The GM rolls each target's Dexterity save.  The titan rolls 3d6 and gets a 6, a 4, and a 1.  The creature at the center of the blast failed his Dexterity save and therefore takes 6+4+1, or 11 damage.  The creature within 5 feet of the blast also fails its save and therefore takes 4+1 or 5 damage.  The creature at the edge of the blast radius would take 1 damage, but he passed his saving throw and therfore takes half (rounded down) or 0 damage.
-
-At 5th level, you gain access to additional features as specified by your chosen Titan Archetype.
+At 3rd and 5th level, your grenade is affected by your chosen Archetype. See the archetype section for details.
 
 ### Titan Archetype & Super Ability
 At level 3, you choose one of the available Titan Archetypes, see below, and gain the ability to use your light via an ultimate ability as determined by your chosen Titan Archetype.  This ability consumes 50 light from your Super resource pool.
