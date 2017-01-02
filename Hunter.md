@@ -56,10 +56,6 @@ You don't need advantage on the Attack roll if another enemy of the target is wi
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Hunter's table.
 
-### Light Pools
-At level 2, you gain access to three pools of light.  One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super.  All pools start at 0 light.  The melee pool has a maximum of 20 light points, the grenade pool max is 30, and the pool empowering your super maxes at 50 points. 
-The ghost distills light from the environment, enemies you've destroyed, and Orbs of Light during the ghost round.  See the section on Ghosts for more information.
-
 ### Double Jump
 At level two, you gain the Double Jump ability which allows you to Jump again while still in the air.  This allows you to jump twice your normal jump distance in both length and height.
 
@@ -70,6 +66,10 @@ Ability|Description|Bonus
 **Increased Control** | Upgrades Double Jump for better directional control while in the air.  |You can now change direction while in the middle of a jump.
 **Triple Jump** | Upgrades Double Jump to Triple Jump, allowing you to jump while in the air twice.  |This extends extends your jump distance to three times normal in both height and length.  Only Gunslingers and Nightstalkers may choose Triple Jump.
 **Blink** | Teleport a short distance. | Takes you three times your normal jump distance in any forward direction, including straight up.  Only Bladedancers may choose Blink.
+
+### Light Pools
+At level 2, you gain access to three pools of light.  One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super.  All pools start at 0 light.  The melee pool has a maximum of 20 light points, the grenade pool max is 30, and the pool empowering your super maxes at 50 points. 
+The ghost distills light from the environment, enemies you've destroyed, and Orbs of Light during the ghost round.  See the section on Ghosts for more information.
 
 ### Melee
 At level two, you gain access to a special light-enhanced, close-quarters, dagger-based melee attack.  When you make a normal dagger attack, you roll d20 and add your strength or dexterity modifier and proficiency bonus to attack.  Damage is 1d4 + your strength modifier.  If you consume 20 light from your Melee resource pool to upgrade this attack, you now roll 1d6 instead of 1d4 for damage and add both your dexterity (instead of strength) modifier and proficiency bonus to both attack and damage rolls.
