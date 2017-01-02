@@ -30,9 +30,9 @@ Hunters stalk the wilderness beyond the City, harnessing the Light to reclaim th
 | 9th | +4 | Hunter Archetype Improvement                 | 5d6 |
 
 ## Hit Points
-**Hit Dice:** 1d8 per hunter level
-**Hit Points at 1st Level:** 8 + your Constitution Modifier
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per hunter level after 1st
+**Hit Dice:** 1d8 per level<br>
+**Hit Points at 1st Level:** 8 + your Constitution Modifier<br>
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per level after 1st<br>
 
 ## Starting Proficiencies
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
