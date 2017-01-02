@@ -170,6 +170,21 @@ Ability | Description | Bonus
 **Axion&nbsp;Bolt:** | A bolt of Void light which forks into smaller bolts on impact which seek toward enemies. | The grenade doesn't explode, but splits into two bolts which last for 3 rounds and seek enemies within 25 feet of the impact zone.  Bolts have a movement rate of 30 feet and deal 2d6 damage when they contact an enemy. The GM decides whether or not the bolts track the same target.
 
 #### Additional Features
+At level 7, you choose one of the following abilities.
+
+Ability | Description | Bonus
+:---|:---|:---
+**Annihilate:** | Increases the size of the explosion created by Nova Bomb and Vortex grenade. | Explosion radius is increased from 15 to 20 feet
+**Angry Magic:** | Nova Bomb tracks enemies. | Enemies can no longer save for half damage.
+**The Hunger:** | Increases the duration of the Energy Drain effect. | Energy Drain effects now last for 3 rounds.
+
+And at 9th level, you can add one of the following abilities.
+
+Ability | Description | Bonus
+:---|:---|:---
+**Vortex&nbsp;Mastery:** | Increases the range of Axion Bolt seekers and the duration of the Vortex effect of Nova Bomb and Vortex Grenade. | Axion Bolts track enemies up to 30 feet from impact and have 35 movement; Vortex effects now last 1 round longer.
+**Bloom:** | Enemies killed with any of your abilities explode. | Explosions deal 3d6 damage to all enemies within 5 feet.  A DC 15 Dex save reduces damage by half.
+**Embrace&nbsp;the&nbsp;Void:** | Killing enemies with Nova Bomb or any grenade triggers the Energy Drain effect | This effect stacks with The Hunger and Soul Rip effects
 
 ### [Sunsinger](http://destiny-grimoire.info/#Card-307070)
 _"There are flames that even the Darkness cannot extinguish."_
@@ -182,8 +197,45 @@ Our fellow Guardians need our power. Our civilization needs our strength.
 Open yourself to the Light. Glimpse, for a few rapturous moments, the truth beyond the powers you wield.
 
 A Warlock in a state of Radiance threatens to slip beyond the bonds of the material, shrugging off physical harm, channeling a torrent of abilities. Some may learn to elevate nearby Guardians, gifting them with power. Others, entranced by the Ghosts' power to reach beyond death, may learn to pluck themselves out of nothingness like the phoenix of ancient myth.
+
+At level 3, you bathe yourself in Light for 30 seconds (5 rounds), strengthening your grenade and melee damage and lowering their cooldown.  While Radiance is active, your Melee cost is reduced by 5 and its damage is doubled.  In addition, your Grenade damage is raised to 4d6 and its cost is reduced by half.
+
+At level 8, you can choose one of the following additional features for Radiance.
+
+Ability | Description | Bonus
+:---|:---|:---
+**Song of Flame:** | While active, Radiance reduces all cooldowns for nearby allies. | Your grenade and melee cost reduction is granted to allies within 30 feet of you.
+**Radiant Skin:** | While active, Radiance reduces incoming damage. | You take half damage during Radiance.
+**Fireborn:** | Radiance can now be activated from beyond the grave. Doing so returns you to life. | Welcome back, Guardian.
+
 #### Scorch
+At 3rd Level, your melee ability becomes Scorch.  It now deals Solar Damage and can Ignite enemies, dealing 1d4 damage per round for 2 rounds (12 seconds).
+
+At 5th level, choose one of the following features to add to your Scorch.
+
+Ability | Description | Bonus 
+:---|:---|:---
+**Flame Shield:** | Damaging enemies with Scorch reduces incoming damage for a short time. | Incoming damage is halved for 2 rounds.
+**Solar Wind:** | Reduces the cooldown of Scorch. Hitting an enemy with Scorch knocks them back. | The cost of Scorch is reduced to 15 light.  Enemies hit with Scorch are knocked 10 feet away from you.
+**Brimstone:** | Reduces the cooldown of Scorch. Killing enemies with Scorch causes them to explode. | The cost of Scorch is reduced to 15 light.  Exploding enemies deal 3d6 damage to all enemies within 5 feet.  A DC 15 Dex save reduces damage by half.
+
+Ability | Description | Bonus 
+:---|:---|:---
+**Circle of Life:** |Getting a precision kill with Throwing Knife reduces Golden Gun's cooldown.| Add 1d6 light to the Super pool 
+**Incendiary Blade:** |Throwing Knife sets enemies on fire, dealing additional damage over time.| Deals 1d4 damage each round for 2 rounds.
+**Knife Juggler:** |Precision kills with Throwing Knife immediately resets its cooldown.| If you got a critical hit, add 20 light back to the Melee pool to reset the Throwing Knife.
+
 #### Solar Grenades
+At 3rd level, your grenade now does Solar damage.
+
+At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
+
+Ability | Description | Bonus
+:---|:---|:---
+**Solar Grenade:** | A grenade that creates a flare of Solar Light which continually damages enemies trapped inside. | 
+**Firebolt Grenade:** | A grenade that unleashes bolts of Solar Light at nearby enemies. | 
+**Fusion Grenade:** | A grenade that causes bonus damage when attached to its target. | If your roll to hit meets or exceeds the AC of an enemy standing in the targeted area, the grenade sticks to this enemy and does an additional 2d6 damage to it.
+
 #### Additional Features
 ### [Stormcaller](http://destiny-grimoire.info/#Card-700060)
 “Harmony within, hurricane without.”
