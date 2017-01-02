@@ -18,7 +18,7 @@ Hunters stalk the wilderness beyond the City, harnessing the Light to reclaim th
 
 ## Table: The Hunter
 | Level | Proficiency Bonus | Features | Sneak Attack |
-|-------|:-----------------:|----------|:------------:|
+|:-----:|:-----------------:|----------|:------------:|
 | 1st | +2 | Expertise, Sneak Attack, Natural Explorer    | 1d6 |
 | 2nd | +2 | Double Jump, Melee, Grenade                  | 1d6 |
 | 3rd | +2 | Hunter Archetype, Super Ability              | 2d6 |
