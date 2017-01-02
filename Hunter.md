@@ -125,8 +125,6 @@ Way | Description | Benefit
 **Way of the Nomad:** | Training focused on maximum battle recovery. | Recovery -2
 
 ## Hunter Archetypes
-At level 3, you choose to adopt one of the following Hunter Archetypes.
-
 ### [Gunslinger](http://destiny-grimoire.info/#Card-307040)
 _"A lone wolf who lives for the perfect shot."_
 
@@ -152,6 +150,7 @@ Ability | Description | Bonus
 
 #### Throwing Knife
 At 3rd Level, your melee ability becomes Throwing Knife.  It now deals Solar Damage and can strike at range (20/60).
+
 At 5th level, choose one of the following features to add to your Throwing Knife.
 
 Ability | Description | Bonus 
@@ -162,6 +161,7 @@ Ability | Description | Bonus
 
 #### Solar Grenades
 At 3rd level, your grenade now does Solar damage.
+
 At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
 
 Ability | Description | Bonus
@@ -213,6 +213,7 @@ Ability | Description | Bonus
 
 #### Blink Strike
 At 3rd Level, your melee ability becomes Blink Strike.  Teleport to a target within 10 feet of you and gain advantage on the attack as if it were a sneak attack.
+
 At 5th level, choose one of the following features to add to your Blink Strike.
 
 Ability | Description | Bonus 
@@ -223,6 +224,7 @@ Ability | Description | Bonus
 
 #### Arc Grenades
 At 3rd level, your grenade now does Solar damage.
+
 At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
 
 Ability | Description | Bonus
@@ -307,6 +309,7 @@ Ability | Description | Bonus
 
 #### Smoke
 At 3rd Level, your melee ability becomes Smoke.  Throw a smoke bomb to slow and disorient those within its cloud.  Smoke has an area of effect of 10 feet, similar to a grenade.  It persists for 2 rounds and becomes difficult terrain for all enemies passing through it.  Enemies in smoke are disoriented and gain disadvantage as if they were poisoned.
+
 At 5th level, choose one of the following features to add to your Smoke.
 
 Ability | Description | Bonus 
@@ -317,6 +320,7 @@ Ability | Description | Bonus
 
 #### Void Grenades
 At 3rd level, your grenade now does Solar damage.
+
 At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
 
 Ability | Description | Bonus
