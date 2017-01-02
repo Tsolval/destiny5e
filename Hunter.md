@@ -63,6 +63,7 @@ The ghost distills light from the environment, enemies you've destroyed, and Orb
 At level two, you gain the Double Jump ability which allows you to Jump again while still in the air.  This allows you to jump twice your normal jump distance in both length and height.
 
 At 5th level, your Double Jump ability gains one of three features based on your selected Hunter Archetype.  Nightstalkers and Gunslingers can choose between Increased Control, Increased Height, and Triple Jump.  Bladedancer's get to choose between Increased Control, Increased Height, and Blink.
+
 Ability|Description|Bonus
 :---|:---|:---
 **Increased Height** | Upgrades Double Jump to travel to greater height. |This extends your high jump to allow you to jump three times the normal height.
@@ -87,6 +88,7 @@ At level 3, you choose one of the available Hunter Archetypes, see below, and ga
 
 ### Hunter Paths
 At level 4, you begin walking one of these Hunter's Paths.  Choose one and gain its benefits.
+
 Path | Description | Bonus
 :---|:---|:---
 **Path Forgotten:** |Training focused on toughness and speed. | Add 5 to your movement rate and 1 to your AC.
@@ -95,6 +97,7 @@ Path | Description | Bonus
 
 ### Hunter Ways
 At level 4, you begin following one of these Hunter's Ways.  Choose one and gain its benefits.
+
 Way | Description | Bonus
 :---|:---|:---
 **Way of the Drifter:** | Training focused on all attributes. | Add 1 to your AC, 5 to your movement rate, and reduce your healing cooldown by 1.
@@ -118,6 +121,7 @@ At level 3, you can use your Golden Gun super ability to summon a flaming hand c
 Golden Gun has a range of 30/90 and does 3d10 damage.
 
 At level 8, you can choose one of the following additional features for your Golden Gun.
+
 |Ability | Description|Bonus|
 :---|:---|:---
 |**Deadeye:** | Significantly increases the accuracy of Golden Gun.| Golden Gun gets +5 to hit instead of +2|
@@ -127,6 +131,7 @@ At level 8, you can choose one of the following additional features for your Gol
 #### Throwing Knife
 At 3rd Level, your melee ability becomes Throwing Knife.  It now deals Solar Damage and can strike at range (20/60).
 At 5th level, choose one of the following features to add to your Throwing Knife.
+
 Ability | Description | Bonus 
 :---|:---|:---
 **Circle of Life:** |Getting a precision kill with Throwing Knife reduces Golden Gun's cooldown.| Add 1d6 light to the Super pool 
@@ -136,6 +141,7 @@ Ability | Description | Bonus
 #### Solar Grenades
 At 3rd level, your grenade now does Solar damage.
 At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
+
 Ability | Description | Bonus
 :---|:---|:---
 **Incendiary Grenade:** | An explosive grenade that sets enemies on fire, causing additional damage to them. | Deals 1d4 damage each round for 2 rounds to any enemy caught in the blast 
@@ -144,6 +150,7 @@ Ability | Description | Bonus
 
 #### Additional Features
 At level 7, you choose one of the following abilities.
+
 Ability | Description | Bonus
 :---|:---|:---
 **Scavenger:** | Picking up ammo reduces the cooldown of your grenade and Throwing Knife. | Each box of ammo you pick up grants 1d4 light
@@ -151,6 +158,7 @@ Ability | Description | Bonus
 **Gunslinger's Trance:** | Precision kills increase weapon stability. Stacks up to 3 times. | If you make a kill with a critical hit, gain +1 to all attack rolls for 3 rounds.
 
 And at 9th level, you can add one of the following abilities.
+
 Ability | Description | Bonus
 :---|:---|:---
 **Chain of Woe:** | Precision kills allow follow up attacks. Stacks up to 3 times. | If you kill a target with a critical hit, attack another target.  You can attack (and kill) a maximum of 4 targets a round with this ability
@@ -169,6 +177,7 @@ Set aside your weapons and lose yourself in the blade trance. Arc Light galvaniz
 At level 3, you can use your Arc Blade super ability to begin a dance of death which lasts for 30 seconds (5 rounds).  You exchange any guns you are carrying for a pair of daggers which become electrified.  You charge toward the enemy attacking them with your blades.  Roll to melee as per normal.  If you hit, the daggers do 2d8 damage plus dexterity and proficiency bonuses.  You are dual wielding, so you may attack twice per round.  
 
 At level 8, you can choose one of the following additional features for your Super ability.
+
 Ability | Description | Bonus
 :---|:---|:---
 **Showstopper:** | Damage nearby enemies. | Apply 3d8 damage to every enemy within 10 feet of you.
@@ -178,6 +187,7 @@ Ability | Description | Bonus
 #### Blink Strike
 At 3rd Level, your melee ability becomes Blink Strike.  Teleport to a target within 10 feet of you and gain advantage on the attack as if it were a sneak attack.
 At 5th level, choose one of the following features to add to your Blink Strike.
+
 Ability | Description | Bonus 
 :---|:---|:---
 **Backstab:** | Hitting an enemy from behind with Blink Strike causes significantly more damage.| If you attack a creature's flank or rear, you do an additional 1d6 damage.
@@ -187,6 +197,7 @@ Ability | Description | Bonus
 #### Arc Grenades
 At 3rd level, your grenade now does Solar damage.
 At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
+
 Ability | Description | Bonus
 :---|:---|:---
 **Flux Grenade:** | An explosive grenade which deals additional damage when attached to enemies. | If your roll to hit meets or exceeds the AC of an enemy standing in the targeted area, the grenade sticks to this enemy and does an additional 2d6 damage to it.
@@ -195,6 +206,7 @@ Ability | Description | Bonus
 
 #### Additional Features
 At level 7, you choose one of the following abilities.
+
 Ability | Description | Bonus
 :---|:---|:---
 **Fleet Footed:** | Increases maximum sprint speed. | Your movement is increased by 5.
@@ -202,6 +214,7 @@ Ability | Description | Bonus
 **Shadowjack:** | Increases the duration of invisibility effects. | The durations of your Arc Powered stealth abilities are increased to 3 rounds.
 
 And at 9th level, you can add one of the following abilities.
+
 Ability | Description | Bonus
 :---|:---|:---
 **Encore:** | Killing an enemy with Arc Blade extends its duration. | Killing 2 enemies extends your Arc Blade by 1 round.
@@ -229,6 +242,7 @@ Tethered enemies move as if they are in difficult terrain and may not use specia
 The tether itself has hit points equivalent to twice its creators maximum hit points and can thus be directly dispelled via damage.
 
 At level 8, you can choose one of the following additional features for your Super ability.
+
 Ability | Description | Bonus
 :---|:---|:---
 **Blood Bound:** | Tethered enemies explode when killed. Damage to tethered enemies is shared to all. | When a tethered enemy takes damage, apply the same amount of damage to every other tethered enemy.
@@ -238,6 +252,7 @@ Ability | Description | Bonus
 #### Smoke
 At 3rd Level, your melee ability becomes Smoke.  Throw a smoke bomb to slow and disorient those within its cloud.  Smoke has an area of effect of 10 feet, similar to a grenade.  It persists for 2 rounds and becomes difficult terrain for all enemies passing through it.  Enemies in smoke are disoriented and gain disadvantage as if they were poisoned.
 At 5th level, choose one of the following features to add to your Smoke.
+
 Ability | Description | Bonus 
 :---|:---|:---
 **Envenomed:** | Adds a toxin that damages enemies within the smoke. | Toxin deals 1d6 damage to enemies within the smoke cloud.
@@ -247,6 +262,7 @@ Ability | Description | Bonus
 #### Void Grenades
 At 3rd level, your grenade now does Solar damage.
 At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
+
 Ability | Description | Bonus
 :---|:---|:---
 **Spike Grenade:** | A grenade that attaches to any surface and emits a torrent of damaging void light. | The grenade now does damage in a conical area 15 feet long and 10 feet wide. The grenade lasts for 18 seconds (3 rounds), but no longer explodes. Instead, any enemy inside or passing through the cone created by the grenade takes 2d6 damage.
@@ -255,6 +271,7 @@ Ability | Description | Bonus
 
 #### Additional Features
 At level 7, you choose one of the following abilities.
+
 Ability | Description | Bonus
 :---|:---|:---
 **Courage of the Pack:** | Killing tethered targets increases Recovery and Armor for you and nearby allies. Stacks up to 5 times. | Each stack reduces recovery by one and increases AC by 1.  Effect lasts 3 rounds.
@@ -262,6 +279,7 @@ Ability | Description | Bonus
 **Lockdown:** | Grenade and Smoke effects last twice as long, allowing strong territory control.
 
 And at 9th level, you can add one of the following abilities.
+
 Ability | Description | Bonus
 :---|:---|:---
 **Keen Scout:** | Sprint and Sneak faster, gain Enhanced Tracker, and ability to Mark targets you damage. | Increase your movement speed by 5 feet.  Targets you damage are marked, granting +1 for ally rolls to hit.  Treasure and materials show up on your HUD, though how to get to them may still be an issue.
