@@ -47,7 +47,7 @@ Titans are warriors - heroic defenders of the Light, channeling the gifts of the
 |   Level  |  Proficiency Bonus  |  Features   | 
 |:---:|:---:|----------------------------------|
 | 1st | +2  | Fighting Style, Danger Sense     |
-| 2nd | +2  | Lift, Melee, Grenade             |
+| 2nd | +2  | Lift, Light Pools, Melee, Grenade |
 | 3rd | +2  | Titan Archetype, Super Ability   | 
 | 4th | +2  | Titan Codex (two), Feat          |
 | 5th | +3  | Grenade, Melee, Lift Features    | 
@@ -73,6 +73,7 @@ You are proficient with the following items, in addition to any proficiencies pr
 ## Class Features
 ### Fighting Style
 You adopt a particular style of fighting as your specialty.  Choose one of the options in the fighting style table, below.  You can't take a Fighting Style option more than once, even if you later get to choose again.
+
 #### Fighting Style Table
 Style | Description
 ---|---
