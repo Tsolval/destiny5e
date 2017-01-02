@@ -154,6 +154,7 @@ Leap forward and smash the ground, obliterating everything nearby. You will be a
 At level 3, you can use your Fist of Havoc super ability.  You leap toward a location within your movement range and strike the ground with your fist, releasing a blast of Light in a 15 foot radius from the titan.  All enemies within the blast area take Arc damage to the tune of 5d10 + strength modifier + proficiency modifier, or half that amount if they pass a dexterity saving throw against a DC of 17.  For instance, a Hive Wizard caught in the radius of a Level 3 Titan's Fist of Havoc rolls a 16 on his saving throw. The titan rolls 5d10 and gets 1, 8, 3, 2 and 2.  The titan's strength and proficiency mods are both 2, so the Wizard takes 20 damage, and dies of its wounds.
 
 At level 8, you can choose one of the following additional features for your Fist of Havoc.
+
 Ability | Description
 ---|---
 **Death From Above:** | After jumping, Fist of Havoc can be aimed at enemies below.  This ability allows you to gain a little extra distance on your strike by allowing you to add half your jump distance to the distance you can travel to hit the target.
@@ -163,6 +164,7 @@ Ability | Description
 #### Storm Fist
 At 3rd Level, your melee ability becomes Storm Fist.  It now deals Arc Damage and damage is increased from 1d6 to 1d10.
 At 5th level, choose one of the following features to add to your Storm Fist.
+
 Ability | Description
 ---|---
 **Overload:** | Hits with Storm Fist have a chance to immediately reset its cooldown.  Roll a die.  If the result is even, then set the Grenade resource pool back to 20 light so that Storm Fist can be used again.
@@ -172,6 +174,7 @@ Ability | Description
 #### Arc Grenades
 At 3rd level, your grenade now does Arc damage.
 At 5th level, you may select one of the following grenade types.  Your grenade ability will be modified as described.
+
 Ability | Description
 ---|---
 **Flashbang Grenade:** | Your grenade also blinds enemies for 1 round.
@@ -180,6 +183,7 @@ Ability | Description
 
 #### Additional Features
 At level 7, you choose one of the following features for your Titan.
+
 Ability | Description
 ---|---
 **Headstrong:** | Sprinting increases the leap distance of Fist of Havoc.  If you sprint before you smash, you can add half your jump distance to the distance you can travel to hit the target.  Note that if you stack this with Death From Above, you are adding your entire jump distance to the distance you can travel.
@@ -187,6 +191,7 @@ Ability | Description
 **Transfusion:** | Kills with Storm Fist or Shoulder Charge immediately trigger health regeneration.  You gain health as indicated in the health regeneration rules.
 
 And at 9th level, you can add one of the following features as well.
+
 Ability | Description
 ---|---
 **Unstoppable:** | You are harder to kill while using Fist of Havoc.  While you are charging in for your Fist of Havoc, gain a number of temporary hit points equal to your hit point maximum.  These points expire at the beginning of your next turn.
@@ -205,6 +210,7 @@ Open a pocket in the universe, an impregnable fortress for you and your allies. 
 At level 3, you can use your Ward of Dawn ability to create a bubble with a 15 feet radius from the titan which prevents ranged attacks from penetrating.  The bubble lasts for 30 seconds (5 rounds) or until it is destroyed and has 100 hitpoints for each titan level.  So, at level 3, when you get the ability, it has 300 hp.  At level 4, it has 400 hp, etc.  Enemies are not prevented from entering your bubble.
 
 At level 8, you can choose one of the following additional features for your Ward of Dawn.
+
 Ability | Description
 ---|---
 **Armor of Light:** | While inside Ward of Dawn, you and your allies gain significant damage resistance.  Allies inside your Ward of Dawn get a number of temporary hit points equivalent to their current hit point maximum, and a +2 to their AC.
@@ -213,7 +219,9 @@ Ability | Description
 
 #### Disintegrate
 At 3rd level, your melee ability becomes Disintegrate.  It now deals Void damage.  When you strike an enemy with Disintegrate, you gain Force Barrier, which grants you 1d8(5) temporary hit points for 2 rounds.
+
 At 5th level, choose one of the following features to add to your Disintegrate.
+
 Ability | Description
 ---|---
 **War Machine:** | While Force Barrier is active, all of your weapons reload and ready blindingly fast.  Readying becomes a reaction and Reloading becomes a bonus action.
@@ -223,6 +231,7 @@ Ability | Description
 #### Void Grenades
 At 3rd level, your grenade now does Void damage.
 At 5th level, you may select one of the following grenade types.  Your grenade ability will be modified as described.
+
 Ability | Description
 ---|---
 **Magnetic Grenade:** | A grenade that attaches to enemies and explodes twice.  Throw this grenade as per normal.  If there is an enemy within 5 feet of where the grenade would land, it will become stuck to the enemy.  This grenade will last 2 rounds, dealing explosive damage as per a normal grenade and doing an additional 1d6 to the creature it is stuck to.
@@ -231,6 +240,7 @@ Ability | Description
 
 #### Additional Features
 At level 7, you choose one of the following features for your Titan.
+
 Ability | Description
 ---|---
 **Bastion:** | Increases the duration of Ward of Dawn to 42 seconds.  The Ward of Dawn now lasts 6 rounds.
@@ -238,6 +248,7 @@ Ability | Description
 **Gift of the Void:** | As Ward of Dawn takes damage from enemy fire it creates additional Orbs of Light.
 
 And at 9th level, you can add one of the following features as well.
+
 Ability | Description
 ---|---
 **Untouchable:** | Reduces the cooldown time of Ward of Dawn.  Ward of Dawn can now be cast at 35 light.
@@ -256,6 +267,7 @@ Forge your Light into a raging inferno of Solar energy, and pull forth a blazing
 At level 3, you can use your Hammer of Sol ability to summon a flaming hammer which lasts for 30 seconds (5 rounds).  You can thrown the hammer as your action every round until the ability ends.  Make an attack roll as normal, adding your strength modifier and proficiency bonus.  If you hit the target, the impact does 1d10 damage directly.  Once thrown, the hammer will explode on impact, dealing 3d6 splash damage to all enemies within 5 feet of the impact area, and then reappear in the hand of the titan by the start of his next round.  If you miss the target, you hit the 5 foot square the target was standing in and the target takes splash damage.  All enemies taking splash damage that pass a dexterity save vs DC 17 take half damage. 
 
 At level 8, you can choose one of the following additional features for your Hammer of Sol.
+
 Ability | Description
 ---|---
 **Forgemaster:** | Throw more hammers, and hammers cause bigger explosions.  This increases the duration of Hammer of Sol from 5 rounds to 6 and the area of effect is increased from 5 feet to 10 feet.
@@ -264,7 +276,9 @@ Ability | Description
 
 #### Sunstrike
 At 3rd level, your melee ability becomes Sunstrike.  It now deals solar damage and ignites your enemies, dealing 1d4 damage per round for 2 rounds (12 seconds).
+
 At 5th level, choose one of the following features to add to your Sunstrike.
+
 Ability | Description
 ---|---
 **Melting Point:** | Burn away your target's defense. Targets take more damage from both you and your allies.  All Damage to a target affected by Melting point is increased by 1d4 for 2 rounds.
@@ -273,7 +287,9 @@ Ability | Description
 
 #### Solar Grenades
 At 3rd level, your grenade now does Solar damage.
+
 At 5th level, you may select one of the following grenade types.  Your grenade ability will be modified as described.
+
 Ability | Description
 ---|---
 **Fusion Grenade:** | A grenade that causes bonus damage when attached to its target. If your roll to hit meets or exceeds the AC of an enemy standing in the targeted area, the grenade sticks to this enemy and does an additional 2d6 damage to it.
@@ -282,6 +298,7 @@ Ability | Description
 
 #### Additional Features
 At level 7, your Sunbreaker gains one of the following abilities:
+
 Ability | Description
 ---|---
 **Flameseeker:** | Your Hammer of Sol will alter its flight path to seek out your enemies.  You no longer have to roll to hit your target.
@@ -289,6 +306,7 @@ Ability | Description
 **Fleetfire:** | Enemies brought down by your fire grant you bonus agility and reload speed for a short time. Stacks up to 3 times and lasts for 2 rounds. Your reload becomes a bonus action.  Each stack increases your movement speed by 5 feet.
 
 At level 9, your Sunbreaker gains one of the following abilities:
+
 Ability | Description
 ---|---
 **Simmering Flames:** | When Super energy is full, grenade and melee abilities recharge twice as fast.  If you have Super resource pool is at its maximum, then you double the amount of light deposit in grenade and melee resource pools.
