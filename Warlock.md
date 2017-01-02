@@ -95,7 +95,9 @@ At level two, you gain access to a special light-powered grenade. These grenades
 
 At 3rd and 5th level, your grenade is affected by your chosen Archetype. See the archetype section for details.
 
-### Warlock Archetype & Super Ability
+### Warlock Archetype
+At level 3, you choose one of the available Archetypes, see below, and gain your chosen Archetype's Super Ability.  This ability consumes 50 light from your Super resource pool.
+
 ### Arcane Study
 ### Ancient Order
 ### Entropic Ward
