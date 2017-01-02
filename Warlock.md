@@ -136,9 +136,41 @@ But you will not be held back. Gifted with the Traveler's Light, armed with the 
 You will fear nothing, and nothing will not fear you.
 #### Super Ability - [Nova Bomb](http://destiny-grimoire.info/#Card-301160)
 Channel the Traveler's Light into a bolt of energy with the power of a collapsing star. The devastating Nova Bomb scours the battlefield with ethereal fire - but be careful in its use. It takes precious moments to summon, and it must be aimed precisely to avoid obstacles.
+
+At level 3, you can spend 50 Light from your Super pool to throw a Nova Bomb. You can launch this Super toward any square within 30 feet of you, and the Nova Bomb will explode as soon as it hits anything releasing a blast of Void Light in a 15 foot radius from the point of detonation. All enemies within the blast area take Void damage to the tune of 5d10 + willpower modifier + proficiency modifier, or half that amount if they pass a dexterity saving throw against a DC of 17. 
+
+At level 8, you can choose one of the following additional features for your Nova Bomb.
+
+Ability | Description | Benefit
+---|---|---
+**Vortex:** | Nova Bomb creates a temporary vortex which continually damages enemies trapped inside. | The vortex extends 15 feet from ground zero, lasts for 30 seconds (5 rounds) and deals 1d10 damage per round to any enemy creature that touches the field that round.
+**Shatter:** | Nova Bomb splits into three projectiles. | Blast radius reduced from 15 to 10 feet per projectile.  The second and third projectiles land 5 feet behind and 15 feet to the left and right of the main projectile.  Explosion damage is reduced to 3d10.
+**Lance:** | Nova Bomb travels farther and faster, and does more damage. | Range is increased to 60 feet, deals 6d10 damage, Blast radius reduced from 15 to 10 feet.
+
 #### Energy Drain
+At 3rd level, your melee ability becomes Energy Drain.  This void palm attack drains an additional 1d6 light from your enemies to replenish your Grenade resource pool over the next 2 rounds.
+
+At 5th level, choose one of the following features to modify your Energy Drain ability.
+
+Ability | Description | Bonus 
+:---|:---|:---
+**Surge:** | Damaging an enemy with Energy Drain increases your weapon and movement speed. | For 2 rounds, You may ready or reload your weapon as a bonus action, and your Movement speed increases +5.
+**Life&nbsp;Steal:** | Damaging an enemy with Energy Drain immediately restores a significant portion of your health. | Roll a number of d8 equivalent to your level and replenish your hit points by this amount.
+**Soul&nbsp;Rip:** | Damaging an enemy with Energy Drain reduces the cooldown of Nova Bomb. | Roll 1d8 and add this light to your Super pool.  This is in addition to the 1d6 for the Grenade pool. 
+
 #### Void Grenades
+At 3rd level, your grenade now does Void damage.
+
+At 5th level, select one of the following grenade types. Your grenade ability will be modified as described.
+
+Ability | Description | Bonus
+:---|:---|:---
+**Vortex&nbsp;Grenade:** | A grenade that creates a vortex which continually damages enemies inside the sphere. | Instead of exploding, your grenade remains for 18 seconds (3 rounds) doing 2d6 damage each round to enemies within its blast radius. 
+**Scatter&nbsp;Grenade:** | A grenade that splits into many submunitions and covers a large area with explosions. | Submunitions scatter to the spaces surrounding the target square and explode, doing an additional 1d4 unavoidable damage to enemies in the blast range.
+**Axion&nbsp;Bolt:** | A bolt of Void light which forks into smaller bolts on impact which seek toward enemies. | The grenade doesn't explode, but splits into two bolts which last for 3 rounds and seek enemies within 25 feet of the impact zone.  Bolts have a movement rate of 30 feet and deal 2d6 damage when they contact an enemy. The GM decides whether or not the bolts track the same target.
+
 #### Additional Features
+
 ### [Sunsinger](http://destiny-grimoire.info/#Card-307070)
 _"There are flames that even the Darkness cannot extinguish."_
 These are dark times. Humanity stands on the brink of extinction. We will carry fire into that darkness - a beacon to guide the way, and a pyre to consume our great enemy. 
