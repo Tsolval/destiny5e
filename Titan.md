@@ -150,15 +150,15 @@ Striker tactics depend on shock and disciplined aggression. They must awe and sc
 #### Super Ability - [Fist of Havoc](http://destiny-grimoire.info/#Card-301120)
 Leap forward and smash the ground, obliterating everything nearby. You will be a thunderbolt - but use your fury carefully. If there are survivors, you will surely draw their wrath.
 
-At level 3, you can spend 50 Light from your Super Ability pool to launch your Fist of Havoc, leaping toward a location within your movement range and striking the ground with your fist, releasing a blast of Light in a 15 foot radius from the titan.  All enemies within the blast area take Arc damage to the tune of 5d10 + strength modifier + proficiency modifier, or half that amount if they pass a dexterity saving throw against a DC of 17.
+At level 3, you can spend 50 Light from your Super Ability pool to launch your Fist of Havoc, leaping toward a location within your movement range and striking the ground with your fist, releasing a blast of Light in a 15 foot radius from the titan.  All enemies within the blast area take Arc damage to the tune of 5d10 + strength modifier + proficiency modifier.
 
 At level 8, you can choose one of the following additional features for your Fist of Havoc.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Death From Above:** | After jumping, Fist of Havoc can be aimed at enemies below. | This ability allows you to gain a little extra distance on your strike by allowing you to add half your jump distance to the distance you can travel to hit the target.
+**Death From Above:** | After jumping, Fist of Havoc can be aimed at enemies below. | Add half your long jump distance to the distance you can travel to hit the target.
 **Shockwave:** | Fist of Havoc unleashes a wave of devastating energy which travels along the ground. | This wave of energy travels in a straight line in front of you for 30 feet, dealing 3d10 damage to enemies in its path.
-**Aftermath:** | Fist of Havoc leaves a damage-dealing field in its wake. | This field has the same effect area as the initial strike, lasts for 5 rounds and deals up to 1d10 damage per round to any enemy creature that touches the field that round.
+**Aftermath:** | Fist of Havoc leaves a damage-dealing field in its wake. | This field has the same effect area as the initial strike, lasts for 5 rounds and deals 1d10 damage to any enemy creature touching the field.
 
 #### Storm Fist
 At 3rd Level, your melee ability becomes Storm Fist.  It now deals Arc Damage and damage is increased from 1d6 to 1d10.
@@ -208,15 +208,15 @@ Armed with unflinching conviction and an armory of Void techniques, Defenders bl
 #### Super Ability - [Ward of Dawn](http://destiny-grimoire.info/#Card-301130)
 Open a pocket in the universe, an impregnable fortress for you and your allies. The mighty Ward allows Guardians to hold key points and gather their strength in the face of overwhelming opposition.  
 
-At level 3, you can use your Ward of Dawn ability to create a bubble with a 15 feet radius from the titan which prevents ranged attacks from penetrating.  The bubble lasts for 5 rounds or until destroyed and has 100 hitpoints for each titan level.  So, at level 3, when you get the ability, it has 300 hp.  At level 4, it has 400 hp, etc.  Enemies are not prevented from entering your bubble.
+At level 3, you can spend 50 Light from your Super Ability pool to create a bubble with a 15 foot radius from the titan which prevents ranged attacks from penetrating.  The bubble lasts for 5 rounds or until destroyed and has 100 hit points for each titan level.  So, at level 3, when you get the ability, it has 300 hp.  At level 4, it has 400 hp, etc.  Enemies are not prevented from entering your bubble.
 
 At level 8, you can choose one of the following additional features for your Ward of Dawn.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Armor of Light:** | While inside Ward of Dawn, you and your allies gain significant damage resistance. | Allies inside your Ward of Dawn get a number of temporary hit points equivalent to their current hit point maximum, and a +2 to their AC.  These bonuses disappear when an ally leaves the Ward, when the Ward is destroyed, or its duration ends.
-**Blessing of Light:** | Passing through Ward of Dawn grants you and your allies a temporary shield. | This shield grants a number of temporary hit points equal to the character's hit point maximum for 2 rounds.
-Weapons of Light:** | Passing through Ward of Dawn grants you and your allies an increase to weapon damage. |  Characters with this bonus will roll an additional 1d8 for damage for 2 rounds.
+**Armor of Light:** | While inside Ward of Dawn, you and your allies gain significant damage resistance. | Allies inside your Ward of Dawn get a number of temporary hit points equivalent to their current hit point maximum, and a +2 to their AC.  These bonuses only apply while the ally is inside the Ward.
+**Blessing of Light:** | Passing through Ward of Dawn grants you and your allies a temporary shield. | This shield grants a number of temporary hit points equal to the character's hit point maximum for 3 rounds.
+Weapons of Light:** | Passing through Ward of Dawn grants you and your allies an increase to weapon damage. |  Characters with this bonus will add 1d8 to all their damage rolls for 3 rounds.
 
 #### Disintegrate
 At 3rd level, your melee ability becomes Disintegrate.  It now deals Void damage.  When you strike an enemy with Disintegrate, you gain Force Barrier, which grants you 1d8(5) temporary hit points for 2 rounds.
@@ -266,7 +266,7 @@ Wield the Hammer of Sol with honor, Titan, it is a thing of legend, both past an
 #### Super Ability - [Hammer of Sol](http://destiny-grimoire.info/#Card-700100)
 Forge your Light into a raging inferno of Solar energy, and pull forth a blazing hammer from the fire. Cloaked in flames, launch your hammer at enemies from afar, releasing a devastating eruption of Solar fire on impact. You burn with the intensity of stars, and no shadow is safe from your Light.
 
-At level 3, you can use your Hammer of Sol ability to summon a flaming hammer which lasts for 5 rounds.  You can thrown the hammer as your action every round until the ability ends.  Make an attack roll as normal, adding your strength modifier and proficiency bonus.  If you hit the target, the impact does 1d10 damage directly.  Once thrown, the hammer will explode on impact, dealing 3d6 splash damage to all enemies within 5 feet of the impact area, and then reappear in the hand of the titan by the start of his next round.  If you miss the target, you hit the 5 foot square the target was standing in and the target takes splash damage.  All enemies taking splash damage that pass a dexterity save vs DC 17 take half damage. 
+At level 3, you can spend 50 Light from your Super Ability pool to summon a flaming hammer which lasts for 5 rounds.  You can thrown the hammer as your action every round until the ability ends.  Make an attack roll as normal, adding your strength modifier and proficiency bonus.  If you hit the target, the impact does 1d10 damage directly.  Once thrown, the hammer will explode on impact, dealing 3d6 splash damage to all enemies within 5 feet of the impact area, and then reappear in the hand of the titan by the start of his next round.  If you miss the target, you hit the 5 foot square the target was standing in and the target takes splash damage.
 
 At level 8, you can choose one of the following additional features for your Hammer of Sol.
 
