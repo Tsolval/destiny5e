@@ -124,14 +124,14 @@ At level 3, you choose one of the available Archetypes, see below, and gain your
 ### Titan Codex
 At level 4, you gain access to two of the following Codices.  Traditionally, a Titan selects one from Codex I-III, and one from Codex IV-VI.
 
-Codex | Description
----|---
-**Titan Codex I:** | Training focused on battle recovery and toughness.  Reduce your healing cooldown by 1 and add 1 to your AC
-**Titan Codex II:** | Training focused on speed and toughness.  Add 5 to your movement rate and 1 to your AC.
-**Titan Codex III:** | Training focused on battle recovery and speed.  Reduce your healing cooldown by 1 and add 5 to your movement rate.
-**Titan Codex IV:** | Training focused on all attributes.  Add 1 to your AC, 5 to your movement rate, and reduce your healing cooldown by 1.
-**Titan Codex V:** | Training focused on maximum battle recovery.  Reduce your healing cooldown by 2 and add 1 to your Constitution score (maximum of 20).
-**Titan Codex VI:** | Training focused on raw speed.  Add 5 to your movement rate and 1 to your Dexterity score (maximum of 20).
+Codex | Description | Benefit
+:---|:---|:---
+**Titan Codex I:** | Training focused on battle recovery and toughness. | AC +1, Recovery -1
+**Titan Codex II:** | Training focused on speed and toughness. | AC +1, Movement +5
+**Titan Codex III:** | Training focused on battle recovery and speed. | Movement +5, Recovery -1
+**Titan Codex IV:** | Training focused on all attributes. | AC +1, Movement +5, Recovery -1
+**Titan Codex V:** | Training focused on maximum battle recovery. | Recovery -2
+**Titan Codex VI:** | Training focused on raw speed. | Movement +10
 
 ### Indomitable
 Starting at level 6, your can reroll a saving throw that you fail.  If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
