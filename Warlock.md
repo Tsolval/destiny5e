@@ -34,7 +34,7 @@ Warrior-scholars of the Light, Warlocks devote themselves to understanding the T
 | Level | Proficiency Bonus | Features | Cantrips Known |
 |:-----:|:---:|:--------------------------|:-----------------:|
 |  1st  | +2 | Arcane Optics, Awakened Mind      | 2 |
-|  2nd  | +2 | Glide, Melee, Grenade             | 2 |
+|  2nd  | +2 | Glide, Light Pools, Melee, Grenade | 2 |
 |  3rd  | +2 | Warlock Archetype, Super Ability  | 2 |
 |  4th  | +2 | Arcane Study, Ancient Order, Feat | 3 |
 |  5th  | +3 | Grenade, Melee, Glide Features    | 3 |
