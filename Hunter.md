@@ -75,8 +75,7 @@ Ability | Description | Bonus
 **Blink** | Teleport a short distance. | You teleport up to your maximum Double Jump distance. You cannot blink through solid obstacles, and you have to be able to see where you are going, but you can Blink over traps, difficult terrain, etc.
 
 ### Light Pools
-At level 2, you gain access to three pools of light.  One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super.  All pools start at 0 light.  The melee pool has a maximum of 20 light points, the grenade pool max is 30, and the pool empowering your super maxes at 50 points. 
-The ghost distills light from the environment, enemies you've destroyed, and Orbs of Light during the ghost round.  See the section on Ghosts for more information.
+At level 2, you gain access to three pools of Light. One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super Ability. All pools start at 0 Light. The Melee pool has a maximum of 20 Light points, the Grenade pool max is 30, and the pool empowering your Super Ability maxes at 50 points. During its round, Your ghost distills Light from the environment, enemies you've destroyed, and Orbs of Light you've encountered, and distributes it to your resource pools. See the section on Ghosts for more information.
 
 ### Melee
 At level two, you gain access to a special light-enhanced, close-quarters, dagger-based melee attack.  When you make a normal dagger attack, you roll d20 and add your strength or dexterity modifier and proficiency bonus to attack.  Damage is 1d4 + your strength modifier.  If you consume 20 light from your Melee resource pool to upgrade this attack, you now roll 1d6 instead of 1d4 for damage and add both your dexterity (instead of strength) modifier and proficiency bonus to both attack and damage rolls.
