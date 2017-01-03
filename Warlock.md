@@ -145,7 +145,7 @@ Feature | Description | Benefit
 :---|:---|:---
 **Vortex:** | Nova Bomb creates a temporary vortex which continually damages enemies trapped inside. | The vortex extends 15 feet from ground zero, lasts for 5 rounds and deals 2d12 damage per round to any enemy creature that touches the field that round.
 **Shatter:** | Nova Bomb splits into three projectiles. | Blast radius reduced from 15 to 10 feet per projectile.  The second and third projectiles land 5 feet behind and 15 feet to the left and right of the main projectile.
-**Lance:** | Nova Bomb travels farther and faster, and does more damage. | Range is increased to 60 feet, and deals 10d12 damage.  The Blast radius reduced from 15 to 10 feet.
+**Lance:** | Nova Bomb travels farther and faster, and does more damage. | Range is increased to 60 feet, Blast radius is reduced to 10 feet, and damage is increased to 10d12.
 
 #### Energy Drain
 At 3rd level, your melee ability becomes Energy Drain.  This void palm attack drains an additional 1d6 light from your enemies to replenish your Grenade resource pool over the next 2 rounds.
@@ -165,7 +165,7 @@ At 5th level, select one of the following grenade types. Your grenade ability wi
 
 Grenade | Description | Benefit
 :---|:---|:---
-**Vortex Grenade:** | A grenade that creates a vortex which continually damages enemies inside the sphere. | Instead of exploding, your grenade remains for 18 seconds (3 rounds) doing 2d6 damage each round to enemies within its blast radius. 
+**Vortex Grenade:** | A grenade that creates a vortex which continually damages enemies inside the sphere. | Instead of exploding, your grenade remains for 3 rounds doing 2d6 damage each round to enemies within its blast radius. 
 **Scatter Grenade:** | A grenade that splits into many submunitions and covers a large area with explosions. | Submunitions scatter to the spaces surrounding the target square and explode, doing an additional 1d4 unavoidable damage to enemies in the blast range.
 **Axion Bolt:** | A bolt of Void light which forks into smaller bolts on impact which seek toward enemies. | The grenade doesn't explode, but splits into two bolts which last for 3 rounds and seek enemies within 25 feet of the impact zone.  Bolts have a movement rate of 30 feet and deal 2d6 damage when they contact an enemy. The GM decides whether or not the bolts track the same target.
 
@@ -198,7 +198,7 @@ Open yourself to the Light. Glimpse, for a few rapturous moments, the truth beyo
 
 A Warlock in a state of Radiance threatens to slip beyond the bonds of the material, shrugging off physical harm, channeling a torrent of abilities. Some may learn to elevate nearby Guardians, gifting them with power. Others, entranced by the Ghosts' power to reach beyond death, may learn to pluck themselves out of nothingness like the phoenix of ancient myth.
 
-At level 3, you bathe yourself in Light for 30 seconds (5 rounds), strengthening your grenade and melee damage and lowering their cooldown.  While Radiance is active, your Melee cost is reduced by 5 and its damage is doubled.  In addition, your Grenade damage is raised to 4d6 and its cost is reduced by half.
+At level 3, you can spend 50 Light from your Super Ability pool to bathe yourself in Light for 5 rounds, strengthening your grenade and melee damage and lowering their cooldowns.  While Radiance is active, your Melee cost is reduced by 5 and its damage is doubled.  In addition, your Grenade damage is raised to 4d6 and its cost is reduced by half.
 
 At level 8, you can choose one of the following additional features for Radiance.
 
@@ -209,7 +209,7 @@ Feature | Description | Benefit
 **Fireborn:** | Radiance can now be activated from beyond the grave. Doing so returns you to life. | Welcome back, Guardian.
 
 #### Scorch
-At 3rd Level, your melee ability becomes Scorch.  It now deals Solar Damage and can Ignite enemies, dealing 1d4 damage per round for 2 rounds (12 seconds).
+At 3rd Level, your melee ability becomes Scorch.  It now deals Solar Damage and can Ignite enemies, dealing 1d4 damage per round for 2 rounds.
 
 At 5th level, choose one of the following features to add to your Scorch.
 
@@ -226,7 +226,7 @@ At 5th level, select one of the following grenade types.  Your grenade ability w
 
 Grenade  | Description | Benefit
 :---|:---|:---
-**Solar Grenade:** | A grenade that creates a flare of Solar Light which continually damages enemies trapped inside. | Instead of exploding, your grenade remains for 18 seconds (3 rounds) doing 2d6 damage each round to enemies within its blast radius.
+**Solar Grenade:** | A grenade that creates a flare of Solar Light which continually damages enemies trapped inside. | Instead of exploding, your grenade remains for 3 rounds doing 2d6 damage each round to enemies within its blast radius.
 **Firebolt Grenade:** | A grenade that unleashes bolts of Solar Light at nearby enemies. | The grenade no longer explodes, but its area of effect is increased to 15 feet. When the grenade goes off, each target in the area is hit by a bolt of fire which deals 2d8 damage.
 **Fusion Grenade:** | A grenade that causes bonus damage when attached to its target. | If your roll to hit meets or exceeds the AC of an enemy standing in the targeted area, the grenade sticks to this enemy and does an additional 2d6 damage to it.
 
@@ -257,14 +257,14 @@ You are a weapon.
 #### Super Ability - [Storm Trance](http://destiny-grimoire.info/#Card-700120)
 Focus your Light to call forth a powerful Arc storm, and siphon it, channeling lightning through your fingertips to send it surging between your targets. A Warlock in Stormtrance is exercising such unbreakable focus that the Arc energy they summon draws them off the ground, the air humming and crackling around them. Like lightning you bend your path forward through the air, striking down anything too slow escape the storm.
 
-At level 3, you summon a thunderstorm and channel lightning into your enemies like Emperor Palpatine for 30 seconds (5 rounds). Point your hand at an enemy within 15 feet of you to cause the lightning to stream into them, doing 3d8 damage per hand, per round.  Lightning can chain to another enemy within 10 feet of your target dealing 1d8 damage.
+At level 3, you you can spend 50 Light from your Super Ability pool to summon a thunderstorm and channel lightning into your enemies for 5 rounds, allowing you to essentially dual wield lightning. Point your hand at an enemy within 15 feet of you to cause the lightning to stream into them, doing 2d10 damage per hand, per round.  Lightning can chain to another enemy within 10 feet of your target dealing 2d10 damage.
 
 At level 8, you can choose one of the following additional features for Radiance.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Landfall:** | On casting Stormtrance, fire a bolt of lightning into the ground, creating a devastating shockwave under you. | Shockwave deals 5d6 damage in a 10 foot radius, and blinds enemies.
-**Superconductor:** | Doubles your Stormtrance lightning's chaining capabilities. | Chained lightning can now spread 15 feet from your target, deals 2d8 damage, and can chain a second time.
+**Landfall:** | On casting Stormtrance, fire a bolt of lightning into the ground, creating a devastating shockwave under you. | Landfall deals 5d10 damage in a 10 foot radius, and blinds enemies within 15 feet.
+**Superconductor:** | Doubles your Stormtrance lightning's chaining capabilities. | Chained lightning can now spread 15 feet from your target, and can chain a second time.
 **Ionic Blink:** | Teleport during Stormtrance. | This teleport is equivalent to blink.
 
 #### Thunderstrike
@@ -285,7 +285,7 @@ At 5th level, select one of the following grenade types.  Your grenade ability w
 
 Grenade | Description | Benefit
 :---|:---|:---
-**Pulse Grenade:** | A grenade that periodically damages enemies inside its explosive radius. | Instead of exploding, your grenade remains for 18 seconds (3 rounds) doing 2d6 damage each round to enemies within its blast radius.
+**Pulse Grenade:** | A grenade that periodically damages enemies inside its explosive radius. | Instead of exploding, your grenade remains for 3 rounds doing 2d6 damage each round to enemies within its blast radius.
 **Storm Grenade:** | This grenade calls down a localized lightning storm. | Instead of exploding, this lightning strikes twice.  It deals 2d6 each round for 2 rounds.
 **Arcbolt Grenade:** | A grenade that chains bolts of lightning to nearby enemies. | The grenade no longer explodes, but its area of effect is increased to 15 feet. When the grenade goes off, each target in the area is hit by a bolt of lightning which then chains to a creature within 10 feet of that target. Each target hit by a lightning bolt takes 1d8 damage.
 
