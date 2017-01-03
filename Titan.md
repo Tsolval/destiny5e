@@ -57,9 +57,9 @@ Titans are warriors - heroic defenders of the Light, channeling the gifts of the
 | 9th | +4  | Titan Archetype Improvement      |
 
 ## Hit Points
-**Hit Dice:** 1d8 per level<br>
-**Hit Points at 1st Level:** 8 + your Constitution Modifier<br>
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per level after 1st<br>
+**Hit Dice:** 1d10 per level<br>
+**Hit Points at 1st Level:** 10 + your Constitution Modifier<br>
+**Hit Points at Higher Levels:** 1d10(6) + your Constitution modifier per level after 1st<br>
 
 ## Starting Proficiencies
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
@@ -150,7 +150,7 @@ Striker tactics depend on shock and disciplined aggression. They must awe and sc
 #### Super Ability - [Fist of Havoc](http://destiny-grimoire.info/#Card-301120)
 Leap forward and smash the ground, obliterating everything nearby. You will be a thunderbolt - but use your fury carefully. If there are survivors, you will surely draw their wrath.
 
-At level 3, you can spend 50 Light from your Super Ability pool to launch your Fist of Havoc, leaping toward a location within your movement range and striking the ground with your fist, releasing a blast of Light in a 15 foot radius from the titan.  All enemies within the blast area take Arc damage to the tune of 5d10 + strength modifier + proficiency modifier.
+At level 3, you can spend 50 Light from your Super Ability pool to launch your Fist of Havoc, leaping toward a location within your movement range and striking the ground with your fist, releasing a blast of Light in a 15 foot radius from the titan.  All enemies within the blast area take Arc damage to the tune of 10d12 + strength modifier + proficiency modifier.
 
 At level 8, you can choose one of the following additional features for your Fist of Havoc.
 
