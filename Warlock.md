@@ -44,9 +44,9 @@ Warrior-scholars of the Light, Warlocks devote themselves to understanding the T
 |  9th  | +4 | Warlock Archetype Improvement     | 3 |
 
 ## Hit Points
-**Hit Dice:** 1d8 per level<br>
-**Hit Points at 1st Level:** 8 + your Constitution Modifier<br>
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per level after 1st<br>
+**Hit Dice:** 1d10 per level<br>
+**Hit Points at 1st Level:** 10 + your Constitution Modifier<br>
+**Hit Points at Higher Levels:** 1d10(6) + your Constitution modifier per level after 1st<br>
 
 ## Starting Proficiencies
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
@@ -59,7 +59,7 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 ## Class Features
 ### Arcane Optics
-You have spent many hours researching the Travelers gift and have gained a few insights into the nature of Light which have allowed you to learn to manipulate it to your advantage.  At first level, you know two cantrips of your choice from the Traditional Warlock spell list at the bottom of this page.  You may learn additional cantrips at higher levels, as indicated in the Cantrips Known column of the Warlock table.
+You have spent many hours researching the Travelers gift and have gained a few insights into the nature of Light which allow you to manipulate it to your advantage.  At first level, you know two cantrips of your choice from the Traditional Warlock spell list at the bottom of this page.  You may learn additional cantrips at higher levels, as indicated in the Cantrips Known column of the Warlock table.
 
 ### Awakened Mind
 Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures.  You can telepathically speak to any creature you can see within 30 feet of you.  You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
@@ -305,3 +305,8 @@ Feature | Description | Benefit
 **Electrostatic Mind:** | Stormtrance charges faster when allies are near. When Stormtrance is active, nearby enemies take damage. | You generate an extra 1d6 Light for Stormtrance each round.  Stormtrance deals 1d6 damage to any enemy within 10 feet of you.
 **Arc Web:** | Enemies damaged by your grenades chain deadly lightning to other nearby enemies. | Enemies within 10 feet of an enemy that was damaged by your grenade are struck by lightning and take 1d8 damage.
 **Perpetual Charge:** | Getting a grenade kill recharges your melee. Getting a melee kill recharges your grenade. | Add the cost of the grenade or melee to the appropriate resource pool.
+
+## Cantrips
+### Warlock Cantrips
+
+### Other Cantrips
