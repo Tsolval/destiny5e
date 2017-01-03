@@ -150,7 +150,7 @@ Striker tactics depend on shock and disciplined aggression. They must awe and sc
 #### Super Ability - [Fist of Havoc](http://destiny-grimoire.info/#Card-301120)
 Leap forward and smash the ground, obliterating everything nearby. You will be a thunderbolt - but use your fury carefully. If there are survivors, you will surely draw their wrath.
 
-At level 3, you can spend 50 Light from your Super Ability pool to launch your Fist of Havoc, leaping toward a location within your movement range and striking the ground with your fist, releasing a blast of Light in a 15 foot radius from the titan.  All enemies within the blast area take Arc damage to the tune of 10d12 + strength modifier + proficiency modifier.
+At level 3, you can spend 50 Light from your Super Ability pool to launch your Fist of Havoc, leaping toward a location within your movement range and striking the ground with your fist, releasing a blast of Light in a 15 foot radius from the titan.  All enemies within the blast area take Arc damage to the tune of 10d10 + strength modifier + proficiency modifier.
 
 At level 8, you can choose one of the following additional features for your Fist of Havoc.
 
@@ -208,7 +208,7 @@ Armed with unflinching conviction and an armory of Void techniques, Defenders bl
 #### Super Ability - [Ward of Dawn](http://destiny-grimoire.info/#Card-301130)
 Open a pocket in the universe, an impregnable fortress for you and your allies. The mighty Ward allows Guardians to hold key points and gather their strength in the face of overwhelming opposition.  
 
-At level 3, you can spend 50 Light from your Super Ability pool to create a bubble with a 15 foot radius from the titan which prevents ranged attacks from penetrating.  The bubble lasts for 5 rounds or until destroyed and has 100 hit points for each titan level.  So, at level 3, when you get the ability, it has 300 hp.  At level 4, it has 400 hp, etc.  Enemies are not prevented from entering your bubble.
+At level 3, you can spend 50 Light from your Super Ability pool to create a bubble with a 15 foot radius from the titan which prevents ranged attacks from penetrating.  The bubble lasts for 5 rounds or until destroyed and has 100 hit points.  Enemies are not prevented from entering your bubble.
 
 At level 8, you can choose one of the following additional features for your Ward of Dawn.
 
@@ -266,7 +266,7 @@ Wield the Hammer of Sol with honor, Titan, it is a thing of legend, both past an
 #### Super Ability - [Hammer of Sol](http://destiny-grimoire.info/#Card-700100)
 Forge your Light into a raging inferno of Solar energy, and pull forth a blazing hammer from the fire. Cloaked in flames, launch your hammer at enemies from afar, releasing a devastating eruption of Solar fire on impact. You burn with the intensity of stars, and no shadow is safe from your Light.
 
-At level 3, you can spend 50 Light from your Super Ability pool to summon a flaming hammer which lasts for 5 rounds.  You can thrown the hammer as your action every round until the ability ends.  Make an attack roll as normal, adding your strength modifier and proficiency bonus.  If you hit the target, the impact does 1d10 damage directly.  If you miss, it will land in the square occupied by the target.  Either way, the hammer will explode on impact, dealing 3d6 splash damage to all enemies within 5 feet, and then reappear in the hand of the titan by the start of his next round.
+At level 3, you can spend 50 Light from your Super Ability pool to summon a flaming hammer which lasts for 5 rounds.  You can thrown the hammer as your action every round until the ability ends.  Make an attack roll as normal, adding your strength modifier and proficiency bonus.  If you hit the target, the impact does 3d10 damage directly.  If you miss, it will land in the square occupied by the target.  Either way, the hammer will explode on impact, dealing 1d10 splash damage to all enemies within 5 feet, and then reappear in the hand of the titan by the start of his next round.  Add your strength modifier and proficiency bonus to direct and splash damage.
 
 At level 8, you can choose one of the following additional features for your Hammer of Sol.
 
