@@ -304,7 +304,7 @@ At level 7, your Sunbreaker gains one of the following abilities:
 Feature | Description | Benefit
 :---|:---|:---
 **Flameseeker:** | Your Hammer of Sol will alter its flight path to seek out your enemies. | You no longer have to roll to hit your target.
-**Explosive Pyre:** | Enemies felled by your hammer explode, chaining fiery Solar damage to others. | Enemies killed by your hammer explode violently creating an explosion as if it were a grenade.
+**Explosive Pyre:** | Enemies felled by your hammer explode, chaining fiery Solar damage to others. | The victim explodes violently, dealing splash damage as if it were a grenade.
 **Fleetfire:** | Enemies brought down by your fire grant you bonus agility and reload speed for a short time. Stacks up to 3 times. | Your reload becomes a bonus action.  Each stack lasts for 3 rounds and increases your movement speed by 5 feet.
 
 At level 9, your Sunbreaker gains one of the following abilities:
