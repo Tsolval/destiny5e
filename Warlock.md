@@ -137,15 +137,15 @@ You will fear nothing, and nothing will not fear you.
 #### Super Ability - [Nova Bomb](http://destiny-grimoire.info/#Card-301160)
 Channel the Traveler's Light into a bolt of energy with the power of a collapsing star. The devastating Nova Bomb scours the battlefield with ethereal fire - but be careful in its use. It takes precious moments to summon, and it must be aimed precisely to avoid obstacles.
 
-At level 3, you can spend 50 Light from your Super pool to throw a Nova Bomb. You can launch this Super toward any square within 30 feet of you, and the Nova Bomb will explode as soon as it hits anything releasing a blast of Void Light in a 15 foot radius from the point of detonation. All enemies within the blast area take Void damage to the tune of 5d10 + willpower modifier + proficiency modifier, or half that amount if they pass a dexterity saving throw against a DC of 17. 
+At level 3, you can spend 50 Light from your Super pool to throw a Nova Bomb. You can launch this Super toward any square within 30 feet of you, and the Nova Bomb will explode as soon as it hits anything, releasing a blast of Void Light in a 15 foot radius from the point of detonation. All enemies within the blast area take 8d12 Void damage + willpower modifier + proficiency modifier. 
 
 At level 8, you can choose one of the following additional features for your Nova Bomb.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Vortex:** | Nova Bomb creates a temporary vortex which continually damages enemies trapped inside. | The vortex extends 15 feet from ground zero, lasts for 30 seconds (5 rounds) and deals 1d10 damage per round to any enemy creature that touches the field that round.
-**Shatter:** | Nova Bomb splits into three projectiles. | Blast radius reduced from 15 to 10 feet per projectile.  The second and third projectiles land 5 feet behind and 15 feet to the left and right of the main projectile.  Explosion damage is reduced to 3d10.
-**Lance:** | Nova Bomb travels farther and faster, and does more damage. | Range is increased to 60 feet, deals 6d10 damage, Blast radius reduced from 15 to 10 feet.
+**Vortex:** | Nova Bomb creates a temporary vortex which continually damages enemies trapped inside. | The vortex extends 15 feet from ground zero, lasts for 5 rounds and deals 2d12 damage per round to any enemy creature that touches the field that round.
+**Shatter:** | Nova Bomb splits into three projectiles. | Blast radius reduced from 15 to 10 feet per projectile.  The second and third projectiles land 5 feet behind and 15 feet to the left and right of the main projectile.
+**Lance:** | Nova Bomb travels farther and faster, and does more damage. | Range is increased to 60 feet, and deals 10d12 damage.  The Blast radius reduced from 15 to 10 feet.
 
 #### Energy Drain
 At 3rd level, your melee ability becomes Energy Drain.  This void palm attack drains an additional 1d6 light from your enemies to replenish your Grenade resource pool over the next 2 rounds.
