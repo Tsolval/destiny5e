@@ -30,11 +30,11 @@ Hunters stalk the wilderness beyond the City, harnessing the Light to reclaim th
 | 9th | +4 | Hunter Archetype Improvement                 | 5d6 |
 
 ## Hit Points
-**Hit Dice:** 1d8 per level<br>
-**Hit Points at 1st Level:** 8 + your Constitution Modifier<br>
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per level after 1st<br>
+**Hit Dice:** 1d10 per level<br>
+**Hit Points at 1st Level:** 10 + your Constitution Modifier<br>
+**Hit Points at Higher Levels:** 1d10(6) + your Constitution modifier per level after 1st<br>
 
-## Starting Proficiencies
+## Starting Proficiencies10
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 **Armor:** Medium Armor<br>
@@ -133,7 +133,6 @@ Feature | Description
 **Giant Killer:** | When a Large or larger creature within 5 feet of you hits or misses you with an Attack, you can use your reaction to Attack that creature immediately after its Attack, provided that you can see the creature.
 **Horde Breaker:** | Once on each of your turns when you make a weapon Attack, you can make another Attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
 
-
 ## Hunter Archetypes
 ### [Gunslinger](http://destiny-grimoire.info/#Card-307040)
 _"A lone wolf who lives for the perfect shot."_
@@ -144,11 +143,7 @@ Don't see much else to say about it. That's just truth.
 #### Super Ability - [Golden Gun](http://destiny-grimoire.info/#Card-301140)
 Draw a hand cannon burning with Solar Light and loaded with three rounds of sunfire. Aim steady and keep your wits about you. You are a Gunslinger, and this is what you live for.
 
-At level 3, you can spend 50 Light from your Super Ability pool to summon your Golden Gun; a flaming hand cannon which lasts for 30 seconds (5 rounds) or until it has fired 3 shots.  
-
-Super | Type | Attack | Damage | Range
----|---|---|---|---
-Golden Gun | Solar | 1d20 + 2 + dex mod + prof bonus | 3d10 + dex mod + prof bonus | 30/90
+At level 3, you can spend 50 Light from your Super Ability pool to summon a flaming hand cannon which lasts for 5 rounds or until it has fired 3 shots. Golden Gun has a range of 30/90.  In addition to your dexterity modifier and proficiency bonus, this weapon has a +2 to its attack and deals 4d10 Solar damage on a hit, plus dexterity and proficiency modifiers. 
 
 At level 8, you can choose one of the following additional features for your Golden Gun.
 
