@@ -143,14 +143,14 @@ Don't see much else to say about it. That's just truth.
 #### Super Ability - [Golden Gun](http://destiny-grimoire.info/#Card-301140)
 Draw a hand cannon burning with Solar Light and loaded with three rounds of sunfire. Aim steady and keep your wits about you. You are a Gunslinger, and this is what you live for.
 
-At level 3, you can spend 50 Light from your Super Ability pool to summon a flaming hand cannon which lasts for 5 rounds or until it has fired 3 shots. Golden Gun has a range of 30/90.  In addition to your dexterity modifier and proficiency bonus, this weapon has a +2 to its attack and deals 4d10 Solar damage on a hit, plus dexterity and proficiency modifiers. 
+At level 3, you can spend 50 Light from your Super Ability pool to summon a flaming hand cannon which lasts for 5 rounds or until it has fired 3 shots. Golden Gun has a range of 30/90.  In addition to your dexterity modifier and proficiency bonus, this weapon has a +2 to its attack and deals 8d12 Solar damage on a hit, plus dexterity and proficiency modifiers. 
 
 At level 8, you can choose one of the following additional features for your Golden Gun.
 
 Feature | Description | Benefit
 :---|:---|:---
 **Deadeye:** | Significantly increases the accuracy of Golden Gun. | Attack bonus increases from +2 to +5
-**Combustion:** | Killing enemies with Golden Gun causes them to explode after about one second. | The victim explodes, dealing 3d6 splash damage to all enemies within 5 feet.<br>half damage with a DC 17 Dexterity save.
+**Combustion:** | Killing enemies with Golden Gun causes them to explode after about one second. | The victim explodes violently, dealing splash damage as if it were a grenade.
 **Gunfighter:** | Reduces the cooldown of Golden Gun, allowing it to be used more often. | Cost reduced to 40 light.
 
 #### Throwing Knife
@@ -181,7 +181,7 @@ At level 7, you choose one of the following abilities.
 Feature | Description | Benefit
 :---|:---|:---
 **Scavenger:** | Picking up ammo reduces the cooldown of your grenade and Throwing Knife. | Each box of ammo you pick up grants 1d4 light
-**Keyhole:** | Golden Gun overpenetrates and can damage multiple targets. | Draw a 90 foot line from you through your target.  If any other targets are along that line, roll to hit with Golden Gun and apply damage to each of them.
+**Keyhole:** | Golden Gun overpenetrates and can damage multiple targets. | Draw a 90 foot line from you through your target.  If any other targets are along that line, apply the damage to any of them that would have been hit by your original to-hit roll.
 **Gunslinger's Trance:** | Precision kills increase weapon stability. Stacks up to 3 times. | If you make a kill with a critical hit, gain +1 to all attack rolls for 3 rounds.
 
 And at 9th level, you can add one of the following abilities.
@@ -202,19 +202,15 @@ Leave the noise and fire to others. There's work to be done, out there in the da
 #### Super Ability - [Arc Blade](http://destiny-grimoire.info/#Card-301140)
 Set aside your weapons and lose yourself in the blade trance. Arc Light galvanizes your armor and hastens your movements, and when your knife finds a target it discharges a snap of annihilating current. For as long as the trance lasts, you are the very shadow of death.
 
-At level 3, you can spend 50 Light from your Super Ability pool to energize your Arc Blades and begin a dance of death which lasts for 30 seconds (5 rounds).  
-
-Super | Type | Attack | Damage | Special
----|---|---|---|---
-Arc Blades | Arc | 1d20 + dex mod + prof bonus | 2d8 + dex mod + prof bonus | 2 Attacks per Round
+At level 3, you can spend 50 Light from your Super Ability pool to energize your Arc Blades and begin a dance of death which lasts for 5 rounds.  You are considered to be dual wielding for the duration of this ability, and thus you attack twice per round.  For each attack, choose a target and roll to hit, as normal.  If you hit, You deal 3d10 damage.  You add your Dexterity modifier and proficiency bonus to both attack and damage rolls.
 
 At level 8, you can choose one of the following additional features for your Super ability.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Showstopper:** | Damage nearby enemies. | Apply 3d8 damage to every enemy within 10 feet of you.
-**Razor's Edge:** | Unleash a destructive wave of energy that travels along the ground in a straight path from the front of the player. | This wave of energy travels in a straight line in front of you for 30 feet, dealing 3d10 damage to enemies in its path. 
-**Vanish:** | Disappear from sight for the duration of the Arc Blade Super or until an attack is made. | You may use a bonus action to enter Stealth.
+**Showstopper:** | Damage nearby enemies. | Apply 2d10 damage to every enemy within 10 feet of you.
+**Razor's Edge:** | Unleash a destructive wave of energy that travels along the ground in a straight path from the front of the player. | This wave of energy travels in a straight line in front of you for 30 feet, dealing 2d10 damage to enemies in its path. 
+**Vanish:** | Disappear from sight for the duration of the Arc Blade Super or until an attack is made. | You enter an automatic stealth mode on a bonus action.
 
 #### Blink Strike
 At 3rd Level, your melee ability becomes Blink Strike and now does Arc damage.  Teleport to a target within 10 feet of you and gain advantage on the attack as if it were a sneak attack.
@@ -224,7 +220,7 @@ At 5th level, choose one of the following features to add to your Blink Strike.
 Feature | Description | Benefit
 :---|:---|:---
 **Backstab:** | Hitting an enemy from behind with Blink Strike causes significantly more damage.| If you attack a creature's flank or rear, you do an additional 1d6 damage.
-**Escape Artist:** | Hitting an enemy with Blink Strike grants brief invisibility.| Your Arc abilities grant you automatic Stealth for 2 rounds when you hit an enemy.
+**Escape Artist:** | Hitting an enemy with Blink Strike grants brief invisibility.| Your Arc abilities grant you automatic Stealth for 3 rounds when you hit an enemy.
 **Fast Twitch:** | Reduces the cooldown of Blink Strike.| Blink Strike now costs 10 light.
 
 #### Arc Grenades
@@ -244,15 +240,15 @@ At level 7, you choose one of the following abilities.
 Feature | Description | Benefit
 :---|:---|:---
 **Fleet Footed:** | Increases maximum sprint speed. | Your movement is increased by 5.
-**Quick Draw:** | Weapons are ready immediately. | Readying your weapons is now a reaction.
-**Shadowjack:** | Increases the duration of invisibility effects. | The durations of your Arc Powered stealth abilities are increased to 3 rounds.
+**Quick Draw:** | Weapons are ready immediately. | You can ready your weapon as a bonus action.
+**Shadowjack:** | Increases the duration of invisibility effects. | The durations of your Arc Powered stealth abilities are increased to 5 rounds.
 
 And at 9th level, you can add one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
 **Encore:** | Killing an enemy with Arc Blade extends its duration. | Killing 2 enemies extends your Arc Blade by 1 round.
-**Stalker:** | Gain invisibility after crouching in place for a short time. | Spending a round crouching grants automatic stealth for 2 rounds.
+**Stalker:** | Gain invisibility after crouching in place for a short time. | Spending a round crouching grants automatic stealth for 3 rounds.
 **Hungering Blade:** | Kills with Arc Blade and Blink Strike immediately regenerate health. | If one of these attacks kills your target, then your health will begin to recharge immediately.
 
 ### [Nightstalker](http://destiny-grimoire.info/#Card-700050)
@@ -269,7 +265,7 @@ Do not hunt the monster. Become the monster.
 #### Super Ability - [Shadowshot](http://destiny-grimoire.info/#Card-700110)
 Summon the power of the Void to draw back and launch a precision long-range projectile that reaches out and snares enemies with slowing, draining tethers of Void Light. Shadowshot lets a Hunter's dead-eye precision carve a path to new battles.
 
-At level 3, you can spend 50 Light from your Super pool to use your Shadowshot super ability to create a void tether which lasts for 30 seconds (5 rounds).  You deploy Shadowshot in a 5 foot square and it reaches tendrils of void energy toward up to 10 enemies no more than 20 feet away.  If your Shadowshot hits an enemy directly, that enemy takes 3d10 damage from the attack.
+At level 3, you can spend 50 Light from your Super pool to use your Shadowshot super ability to create a void tether which lasts for 30 seconds (5 rounds).  You deploy Shadowshot in a 5 foot square and it reaches tendrils of void energy toward up to 10 enemies no more than 20 feet away.  If your Shadowshot hits an enemy directly, that enemy takes 5d10 damage from the attack.
 
 <table>
   <thead>
@@ -339,7 +335,7 @@ At level 7, you choose one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Courage of the Pack:** | Killing tethered targets increases Recovery and Armor for you and nearby allies. Stacks up to 5 times. | Each stack reduces recovery by one and increases AC by 1.  Effect lasts 3 rounds.
+**Courage of the Pack:** | Killing tethered targets increases Recovery and Armor for you and nearby allies. Stacks up to 5 times. | Each stack reduces recovery by one and increases AC by 1 for allies within 30 feet.  Effect lasts 3 rounds.
 **Light of the Pack:** | Killing tethered targets creates Orbs of Light for your allies. | 1 Orb is created for every 2 dead tethered enemies.
 **Lockdown:** | Grenade and Smoke effects last twice as long, allowing strong territory control.
 
@@ -349,4 +345,4 @@ Feature | Description | Benefit
 :---|:---|:---
 **Keen Scout:** | Sprint and Sneak faster, gain Enhanced Tracker, and ability to Mark targets you damage. | Increase your movement speed by 5 feet.  Targets you damage are marked, granting +1 for ally rolls to hit.  Treasure and materials show up on your HUD, though how to get to them may still be an issue.
 **Predator:** | The Void Anchors fired from Shadowshot become traps that stick to surfaces and wait for prey. | Shadowshots activate when enemies enter their area of effect.
-**Shadestep:** |  Crouch, Roll, and Blink; Become invincible | Once per round, when an attacker that you can see hits you with an Attack, you can use your reaction to evade the attack and avoid damage
+**Shadestep:** |  Crouch, Roll, and Blink; Become invincible | Once per round, when an attacker that you can see hits you with an Attack, you can use your reaction to evade the attack and avoid damage.
