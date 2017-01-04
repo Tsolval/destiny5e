@@ -48,6 +48,8 @@ Your Exo character has a variety of natural Abilities which are bestowed upon th
   <dd>Exo generally fall into the same height categories as Humans.  Their metal bodies are light and strong, but still weigh more than the muscle and bone of a human.  Exos tend toward a bulkier, more powerful appearance. Your size is Medium.</dd>
   <dt>Speed:</dt>
   <dd>Your base walking speed is 30 feet.</dd>
+  <dt>Keen Senses:</dt>
+  <dd>You have proficiency in the Perception skill.</dd>
   <dt>Defrag:</dt>
   <dd>Exo don't need to sleep, but they do need to some quiet time to process the events of the day, just as Humans do.  Exo must spend 4 hours a day in a semi-conscious state parsing through their short term memory, tossing what isn't necessary, and storing the rest in long term memory.  This process of sorting through, organizing, and cross-referencing memories can sometimes conjure up dream-like visions or memories of an unremembered life.  This down-time is sometimes called an Exo meditative state or an Exo trance, but most Exo just refer to it as Defrag.  After resting in this way, Exo gain the same benefit that a human does from 8 hours of sleep.</dd>
   <dt>Mind in a Machine:</dt>
