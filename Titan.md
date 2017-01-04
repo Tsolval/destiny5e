@@ -46,29 +46,41 @@ Titans are warriors - heroic defenders of the Light, channeling the gifts of the
 ## Table: The Titan
 |   Level  |  Proficiency Bonus  |  Features   | 
 |:---:|:---:|----------------------------------|
-| 1st | +2  | Fighting Style, Danger Sense     |
-| 2nd | +2  | Lift, Light Pools, Melee, Grenade |
-| 3rd | +2  | Titan Archetype, Super Ability   | 
-| 4th | +2  | Titan Codex (two), Feat          |
-| 5th | +3  | Grenade, Melee, Lift Features    | 
-| 6th | +3  | Indomitable, Second Wind         | 
-| 7th | +3  | Titan Archetype Improvement      | 
-| 8th | +3  | Super Ability Improvement, Feat  | 
-| 9th | +4  | Titan Archetype Improvement      |
+| **1st** | +2  | Fighting Style, Danger Sense     |
+| **2nd** | +2  | Lift, Light Pools, Melee, Grenade |
+| **3rd** | +2  | Titan Archetype, Super Ability   | 
+| **4th** | +2  | Titan Codex (two), Feat          |
+| **5th** | +3  | Grenade, Melee, Lift Features    | 
+| **6th** | +3  | Indomitable, Second Wind         | 
+| **7th** | +3  | Titan Archetype Improvement      | 
+| **8th** | +3  | Super Ability Improvement, Feat  | 
+| **9th** | +4  | Titan Archetype Improvement      |
 
 ## Hit Points
-**Hit Dice:** 1d10 per level<br>
-**Hit Points at 1st Level:** 10 + your Constitution Modifier<br>
-**Hit Points at Higher Levels:** 1d10(6) + your Constitution modifier per level after 1st<br>
+<dl>
+  <dt>Hit Dice:</dt>
+  <dd>1d10 per level</dd>
+  <dt>Hit Points at 1st Level:</dt>
+  <dd>10 + your Constitution Modifier</dd>
+  <dt>Hit Points at Higher Levels:</dt>
+  <dd>1d10(6) + your Constitution modifier per level after 1st</dd>
+</dl>
 
 ## Starting Proficiencies
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
-**Armor:** Heavy Armor<br>
-**Weapons:** All Primary, Special, and Heavy weapons<br>
-**Tools:** None<br>
-**Saving Throws:** Strength, Constitution<br>
-**Skills:** Choose 4 from Animal Handling, Athletics, History, Insight, Intimidation, Investigation, Perception, Persuasion, Survival
+<dl>
+  <dt>Armor:</dt>
+  <dd>Heavy Armor</dd>
+  <dt>Weapons:</dt>
+  <dd>All Primary, Special, and Heavy weapons</dd>
+  <dt>Tools:</dt>
+  <dd>None</dd>
+  <dt>Saving Throws:</dt>
+  <dd>Strength, Constitution</dd>
+  <dt>Skills:</dt>
+  <dd>Choose 4 from Animal Handling, Athletics, History, Insight, Intimidation, Investigation, Perception, Persuasion, Survival</dd>
+</dl>
 
 ## Class Features
 ### Fighting Style
@@ -115,7 +127,7 @@ At level two, you gain access to a special light-enhanced, close-quarters, hand-
 At 5th level, your melee will gain a feature based on your chosen Archetype. See the archetype section for options.
 
 ### Grenade
-At level two, you gain access to a special light-powered grenade. These grenades consume 30 light from your Grenade resource pool. When you want to use a grenade, spend the light points and throw the grenade to any location within 60 feet.  The grenade will explode immediately, doing 3d6 Light damage to all enemies within 10 feet.  If the creature succeeds at a Dexterity save at DC 15, it will take half damage (round down).
+At level two, you gain access to a special light-powered grenade. These grenades consume 30 light from your Grenade resource pool. As an action, a character can throw a grenade at a point up to 60 feet away.  Each creature within 20 feet of an exploding grenade must make a DC 15 Dexterity saving throw, taking 5d6 Light damage on a failed save, or half as much damage on a successful one (round down).
 
 At 3rd and 5th level, your grenade is affected by your chosen Archetype. See the archetype section for details.
 
