@@ -44,14 +44,17 @@ Abram, Allerton, Benson, Brooks, Browning, Carlton, Clapham, Claridge, Coombs, E
 ## Human Traits
 It’s hard to make generalizations about humans, but your human character has these traits.
 
-*Ability Score Increase:* Your ability scores each increase by 1.
-
-*Age:* Humans reach adulthood in their late teens and can live for about three centuries.
-
-*Alignment:* Humans tend toward no particular alignment. The best and the worst are found among them.
-
-*Size:* Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
-
-*Speed:* Your base walking speed is 30 feet.
-
-*Languages:* You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues.
+<dl>
+  <dt>Ability Score Increase:</dt>
+  <dd>Your ability scores each increase by 1.</dd>
+  <dt>Age:</dt>
+  <dd>Humans reach adulthood in their late teens and generally live for about a century.  A human Guardian, however, can live for much longer.  The Iron Lords, for instance, are some of the oldest known Guardians, and they have been around for just over three centuries.</dd>
+  <dt>Alignment:</dt>
+  <dd>Humans tend toward no particular alignment. The best and the worst are found among them.</dd>
+  <dt>Size:</dt>
+  <dd>Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.</dd>
+  <dt>Speed:</dt>
+  <dd>Your base walking speed is 30 feet.</dd>
+  <dt>Languages:</dt>
+  <dd>You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues.</dd>
+</dl>
