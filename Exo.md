@@ -36,9 +36,22 @@ Anger-27, Blade-3, Blight-43, Brass-47, Brute-12, Chain-47, Daemon-2, Desire-1, 
 
 ## Exo Traits
 Your Exo character has a variety of natural Abilities which are bestowed upon them by the nature of their particular evolution.
-**Ability Score Increase:** Your Strength, Constitution, and Intelligence scores each increase by 2.
-**Age:** An Exo's metal body means that, so long as it is kept in good condition, it will last forever.  These countless years can weigh heavily on a soul, however, so an Exo is occasionally "rebooted" or has her memories wiped.  All known Exos were "born" centuries ago, in the Golden Age, when the technology to create them was still available.
-**Alignment:** They may not remember what the threat was, but Exos were built to protect humanity.  Thus they tend toward Lawful Good.
-**Size:** Exo generally fall into the same height categories as Humans.  Their metal bodies, are light and strong, but still weigh more than the muscle and bone of a human.  Exos tend toward a bulkier, more powerful appearance. Your size is Medium.
-**Speed:** Your base walking speed is 30 feet.
-**Languages:** You can speak, read, and write Common and one other language of your choice.
+
+<dl>
+  <dt>Ability Score Increase:</dt>
+  <dd>Your Strength, Constitution, and Intelligence scores each increase by 1.</dd>
+  <dt>Age:</dt>
+  <dd>All known Exos were "born" centuries ago, during the Golden Age, when the technology to create them was still available.  Exo war machines were built around 2110, apparently to fight a war with the Vex, and were seeded with consciousness around 2275 through an event centering around something called the "Deep Stone Crypt".  An Exo's metal body means that, so long as it is kept in good condition, it will last forever.  These countless years can weigh heavily on a soul, however, so an Exo is occasionally "rebooted" or has her memories wiped.  Your character can decide which of these events (construction, self-realization, or mind wipe) starts the current life and, thus, determines your Exo's age.</dd>
+  <dt>Alignment:</dt>
+  <dd>They may not remember what the threat was, but Exos were built to protect humanity.  Thus they tend toward Lawful Good.</dd>
+  <dt>Size:</dt>
+  <dd>Exo generally fall into the same height categories as Humans.  Their metal bodies are light and strong, but still weigh more than the muscle and bone of a human.  Exos tend toward a bulkier, more powerful appearance. Your size is Medium.</dd>
+  <dt>Speed:</dt>
+  <dd>Your base walking speed is 30 feet.</dd>
+  <dt>Defrag:</dt>
+  <dd>Exo don't need to sleep, but they do need to some quiet time to process the events of the day, just as Humans do.  Exo must spend 4 hours a day in a semi-conscious state parsing through their short term memory, tossing what isn't necessary, and storing the rest in long term memory.  This process of sorting through, organizing, and cross-referencing memories can sometimes conjure up dream-like visions or memories of an unremembered life.  This down-time is sometimes called an Exo meditative state or an Exo trance, but most Exo just refer to it as Defrag.  After resting in this way, Exo gain the same benefit that a human does from 8 hours of sleep.</dd>
+  <dt>Mind in a Machine:</dt>
+  <dd>An Exo is a human mind in the body of a machine.  As such, they don't need to eat, drink or sleep and they are immune to disease and poison.  In addition, when you aren't wearing armor, your AC is 13 + your Dexterity modifier, due to your metal exoskeleton.  On the other hand, Exo are vulnerable to dangers which do not effect biological organisms.  For instance, Exo are not immune to EMP damage, though they are shielded from it, and electronic viruses and infestations (such as SIVA) could very well be a problem.  The knowledge and industry of the Golden Age which built them is all but forgotten, so if an Exo sustains damage beyond the ability of their repair nanites, there is little that current technology can do to address it.</dd>
+  <dt>Languages:</dt>
+  <dd>You can speak, read, and write Common and one other language of your choice.</dd>
+</dl>
