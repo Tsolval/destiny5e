@@ -1,29 +1,54 @@
->My name is Eriana-3, disciple of the Praxic Warlocks, marked by the Cormorant Seal. We came here under one banner, united in a host of thousands, to claim the Moon. But the battle goes against us. I have taken a prisoner and this is the record of its interrogation. If I transgress in your eyes I ask for your forgiveness.<br>
-[sound of current or discharge]<br>
-/Eriana. It responds to pain.<br>
-It responds to the Light. Hurt it again. Monster, heed me. Who is your master with the sword?<br>
-[static event]<br>
-I can hear it. In my head. The swordbearer's name is CROTA. Record that.<br>
-/Should I burn it again?<br>
-No. I think you're only feeding it. I will touch its mind. Ghost - help.<br>
-They call you Wizard. You must be ancient. I think you value power very much. Will you still be powerful without this piece of your mind?<br>
-Tell me how to kill Crota.<br>
-[static event]<br>
-It showed me the battle. It showed me Wei Ning dead on Crota's blade. It showed me how Crota killed a Guardian with a screaming knife hammered out of his own Ghost.<br>
-So I will take a piece of its mind, and ask again.<br>
-Tell me how to kill Crota.<br>
-[static event]<br>
-Incredible. Where? Where is his throne? Where is the twilight world under the dead star eye?<br>
-/Eriana there's word from the company in Mare Imbrium. Crota is upon them. Half a hundred dead. They need us.<br>
-Tell me where! Tell me how! TELL ME!<br>
-[static event]<br>
-/Eriana what did it say - <br>
-It showed me how it did this, just exactly this, to an Awoken man, the knives arranged by its will, like little silver ships, like Ghosts - <br>
-It laughed at me. It said we were the same.<br>
-/Crota marches with a thousand Knights and they say the sky above Mare Imbrium has turned into green fire. They are dying in numbers I cannot bear to repeat. He kills them one by one with a sword that eats their Light. Eriana, we have to do something - <br>
-Kill the Wizard. Scatter the ash. It has nothing but lies to offer.<br>
-Get your Sparrows. We have Light and fury. That will be enough<br>
-[Ghost Fragment: Warlock 2](http://destiny-grimoire.info/#Card-101110)
+>My name is Eriana-3, disciple of the Praxic Warlocks, marked by the Cormorant Seal. We came here under one banner, united in a host of thousands, to claim the Moon. But the battle goes against us. I have taken a prisoner and this is the record of its interrogation. If I transgress in your eyes I ask for your forgiveness.
+
+>[sound of current or discharge]
+
+>/Eriana. It responds to pain.
+
+>It responds to the Light. Hurt it again. Monster, heed me. Who is your master with the sword?
+
+>[static event]
+
+>I can hear it. In my head. The swordbearer's name is CROTA. Record that.
+
+>/Should I burn it again?
+
+>No. I think you're only feeding it. I will touch its mind. Ghost - help.
+
+>They call you Wizard. You must be ancient. I think you value power very much. Will you still be powerful without this piece of your mind?
+
+>Tell me how to kill Crota.
+
+>[static event]
+
+>It showed me the battle. It showed me Wei Ning dead on Crota's blade. It showed me how Crota killed a Guardian with a screaming knife hammered out of his own Ghost.
+
+>So I will take a piece of its mind, and ask again.
+
+>Tell me how to kill Crota.
+
+>[static event]
+
+>Incredible. Where? Where is his throne? Where is the twilight world under the dead star eye?
+
+>/Eriana there's word from the company in Mare Imbrium. Crota is upon them. Half a hundred dead. They need us.
+
+>Tell me where! Tell me how! TELL ME!
+
+>[static event]
+
+>/Eriana what did it say -
+
+>It showed me how it did this, just exactly this, to an Awoken man, the knives arranged by its will, like little silver ships, like Ghosts -
+
+>It laughed at me. It said we were the same.
+
+>/Crota marches with a thousand Knights and they say the sky above Mare Imbrium has turned into green fire. They are dying in numbers I cannot bear to repeat. He kills them one by one with a sword that eats their Light. Eriana, we have to do something -
+
+>Kill the Wizard. Scatter the ash. It has nothing but lies to offer.
+
+>Get your Sparrows. We have Light and fury. That will be enough
+
+>[Ghost Fragment: Warlock 2](http://destiny-grimoire.info/#Card-101110)
 
 # [Warlock](http://destiny-grimoire.info/#Card-101030)
 _"We have found new ways to weaponize curiosity. Pathways into the darkness."_
@@ -33,29 +58,41 @@ Warrior-scholars of the Light, Warlocks devote themselves to understanding the T
 ## Table: The Warlock
 | Level | Proficiency Bonus | Features | Cantrips Known |
 |:-----:|:---:|:--------------------------|:-----------------:|
-|  1st  | +2 | Arcane Optics, Awakened Mind      | 2 |
-|  2nd  | +2 | Glide, Light Pools, Melee, Grenade | 2 |
-|  3rd  | +2 | Warlock Archetype, Super Ability  | 2 |
-|  4th  | +2 | Arcane Study, Ancient Order, Feat | 3 |
-|  5th  | +3 | Grenade, Melee, Glide Features    | 3 |
-|  6th  | +3 | Entropic Ward, Traveller's Gift   | 3 |
-|  7th  | +3 | Warlock Archetype Improvement     | 3 |
-|  8th  | +3 | Super Ability Improvement, Feat   | 3 |
-|  9th  | +4 | Warlock Archetype Improvement     | 3 |
+|  **1st**  | +2 | Arcane Optics, Awakened Mind      | 2 |
+|  **2nd**  | +2 | Glide, Light Pools, Melee, Grenade | 2 |
+|  **3rd**  | +2 | Warlock Archetype, Super Ability  | 2 |
+|  **4th**  | +2 | Arcane Study, Ancient Order, Feat | 3 |
+|  **5th**  | +3 | Grenade, Melee, Glide Features    | 3 |
+|  **6th**  | +3 | Entropic Ward, Traveller's Gift   | 3 |
+|  **7th**  | +3 | Warlock Archetype Improvement     | 3 |
+|  **8th**  | +3 | Super Ability Improvement, Feat   | 3 |
+|  **9th**  | +4 | Warlock Archetype Improvement     | 3 |
 
 ## Hit Points
-**Hit Dice:** 1d10 per level<br>
-**Hit Points at 1st Level:** 10 + your Constitution Modifier<br>
-**Hit Points at Higher Levels:** 1d10(6) + your Constitution modifier per level after 1st<br>
+<dl>
+  <dt>Hit Dice:</dt>
+  <dd>1d10 per level</dd>
+  <dt>Hit Points at 1st Level:</dt>
+  <dd>10 + your Constitution Modifier</dd>
+  <dt>Hit Points at Higher Levels:</dt>
+  <dd>1d10(6) + your Constitution modifier per level after 1st</dd>
+</dl>
 
 ## Starting Proficiencies
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
-**Armor:** Light Armor<br>
-**Weapons:** All Primary, Special, and Heavy weapons<br>
-**Tools:** None<br>
-**Saving Throws:** Wisdom, Intelligence<br>
-**Skills:** Choose 4 from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Medicine, Nature, Perception, Performance, Persuasion, Sleight of Hand, and Stealth, Survival.
+<dl>
+  <dt>Armor:</dt>
+  <dd>Light Armor</dd>
+  <dt>Weapons:</dt>
+  <dd>All Primary, Special, and Heavy weapons</dd>
+  <dt>Tools:</dt>
+  <dd>None</dd>
+  <dt>Saving Throws:</dt>
+  <dd>Wisdom, Intelligence</dd>
+  <dt>Skills:</dt>
+  <dd>Choose 4 from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Medicine, Nature, Perception, Performance, Persuasion, Sleight of Hand, and Stealth, Survival.</dd>
+</dl>
 
 ## Class Features
 ### Arcane Optics
@@ -77,10 +114,10 @@ At 5th level, your Glide ability gains one of the following features based on yo
 
 Feature | Description | Benefit
 :---|:---|:---
-Focused Control: | Upgrades Glide for better directional control while in mid-air. | You can now change direction up to 90 degrees once while in the middle of a jump.
-Focused Burst: | Upgrades Glide to provide an initial burst of speed. | Your long jump takes you 10 feet further and your high jump takes you 5 feet higher over the non-upgraded Glide.
-Balanced Glide: | Upgrades Glide to provide bonuses to both speed and control. | Your long jump and high jump take you 5 feet further than non-upgraded Glide and you may alter your jump direction up to 45 degrees in any direction once while in the air.
-Blink: | Teleport a short distance. | You teleport up to your maximum Glide distance.  You cannot blink through solid obstacles, and you have to be able to see where you are going, but you can Blink over traps, difficult terrain, etc.
+**Focused&nbsp;Control:** | Upgrades Glide for better directional control while in mid-air. | You can now change direction up to 90 degrees once while in the middle of a jump.
+**Focused&nbsp;Burst:** | Upgrades Glide to provide an initial burst of speed. | Your long jump takes you 10 feet further and your high jump takes you 5 feet higher over the non-upgraded Glide.
+**Balanced&nbsp;Glide:** | Upgrades Glide to provide bonuses to both speed and control. | Your long jump and high jump take you 5 feet further than non-upgraded Glide and you may alter your jump direction up to 45 degrees in any direction once while in the air.
+**Blink:** | Teleport a short distance. | You teleport up to your maximum Glide distance.  You cannot blink through solid obstacles, and you have to be able to see where you are going, but you can Blink over traps, difficult terrain, etc.
 
 ### Light Pools
 At level 2, you gain access to three pools of Light. One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super Ability. All pools start at 0 Light. The Melee pool has a maximum of 20 Light points, the Grenade pool max is 30, and the pool empowering your Super Ability maxes at 50 points. During its round, Your ghost distills Light from the environment, enemies you've destroyed, and Orbs of Light you've encountered, and distributes it to your resource pools. See the section on Ghosts for more information.
@@ -93,7 +130,7 @@ At level two, you gain access to a special light-enhanced, close-quarters, hand-
 At 5th level, your melee will gain a feature based on your chosen Archetype. See the archetype section for options.
 
 ### Grenade
-At level two, you gain access to a special light-powered grenade. These grenades consume 30 light from your Grenade resource pool. When you want to use a grenade, spend the light points and throw the grenade to any location within 60 feet.  The grenade will explode immediately, doing 3d6 Light damage to all enemies within 10 feet.  If the creature succeeds at a Dexterity save at DC 15, it will take half damage (round down).
+At level two, you gain access to a special light-powered grenade. These grenades consume 30 light from your Grenade resource pool. As an action, a character can throw a grenade at a point up to 60 feet away.  Each creature within 20 feet of an exploding grenade must make a DC 15 Dexterity saving throw, taking 5d6 Light damage on a failed save, or half as much damage on a successful one (round down).
 
 At 3rd and 5th level, your grenade is affected by your chosen Archetype. See the archetype section for details.
 
@@ -105,18 +142,18 @@ At level 4, you specialize in one of these Warlock Ideals. Choose one and gain i
 
 Ideal | Description | Benefit
 :---|:---|:---
-**Arcane Wisdom:** | Training focused on battle recovery and speed. | Movement +5, Recovery -1
-**Arcane Spirit:** | Training focused on battle recovery and toughness. | AC +1, Recovery -1
-**Arcane Force:** | Training focused on toughness and speed. | AC +1, Movement +5
+**Arcane&nbsp;Wisdom:** | Training focused on battle recovery and speed. | Movement +5, Recovery -1
+**Arcane&nbsp;Spirit:** | Training focused on battle recovery and toughness. | AC +1, Recovery -1
+**Arcane&nbsp;Force:** | Training focused on toughness and speed. | AC +1, Movement +5
 
 ### Ancient Order
 At level 4, you are invited to join these Warlock Orders. Choose one and gain its benefits.
 
 Order | Description | Benefit
 :---|:---|:---
-**Ancestral Order:** | Training focused on all attributes. | AC +1, Movement +5, Recovery -1
-**Chaos Order:** | Training focused on speed. | Movement +10
-**Divine Order:** | Training focused on toughness at all costs. | AC +2
+**Ancestral&nbsp;Order:** | Training focused on all attributes. | AC +1, Movement +5, Recovery -1
+**Chaos&nbsp;Order:** | Training focused on speed. | Movement +10
+**Divine&nbsp;Order:** | Training focused on toughness at all costs. | AC +2
 
 ### Entropic Ward
 At 6th level, you learn to magically ward yourself against attack and to turn an enemy’s failed strike into good luck for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn. Once you use this feature, you can’t use it again until you finish a short or long rest.
@@ -155,8 +192,8 @@ At 5th level, choose one of the following features to modify your Energy Drain a
 Feature | Description | Benefit
 :---|:---|:---
 **Surge:** | Damaging an enemy with Energy Drain increases your weapon and movement speed. | For 2 rounds, You may ready or reload your weapon as a bonus action, and your Movement speed increases +5.
-**Life Steal:** | Damaging an enemy with Energy Drain immediately restores a significant portion of your health. | Roll a number of d8 equivalent to your level and replenish your hit points by this amount.
-**Soul Rip:** | Damaging an enemy with Energy Drain reduces the cooldown of Nova Bomb. | Roll 1d8 and add this light to your Super pool.  This is in addition to the 1d6 for the Grenade pool. 
+**Life&nbsp;Steal:** | Damaging an enemy with Energy Drain immediately restores a significant portion of your health. | Roll a number of d8 equivalent to your level and replenish your hit points by this amount.
+**Soul&nbsp;Rip:** | Damaging an enemy with Energy Drain reduces the cooldown of Nova Bomb. | Roll 1d8 and add this light to your Super pool.  This is in addition to the 1d6 for the Grenade pool. 
 
 #### Void Grenades
 At 3rd level, your grenade now does Void damage.
@@ -165,9 +202,9 @@ At 5th level, select one of the following grenade types. Your grenade ability wi
 
 Grenade | Description | Benefit
 :---|:---|:---
-**Vortex Grenade:** | A grenade that creates a vortex which continually damages enemies inside the sphere. | Instead of exploding, your grenade remains for 3 rounds doing 2d6 damage each round to enemies within its blast radius. 
-**Scatter Grenade:** | A grenade that splits into many submunitions and covers a large area with explosions. | Submunitions scatter to the spaces surrounding the target square and explode, doing an additional 1d4 unavoidable damage to enemies in the blast range.
-**Axion Bolt:** | A bolt of Void light which forks into smaller bolts on impact which seek toward enemies. | The grenade doesn't explode, but splits into two bolts which last for 3 rounds and seek enemies within 25 feet of the impact zone.  Bolts have a movement rate of 30 feet and deal 2d6 damage when they contact an enemy. The GM decides whether or not the bolts track the same target.
+**Vortex&nbsp;Grenade:** | A grenade that creates a vortex which continually damages enemies inside the sphere. | Instead of exploding, your grenade remains for 3 rounds doing 2d6 damage each round to enemies within its blast radius. 
+**Scatter&nbsp;Grenade:** | A grenade that splits into many submunitions and covers a large area with explosions. | Submunitions scatter to the spaces surrounding the target square and explode, doing an additional 1d4 unavoidable damage to enemies in the blast range.
+**Axion&nbsp;Bolt:** | A bolt of Void light which forks into smaller bolts on impact which seek toward enemies. | The grenade doesn't explode, but splits into two bolts which last for 3 rounds and seek enemies within 25 feet of the impact zone.  Bolts have a movement rate of 30 feet and deal 2d6 damage when they contact an enemy. The GM decides whether or not the bolts track the same target.
 
 #### Additional Features
 At level 7, you choose one of the following abilities.
@@ -175,16 +212,16 @@ At level 7, you choose one of the following abilities.
 Feature | Description | Benefit
 :---|:---|:---
 **Annihilate:** | Increases the size of the explosion created by Nova Bomb and Vortex grenade. | Explosion radius is increased from 15 to 20 feet
-**Angry Magic:** | Nova Bomb tracks enemies. | Enemies can no longer save for half damage.
-**The Hunger:** | Increases the duration of the Energy Drain effect. | Energy Drain effects now last for 3 rounds.
+**Angry&nbsp;Magic:** | Nova Bomb tracks enemies. | Enemies can no longer save for half damage.
+**The&nbsp;Hunger:** | Increases the duration of the Energy Drain effect. | Energy Drain effects now last for 3 rounds.
 
 And at 9th level, you can add one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Vortex Mastery:** | Increases the range of Axion Bolt seekers and the duration of the Vortex effect of Nova Bomb and Vortex Grenade. | Axion Bolts track enemies up to 30 feet from impact and have 35 movement; Vortex effects now last 1 round longer.
+**Vortex&nbsp;Mastery:** | Increases the range of Axion Bolt seekers and the duration of the Vortex effect of Nova Bomb and Vortex Grenade. | Axion Bolts track enemies up to 30 feet from impact and have 35 movement; Vortex effects now last 1 round longer.
 **Bloom:** | Enemies killed with any of your abilities explode. | Explosions deal 3d6 damage to all enemies within 5 feet.  A DC 15 Dex save reduces damage by half.
-**Embrace the Void:** | Killing enemies with Nova Bomb or any grenade triggers the Energy Drain effect | This effect stacks with The Hunger and Soul Rip effects
+**Embrace&nbsp;the&nbsp;Void:** | Killing enemies with Nova Bomb or any grenade triggers the Energy Drain effect | This effect stacks with The Hunger and Soul Rip effects
 
 ### [Sunsinger](http://destiny-grimoire.info/#Card-307070)
 _"There are flames that even the Darkness cannot extinguish."_
@@ -204,8 +241,8 @@ At level 8, you can choose one of the following additional features for Radiance
 
 Feature | Description | Benefit
 :---|:---|:---
-**Song of Flame:** | While active, Radiance reduces all cooldowns for nearby allies. | Your grenade and melee cost reduction is granted to allies within 30 feet of you.
-**Radiant Skin:** | While active, Radiance reduces incoming damage. | You take half damage during Radiance.
+**Song&nbsp;of&nbsp;Flame:** | While active, Radiance reduces all cooldowns for nearby allies. | Your grenade and melee cost reduction is granted to allies within 30 feet of you.
+**Radiant&nbsp;Skin:** | While active, Radiance reduces incoming damage. | You take half damage during Radiance.
 **Fireborn:** | Radiance can now be activated from beyond the grave. Doing so returns you to life. | Welcome back, Guardian.
 
 #### Scorch
@@ -215,8 +252,8 @@ At 5th level, choose one of the following features to add to your Scorch.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Flame Shield:** | Damaging enemies with Scorch reduces incoming damage for a short time. | Incoming damage is halved for 2 rounds.
-**Solar Wind:** | Reduces the cooldown of Scorch. Hitting an enemy with Scorch knocks them back. | The cost of Scorch is reduced to 15 light.  Enemies hit with Scorch are knocked 10 feet away from you.
+**Flame&nbsp;Shield:** | Damaging enemies with Scorch reduces incoming damage for a short time. | Incoming damage is halved for 2 rounds.
+**Solar&nbsp;Wind:** | Reduces the cooldown of Scorch. Hitting an enemy with Scorch knocks them back. | The cost of Scorch is reduced to 15 light.  Enemies hit with Scorch are knocked 10 feet away from you.
 **Brimstone:** | Reduces the cooldown of Scorch. Killing enemies with Scorch causes them to explode. | The cost of Scorch is reduced to 15 light.  Exploding enemies deal 3d6 damage to all enemies within 5 feet.  A DC 15 Dex save reduces damage by half.
 
 #### Solar Grenades
@@ -226,26 +263,26 @@ At 5th level, select one of the following grenade types.  Your grenade ability w
 
 Grenade  | Description | Benefit
 :---|:---|:---
-**Solar Grenade:** | A grenade that creates a flare of Solar Light which continually damages enemies trapped inside. | Instead of exploding, your grenade remains for 3 rounds doing 2d6 damage each round to enemies within its blast radius.
-**Firebolt Grenade:** | A grenade that unleashes bolts of Solar Light at nearby enemies. | The grenade no longer explodes, but its area of effect is increased to 15 feet. When the grenade goes off, each target in the area is hit by a bolt of fire which deals 2d8 damage.
-**Fusion Grenade:** | A grenade that causes bonus damage when attached to its target. | If your roll to hit meets or exceeds the AC of an enemy standing in the targeted area, the grenade sticks to this enemy and does an additional 2d6 damage to it.
+**Solar&nbsp;Grenade:** | A grenade that creates a flare of Solar Light which continually damages enemies trapped inside. | Instead of exploding, your grenade remains for 3 rounds doing 2d6 damage each round to enemies within its blast radius.
+**Firebolt&nbsp;Grenade:** | A grenade that unleashes bolts of Solar Light at nearby enemies. | The grenade no longer explodes, but its area of effect is increased to 15 feet. When the grenade goes off, each target in the area is hit by a bolt of fire which deals 2d8 damage.
+**Fusion&nbsp;Grenade:** | A grenade that causes bonus damage when attached to its target. | If your roll to hit meets or exceeds the AC of an enemy standing in the targeted area, the grenade sticks to this enemy and does an additional 2d6 damage to it.
 
 #### Additional Features
 At level 7, you choose one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Radiant Will:** | Increases the duration of Radiance. | Radiance now lasts for 6 rounds.
-**Viking Funeral:** | Enemies you ignite take more damage from all sources. Stacks up to 3 times. | Each stack increases all damage to the target by 1d4.  Each stack lasts for 3 rounds.
+**Radiant&nbsp;Will:** | Increases the duration of Radiance. | Radiance now lasts for 6 rounds.
+**Viking&nbsp;Funeral:** | Enemies you ignite take more damage from all sources. Stacks up to 3 times. | Each stack increases all damage to the target by 1d4.  Each stack lasts for 3 rounds.
 **Sunburst:** | Killing an enemy with Scorch generates an Orb of Light. | Make them take one for your team.
 
 And at 9th level, you can add one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Touch of Flame:** | All grenades ignite enemies, causing damage over time. | Ignited enemies take 1d4 damage for 3 rounds.
-**Angel of Light:** | Aiming your weapon while in the air will hold you in place for a short time. | Become the hummingbird.
-**Gift of the Sun:** | Gain an additional grenade. | Grenade pool maximum increases to 60.
+**Touch&nbsp;of&nbsp;Flame:** | All grenades ignite enemies, causing damage over time. | Ignited enemies take 1d4 damage for 3 rounds.
+**Angel&nbsp;of&nbsp;Light:** | Aiming your weapon while in the air will hold you in place for a short time. | Become the hummingbird.
+**Gift&nbsp;of&nbsp;the&nbsp;Sun:** | Gain an additional grenade. | Grenade pool maximum increases to 60.
 
 ### [Stormcaller](http://destiny-grimoire.info/#Card-700060)
 “Harmony within, hurricane without.”
@@ -265,7 +302,7 @@ Feature | Description | Benefit
 :---|:---|:---
 **Landfall:** | On casting Stormtrance, fire a bolt of lightning into the ground, creating a devastating shockwave under you. | Landfall deals 5d10 damage in a 10 foot radius, and blinds enemies within 15 feet.
 **Superconductor:** | Doubles your Stormtrance lightning's chaining capabilities. | Chained lightning can now spread 15 feet from your target, and can chain a second time.
-**Ionic Blink:** | Teleport during Stormtrance. | This teleport is equivalent to blink.
+**Ionic&nbsp;Blink:** | Teleport during Stormtrance. | This teleport is equivalent to blink.
 
 #### Thunderstrike
 At 3rd Level, your melee ability becomes Thunderstrike.  It now deals Arc Damage and does 1d8 damage.
@@ -274,9 +311,9 @@ At 5th level, choose one of the following features to add to your Scorch.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Chain Lightning:** | Your Thunderstrike chains from the struck target to another nearby enemy. | An enemy within 10 feet is struck by lightning and takes 1d8 damage.
+**Chain&nbsp;Lightning:** | Your Thunderstrike chains from the struck target to another nearby enemy. | An enemy within 10 feet is struck by lightning and takes 1d8 damage.
 **Amplitude:** | Your Thunderstrike has a greater range. | Thunderstrike can now hit enemies 10 feet from you.
-**Rising Storm:** | Hits with Thunderstrike charge your Super Ability and Melee energy. | Hits add 1d8 to your Super resource pool and 1d6 to your Melee resource pool.
+**Rising&nbsp;Storm:** | Hits with Thunderstrike charge your Super Ability and Melee energy. | Hits add 1d8 to your Super resource pool and 1d6 to your Melee resource pool.
 
 #### Arc Grenades
 At 3rd level, your grenade now does Arc damage.
@@ -285,16 +322,16 @@ At 5th level, select one of the following grenade types.  Your grenade ability w
 
 Grenade | Description | Benefit
 :---|:---|:---
-**Pulse Grenade:** | A grenade that periodically damages enemies inside its explosive radius. | Instead of exploding, your grenade remains for 3 rounds doing 2d6 damage each round to enemies within its blast radius.
-**Storm Grenade:** | This grenade calls down a localized lightning storm. | Instead of exploding, this lightning strikes twice.  It deals 2d6 each round for 2 rounds.
-**Arcbolt Grenade:** | A grenade that chains bolts of lightning to nearby enemies. | The grenade no longer explodes, but its area of effect is increased to 15 feet. When the grenade goes off, each target in the area is hit by a bolt of lightning which then chains to a creature within 10 feet of that target. Each target hit by a lightning bolt takes 1d8 damage.
+**Pulse&nbsp;Grenade:** | A grenade that periodically damages enemies inside its explosive radius. | Instead of exploding, your grenade remains for 3 rounds doing 2d6 damage each round to enemies within its blast radius.
+**Storm&nbsp;Grenade:** | This grenade calls down a localized lightning storm. | Instead of exploding, this lightning strikes twice.  It deals 2d6 each round for 2 rounds.
+**Arcbolt&nbsp;Grenade:** | A grenade that chains bolts of lightning to nearby enemies. | The grenade no longer explodes, but its area of effect is increased to 15 feet. When the grenade goes off, each target in the area is hit by a bolt of lightning which then chains to a creature within 10 feet of that target. Each target hit by a lightning bolt takes 1d8 damage.
 
 #### Additional Features
 At level 7, you choose one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Pulse Wave:** | When critically wounded, trigger a Pulsewave that boosts speed for you and your allies. | When your health drops below half your maximum, you and any allies within 30 feet of you gain 10 Movement for 2 rounds.
+**Pulse&nbsp;Wave:** | When critically wounded, trigger a Pulsewave that boosts speed for you and your allies. | When your health drops below half your maximum, you and any allies within 30 feet of you gain 10 Movement for 2 rounds.
 **Feedback:** | Incoming melee attacks fully recharge and intensify your Thunderstrike. | If you are hit by a melee attack, add the cost of a melee to your Melee resource pool.
 **Transcendence:** | When cast with full grenade and melee energy, Stormtrance restores your health to full and drains slower. | Your health is reset to maximum and Stormtrance now lasts for 6 rounds.
 
@@ -302,9 +339,9 @@ And at 9th level, you can add one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Electrostatic Mind:** | Stormtrance charges faster when allies are near. When Stormtrance is active, nearby enemies take damage. | You generate an extra 1d6 Light for Stormtrance each round.  Stormtrance deals 1d6 damage to any enemy within 10 feet of you.
-**Arc Web:** | Enemies damaged by your grenades chain deadly lightning to other nearby enemies. | Enemies within 10 feet of an enemy that was damaged by your grenade are struck by lightning and take 1d8 damage.
-**Perpetual Charge:** | Getting a grenade kill recharges your melee. Getting a melee kill recharges your grenade. | Add the cost of the grenade or melee to the appropriate resource pool.
+**Electrostatic&nbsp;Mind:** | Stormtrance charges faster when allies are near. When Stormtrance is active, nearby enemies take damage. | You generate an extra 1d6 Light for Stormtrance each round.  Stormtrance deals 1d6 damage to any enemy within 10 feet of you.
+**Arc&nbsp;Web:** | Enemies damaged by your grenades chain deadly lightning to other nearby enemies. | Enemies within 10 feet of an enemy that was damaged by your grenade are struck by lightning and take 1d8 damage.
+**Perpetual&nbsp;Charge:** | Getting a grenade kill recharges your melee. Getting a melee kill recharges your grenade. | Add the cost of the grenade or melee to the appropriate resource pool.
 
 ## Cantrips
 ### Warlock Cantrips
