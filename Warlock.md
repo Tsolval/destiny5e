@@ -125,7 +125,7 @@ At level 2, you gain access to three pools of Light. One supplies power to your 
 ### Melee - [Palm](http://destiny-grimoire.info/#Card-301200)
 _Curiosity gets a Warlock into trouble, and force of will gets a Warlock out. Even novices can shear reality with a single deadly gesture._
 
-At level two, you gain access to a special light-enhanced, close-quarters, hand-to-hand melee attack. This melee consumes 20 Light from your Melee resource pool and upgrades a standard melee attack.  You can use this attack on any enemy within 5 feet to deal 1d6 damage.  Add your Wisdom modifier and Proficiency bonus to both the attack and damage rolls.
+At level two, you gain access to a special light-enhanced, close-quarters, hand-to-hand melee attack. This melee consumes 20 Light from your Melee resource pool and upgrades a standard melee attack.  You can use this attack on any enemy within 5 feet to deal 1d8 damage for every Warlock level.  Add your Wisdom modifier and Proficiency bonus to both the attack and damage rolls.
 
 At 5th level, your melee will gain a feature based on your chosen Archetype. See the archetype section for options.
 
@@ -174,24 +174,24 @@ You will fear nothing, and nothing will not fear you.
 #### Super Ability - [Nova Bomb](http://destiny-grimoire.info/#Card-301160)
 Channel the Traveler's Light into a bolt of energy with the power of a collapsing star. The devastating Nova Bomb scours the battlefield with ethereal fire - but be careful in its use. It takes precious moments to summon, and it must be aimed precisely to avoid obstacles.
 
-At level 3, you can spend 50 Light from your Super pool to throw a Nova Bomb. You can launch this Super toward any square within 30 feet of you, and the Nova Bomb will explode as soon as it hits anything, releasing a blast of Void Light in a 15 foot radius from the point of detonation. All enemies within the blast area take 8d12 Void damage + willpower modifier + proficiency modifier. 
+At level 3, you can spend 50 Light from your Super pool to throw a Nova Bomb. You can launch this Super toward any enemy within 60 feet of you, and the Nova Bomb will explode as soon as it hits anything, releasing a blast of Void Light in a 20 foot radius from the point of detonation.  All enemies within the blast area that fail a DC 17 Dexterity save take 8d12 Void damage + willpower modifier + proficiency modifier or half if they succeed.
 
 At level 8, you can choose one of the following additional features for your Nova Bomb.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Vortex:** | Nova Bomb creates a temporary vortex which continually damages enemies trapped inside. | The vortex extends 15 feet from ground zero, lasts for 5 rounds and deals 2d12 damage per round to any enemy creature that touches the field that round.
+**Vortex:** | Nova Bomb creates a temporary vortex which continually damages enemies trapped inside. | The vortex extends 15 feet from ground zero, lasts for 5 rounds and deals 2d12 damage per round to any enemy creature that touches the field.
 **Shatter:** | Nova Bomb splits into three projectiles. | Blast radius reduced from 15 to 10 feet per projectile.  The second and third projectiles land 5 feet behind and 15 feet to the left and right of the main projectile.
-**Lance:** | Nova Bomb travels farther and faster, and does more damage. | Range is increased to 60 feet, Blast radius is reduced to 10 feet, and damage is increased to 10d12.
+**Lance:** | Nova Bomb travels farther and faster, and does more damage. | Range is increased to 90 feet, Blast radius is reduced to 10 feet, and damage is increased to 10d12.
 
 #### Energy Drain
-At 3rd level, your melee ability becomes Energy Drain.  This void palm attack drains an additional 1d6 light from your enemies to replenish your Grenade resource pool over the next 2 rounds.
+At 3rd level, your melee ability becomes Energy Drain.  This void palm attack drains an additional 1d6 light from your enemies to replenish your Grenade resource pool over the next 3 rounds.
 
 At 5th level, choose one of the following features to modify your Energy Drain ability.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Surge:** | Damaging an enemy with Energy Drain increases your weapon and movement speed. | For 2 rounds, You may ready or reload your weapon as a bonus action, and your Movement speed increases +5.
+**Surge:** | Damaging an enemy with Energy Drain increases your weapon and movement speed. | For 3 rounds, you may ready or reload your weapon as a bonus action, and your Movement speed increases +5.
 **Life&nbsp;Steal:** | Damaging an enemy with Energy Drain immediately restores a significant portion of your health. | Roll a number of d8 equivalent to your level and replenish your hit points by this amount.
 **Soul&nbsp;Rip:** | Damaging an enemy with Energy Drain reduces the cooldown of Nova Bomb. | Roll 1d8 and add this light to your Super pool.  This is in addition to the 1d6 for the Grenade pool. 
 
@@ -202,16 +202,16 @@ At 5th level, select one of the following grenade types. Your grenade ability wi
 
 Grenade | Description | Benefit
 :---|:---|:---
-**Vortex&nbsp;Grenade:** | A grenade that creates a vortex which continually damages enemies inside the sphere. | Instead of exploding, your grenade remains for 3 rounds doing 2d6 damage each round to enemies within its blast radius. 
+**Vortex&nbsp;Grenade:** | A grenade that creates a vortex which continually damages enemies inside the sphere. | Instead of exploding, your grenade remains for 3 rounds doing 3d6 damage each round to enemies within its blast radius. This damage is unavoidable.
 **Scatter&nbsp;Grenade:** | A grenade that splits into many submunitions and covers a large area with explosions. | Submunitions scatter to the spaces surrounding the target square and explode, doing an additional 1d4 unavoidable damage to enemies in the blast range.
-**Axion&nbsp;Bolt:** | A bolt of Void light which forks into smaller bolts on impact which seek toward enemies. | The grenade doesn't explode, but splits into two bolts which last for 3 rounds and seek enemies within 25 feet of the impact zone.  Bolts have a movement rate of 30 feet and deal 2d6 damage when they contact an enemy. The GM decides whether or not the bolts track the same target.
+**Axion&nbsp;Bolt:** | A bolt of Void light which forks into smaller bolts on impact which seek toward enemies. | The grenade doesn't explode, but splits into two bolts which last for 3 rounds and seek enemies within 25 feet of the impact zone.  Bolts have a movement rate of 30 feet and deal 3d6 damage when they contact an enemy. The GM decides whether or not the bolts track the same target.
 
 #### Additional Features
 At level 7, you choose one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Annihilate:** | Increases the size of the explosion created by Nova Bomb and Vortex grenade. | Explosion radius is increased from 15 to 20 feet
+**Annihilate:** | Increases the size of the explosion created by Nova Bomb and Vortex grenade. | Explosion radius is increased from 20 to 25 feet
 **Angry&nbsp;Magic:** | Nova Bomb tracks enemies. | Enemies can no longer save for half damage.
 **The&nbsp;Hunger:** | Increases the duration of the Energy Drain effect. | Energy Drain effects now last for 3 rounds.
 
@@ -345,5 +345,16 @@ Feature | Description | Benefit
 
 ## Cantrips
 ### Warlock Cantrips
-
-### Other Cantrips
+Blade Ward
+Chill Touch
+Dancing Lights
+Eldritch Blast
+Fire Bolt
+Guidance
+Message
+Prestidigitation
+Produce Flame
+Resistance
+Shocking Grasp
+Spare the Dying
+True Strike
