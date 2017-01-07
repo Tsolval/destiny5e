@@ -117,7 +117,7 @@ At level 2, you gain access to three pools of Light. One supplies power to your 
 ### Melee - [Stab](http://destiny-grimoire.info/#Card-301190)
 _With their finely tuned reflexes, Hunters are naturally gifted with knives. The make and shape of the perfect knife is a matter of endless debate._
 
-At level two, you gain access to a special light-enhanced, close-quarters, dagger-based melee attack. This melee consumes 20 Light from your Melee resource pool and upgrades a standard melee attack.  You can use this attack on any enemy within 5 feet to deal 1d6 damage.  Add your Dexterity modifier and Proficiency bonus to both the attack and damage rolls.
+At level two, you gain access to a special light-enhanced, close-quarters, dagger-based melee attack. This melee consumes 20 Light from your Melee resource pool and upgrades a standard melee attack.  You can use this attack on any enemy within 5 feet to deal 1d8 damage for every Hunter level.  Add your Dexterity modifier and Proficiency bonus to both the attack and damage rolls.
 
 At 5th level, your melee will gain a feature based on your chosen Archetype. See the archetype section for options.
 
