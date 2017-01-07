@@ -122,7 +122,7 @@ At level 2, you gain access to three pools of Light. One supplies power to your 
 ### Melee - [Punch](http://destiny-grimoire.info/#Card-301180)
 _The brute strength of a Titan's melee offers a full-force response to immediate danger._
 
-At level two, you gain access to a special light-enhanced, close-quarters, hand-to-hand melee attack. This melee consumes 20 Light from your Melee resource pool and upgrades a standard melee attack.  You can use this attack on any enemy within 5 feet to deal 1d6 damage.  Add your Strength modifier and Proficiency bonus to both the attack and damage rolls.
+At level two, you gain access to a special light-enhanced, close-quarters, hand-to-hand melee attack. This melee consumes 20 Light from your Melee resource pool and upgrades a standard melee attack.  You can use this attack on any enemy within 5 feet to deal 1d8 damage for every Titan level.  Add your Strength modifier and Proficiency bonus to both the attack and damage rolls.
 
 At 5th level, your melee will gain a feature based on your chosen Archetype. See the archetype section for options.
 
