@@ -213,7 +213,7 @@ Feature | Description | Benefit
 :---|:---|:---
 **Annihilate:** | Increases the size of the explosion created by Nova Bomb and Vortex grenade. | Explosion radius is increased from 20 to 25 feet
 **Angry&nbsp;Magic:** | Nova Bomb tracks enemies. | Enemies can no longer save for half damage.
-**The&nbsp;Hunger:** | Increases the duration of the Energy Drain effect. | Energy Drain effects now last for 3 rounds.
+**The&nbsp;Hunger:** | Increases the duration of the Energy Drain effect. | Energy Drain effects now last for 5 rounds.
 
 And at 9th level, you can add one of the following abilities.
 
@@ -235,7 +235,7 @@ Open yourself to the Light. Glimpse, for a few rapturous moments, the truth beyo
 
 A Warlock in a state of Radiance threatens to slip beyond the bonds of the material, shrugging off physical harm, channeling a torrent of abilities. Some may learn to elevate nearby Guardians, gifting them with power. Others, entranced by the Ghosts' power to reach beyond death, may learn to pluck themselves out of nothingness like the phoenix of ancient myth.
 
-At level 3, you can spend 50 Light from your Super Ability pool to bathe yourself in Light for 5 rounds, strengthening your grenade and melee damage and lowering their cooldowns.  While Radiance is active, your Melee cost is reduced by 5 and its damage is doubled.  In addition, your Grenade damage is raised to 4d6 and its cost is reduced by half.
+At level 3, you can spend 50 Light from your Super Ability pool to bathe yourself in Light for 5 rounds, strengthening your grenade and melee damage and lowering their cooldowns.  While Radiance is active, your Melee cost is reduced by 5 and its damage is doubled.  In addition, your Grenade damage is raised is increased by 1d6 and its cost is reduced by half.
 
 At level 8, you can choose one of the following additional features for Radiance.
 
@@ -243,18 +243,18 @@ Feature | Description | Benefit
 :---|:---|:---
 **Song&nbsp;of&nbsp;Flame:** | While active, Radiance reduces all cooldowns for nearby allies. | Your grenade and melee cost reduction is granted to allies within 30 feet of you.
 **Radiant&nbsp;Skin:** | While active, Radiance reduces incoming damage. | You take half damage during Radiance.
-**Fireborn:** | Radiance can now be activated from beyond the grave. Doing so returns you to life. | Welcome back, Guardian.
+**Fireborn:** | Radiance can now be activated from beyond the grave. Doing so returns you to life. | You stand up immediately and regain health.  Roll a number of d10 equivalent to your level and replenish your hit points by this amount. 
 
 #### Scorch
-At 3rd Level, your melee ability becomes Scorch.  It now deals Solar Damage and can Ignite enemies, dealing 1d4 damage per round for 2 rounds.
+At 3rd Level, your melee ability becomes Scorch.  It now deals Solar Damage and can Ignite enemies, dealing 1d4 damage per round for 3 rounds.
 
 At 5th level, choose one of the following features to add to your Scorch.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Flame&nbsp;Shield:** | Damaging enemies with Scorch reduces incoming damage for a short time. | Incoming damage is halved for 2 rounds.
-**Solar&nbsp;Wind:** | Reduces the cooldown of Scorch. Hitting an enemy with Scorch knocks them back. | The cost of Scorch is reduced to 15 light.  Enemies hit with Scorch are knocked 10 feet away from you.
-**Brimstone:** | Reduces the cooldown of Scorch. Killing enemies with Scorch causes them to explode. | The cost of Scorch is reduced to 15 light.  Exploding enemies deal 3d6 damage to all enemies within 5 feet.  A DC 15 Dex save reduces damage by half.
+**Flame&nbsp;Shield:** | Damaging enemies with Scorch reduces incoming damage for a short time. | Incoming damage is halved for 3 rounds.
+**Solar&nbsp;Wind:** | Reduces the cooldown of Scorch. Hitting an enemy with Scorch knocks them back. | The cost of Scorch is reduced to 10 light.  Enemies hit with Scorch are knocked 10 feet away from you.
+**Brimstone:** | Reduces the cooldown of Scorch. Killing enemies with Scorch causes them to explode. | The cost of Scorch is reduced to 15 light.  Exploding enemies deal 3d6 damage to all enemies within 10 feet.  A DC 15 Dex save reduces damage by half.
 
 #### Solar Grenades
 At 3rd level, your grenade now does Solar damage.
@@ -263,8 +263,8 @@ At 5th level, select one of the following grenade types.  Your grenade ability w
 
 Grenade  | Description | Benefit
 :---|:---|:---
-**Solar&nbsp;Grenade:** | A grenade that creates a flare of Solar Light which continually damages enemies trapped inside. | Instead of exploding, your grenade remains for 3 rounds doing 2d6 damage each round to enemies within its blast radius.
-**Firebolt&nbsp;Grenade:** | A grenade that unleashes bolts of Solar Light at nearby enemies. | The grenade no longer explodes, but its area of effect is increased to 15 feet. When the grenade goes off, each target in the area is hit by a bolt of fire which deals 2d8 damage.
+**Solar&nbsp;Grenade:** | A grenade that creates a flare of Solar Light which continually damages enemies trapped inside. | Instead of exploding, your grenade remains for 3 rounds doing 3d6 damage each round to enemies within its blast radius.
+**Firebolt&nbsp;Grenade:** | A grenade that unleashes bolts of Solar Light at nearby enemies. | The grenade no longer explodes, but its area of effect is increased to 30 feet. When the grenade goes off, up to 3 targets in the area are hit by a bolt of fire which deals an unavoidable 3d6 damage.
 **Fusion&nbsp;Grenade:** | A grenade that causes bonus damage when attached to its target. | If your roll to hit meets or exceeds the AC of an enemy standing in the targeted area, the grenade sticks to this enemy and does an additional 2d6 damage to it.
 
 #### Additional Features
@@ -294,7 +294,7 @@ You are a weapon.
 #### Super Ability - [Storm Trance](http://destiny-grimoire.info/#Card-700120)
 Focus your Light to call forth a powerful Arc storm, and siphon it, channeling lightning through your fingertips to send it surging between your targets. A Warlock in Stormtrance is exercising such unbreakable focus that the Arc energy they summon draws them off the ground, the air humming and crackling around them. Like lightning you bend your path forward through the air, striking down anything too slow escape the storm.
 
-At level 3, you you can spend 50 Light from your Super Ability pool to summon a thunderstorm and channel lightning into your enemies for 5 rounds, allowing you to essentially dual wield lightning. Point your hand at an enemy within 15 feet of you to cause the lightning to stream into them, doing 2d10 damage per hand, per round.  Lightning can chain to another enemy within 10 feet of your target dealing 2d10 damage.
+At level 3, you you can spend 50 Light from your Super Ability pool to summon a thunderstorm and channel lightning into your enemies for 5 rounds, allowing you to essentially dual wield lightning. Point your hand at an enemy within 20 feet of you to cause the lightning to stream into them, doing 2d10 damage per hand, per round.  Lightning can chain to another enemy within 10 feet of your target dealing 2d10 damage.
 
 At level 8, you can choose one of the following additional features for Radiance.
 
@@ -305,13 +305,13 @@ Feature | Description | Benefit
 **Ionic&nbsp;Blink:** | Teleport during Stormtrance. | This teleport is equivalent to blink.
 
 #### Thunderstrike
-At 3rd Level, your melee ability becomes Thunderstrike.  It now deals Arc Damage and does 1d8 damage.
+At 3rd Level, your melee ability becomes Thunderstrike.  It now deals 1d10 Arc damage.
 
 At 5th level, choose one of the following features to add to your Scorch.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Chain&nbsp;Lightning:** | Your Thunderstrike chains from the struck target to another nearby enemy. | An enemy within 10 feet is struck by lightning and takes 1d8 damage.
+**Chain&nbsp;Lightning:** | Your Thunderstrike chains from the struck target to another nearby enemy. | An enemy within 10 feet is struck by lightning and takes 1d10 damage.
 **Amplitude:** | Your Thunderstrike has a greater range. | Thunderstrike can now hit enemies 10 feet from you.
 **Rising&nbsp;Storm:** | Hits with Thunderstrike charge your Super Ability and Melee energy. | Hits add 1d8 to your Super resource pool and 1d6 to your Melee resource pool.
 
@@ -322,16 +322,16 @@ At 5th level, select one of the following grenade types.  Your grenade ability w
 
 Grenade | Description | Benefit
 :---|:---|:---
-**Pulse&nbsp;Grenade:** | A grenade that periodically damages enemies inside its explosive radius. | Instead of exploding, your grenade remains for 3 rounds doing 2d6 damage each round to enemies within its blast radius.
-**Storm&nbsp;Grenade:** | This grenade calls down a localized lightning storm. | Instead of exploding, this lightning strikes twice.  It deals 2d6 each round for 2 rounds.
-**Arcbolt&nbsp;Grenade:** | A grenade that chains bolts of lightning to nearby enemies. | The grenade no longer explodes, but its area of effect is increased to 15 feet. When the grenade goes off, each target in the area is hit by a bolt of lightning which then chains to a creature within 10 feet of that target. Each target hit by a lightning bolt takes 1d8 damage.
+**Pulse&nbsp;Grenade:** | A grenade that periodically damages enemies inside its explosive radius. | Instead of exploding, your grenade remains for 3 rounds doing 3d6 damage each round to enemies within its blast radius.
+**Storm&nbsp;Grenade:** | This grenade calls down a localized lightning storm. | Instead of exploding, this lightning strikes twice.  It deals 3d6 each round for 2 rounds.
+**Arcbolt&nbsp;Grenade:** | A grenade that chains bolts of lightning to nearby enemies. | The grenade no longer explodes, but its area of effect is increased to 30 feet. When the grenade goes off, up to 3 targets in the area are hit by a bolt of lightning and take 2d10 damage.
 
 #### Additional Features
 At level 7, you choose one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Pulse&nbsp;Wave:** | When critically wounded, trigger a Pulsewave that boosts speed for you and your allies. | When your health drops below half your maximum, you and any allies within 30 feet of you gain 10 Movement for 2 rounds.
+**Pulse&nbsp;Wave:** | When critically wounded, trigger a Pulsewave that boosts speed for you and your allies. | When your health drops below half your maximum, you and any allies within 30 feet of you gain 10 Movement for 3 rounds.
 **Feedback:** | Incoming melee attacks fully recharge and intensify your Thunderstrike. | If you are hit by a melee attack, add the cost of a melee to your Melee resource pool.
 **Transcendence:** | When cast with full grenade and melee energy, Stormtrance restores your health to full and drains slower. | Your health is reset to maximum and Stormtrance now lasts for 6 rounds.
 
@@ -339,8 +339,8 @@ And at 9th level, you can add one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Electrostatic&nbsp;Mind:** | Stormtrance charges faster when allies are near. When Stormtrance is active, nearby enemies take damage. | You generate an extra 1d6 Light for Stormtrance each round.  Stormtrance deals 1d6 damage to any enemy within 10 feet of you.
-**Arc&nbsp;Web:** | Enemies damaged by your grenades chain deadly lightning to other nearby enemies. | Enemies within 10 feet of an enemy that was damaged by your grenade are struck by lightning and take 1d8 damage.
+**Electrostatic&nbsp;Mind:** | Stormtrance charges faster when allies are near. When Stormtrance is active, nearby enemies take damage. | You generate an extra 1d6 Light for Stormtrance each round.  Stormtrance deals 1d8 damage to any enemy within 10 feet of you when it's active.
+**Arc&nbsp;Web:** | Enemies damaged by your grenades chain deadly lightning to other nearby enemies. | One enemy within 10 feet of any enemy damaged by your grenade is struck by lightning and takes 1d10 damage.
 **Perpetual&nbsp;Charge:** | Getting a grenade kill recharges your melee. Getting a melee kill recharges your grenade. | Add the cost of the grenade or melee to the appropriate resource pool.
 
 ## Cantrips
