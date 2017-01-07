@@ -162,15 +162,15 @@ Striker tactics depend on shock and disciplined aggression. They must awe and sc
 #### Super Ability - [Fist of Havoc](http://destiny-grimoire.info/#Card-301120)
 Leap forward and smash the ground, obliterating everything nearby. You will be a thunderbolt - but use your fury carefully. If there are survivors, you will surely draw their wrath.
 
-At level 3, you can spend 50 Light from your Super Ability pool to launch your Fist of Havoc, leaping toward a location within your movement range and striking the ground with your fist, releasing a blast of Light in a 15 foot radius from the titan.  All enemies within the blast area take Arc damage to the tune of 10d10 + strength modifier + proficiency modifier.
+At level 3, you can spend 50 Light from your Super Ability pool to launch your Fist of Havoc, leaping toward a location within your movement range and striking the ground with your fist, releasing a blast of Light in a 20 foot radius from the titan.  All enemies within the blast area take Arc damage to the tune of 10d10 + strength modifier + proficiency modifier.  Enemies greater than 10 feet from the impact zone who make a DC 17 Dexterity save can take half damage.
 
 At level 8, you can choose one of the following additional features for your Fist of Havoc.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Death From Above:** | After jumping, Fist of Havoc can be aimed at enemies below. | Add half your long jump distance to the distance you can travel to hit the target.
-**Shockwave:** | Fist of Havoc unleashes a wave of devastating energy which travels along the ground. | This wave of energy travels in a straight line in front of you for 30 feet, dealing 3d10 damage to enemies in its path.
-**Aftermath:** | Fist of Havoc leaves a damage-dealing field in its wake. | This field has the same effect area as the initial strike, lasts for 5 rounds and deals 1d10 damage to any enemy creature touching the field.
+**Death From Above:** | After jumping, Fist of Havoc can be aimed at enemies below. | Enemies in blast range can no longer save for half damage.
+**Shockwave:** | Fist of Havoc unleashes a wave of devastating energy which travels along the ground. | This wave of energy travels in a straight line in front of you for 30 feet, dealing 2d10 damage to enemies in its path.
+**Aftermath:** | Fist of Havoc leaves a damage-dealing field in its wake. | This field has the same effect area as the initial strike, lasts for 5 rounds and deals 2d10 damage to any enemy creature touching the field.
 
 #### Storm Fist
 At 3rd Level, your melee ability becomes Storm Fist.  It now deals Arc Damage and damage is increased from 1d6 to 1d10.
@@ -180,7 +180,7 @@ At 5th level, choose one of the following features to add to your Storm Fist.
 Feature | Description | Benefit
 :---|:---|:---
 **Overload:** | Hits with Storm Fist have a chance to immediately reset its cooldown. | Roll a die.  If the result is even, then set the Grenade resource pool back to 20 light so that Storm Fist can be used again.
-**Discharge:** | Hits with Storm Fist deal area of effect damage around the target. | Enemies within 5 feet of the target will take 1d6 splash damage.
+**Discharge:** | Hits with Storm Fist deal area of effect damage around the target. | Enemies within 5 feet of the target will take 1d8 splash damage.
 **Amplify:** | Kills with Storm Fist significantly reduce the cooldown of Fist of Havoc. | Each Storm Fist kill adds 1d10 light points to Fist of Havoc's resource pool.  Fist of Havoc's resource pool cannot exceed the maxiumum of 50 light.
 
 #### Arc Grenades
@@ -191,15 +191,15 @@ At 5th level, you may select one of the following grenade types.  Your grenade a
 Grenade | Description | Benefit
 :---|:---|:---
 **Flashbang Grenade:** | An explosive grenade that disorients the enemies it damages. | Your grenade also blinds enemies for 1 round.
-**Pulse Grenade:** | A grenade that periodically damages enemies inside its explosive radius. | Instead of exploding, your grenade remains for 3 rounds and does 2d6 damage each round to enemies within its blast radius.
-**Lightning Grenade:** | A grenade that sticks to any surface, periodically emitting bolts of lightning. | The grenade now has a 15 foot range and lasts for 3 rounds, but no longer explodes.  Every round, roll a DC15 constitution save for each creature in the grenade's sphere of influence.  If they fail, they are struck by a bolt from the grenade and take 2d6 damage.
+**Pulse Grenade:** | A grenade that periodically damages enemies inside its explosive radius. | Instead of exploding, your grenade remains for 3 rounds and does 3d6 damage each round to enemies within its blast radius.
+**Lightning Grenade:** | A grenade that sticks to any surface, periodically emitting bolts of lightning. | The grenade now has a 30 foot range and lasts for 3 rounds, but no longer explodes.  Every round, roll a DC15 constitution save for each creature in the grenade's sphere of influence.  If they fail, they are struck by a bolt from the grenade and take 2d10 damage.
 
 #### Additional Features
 At level 7, you choose one of the following features for your Titan.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Headstrong:** | Sprinting increases the leap distance of Fist of Havoc. | If you sprint before you smash, you can add half your jump distance to the distance you can travel to hit the target.  Note that if you stack this with Death From Above, you are adding your entire jump distance to the distance you can travel.
+**Headstrong:** | Sprinting increases the leap distance of Fist of Havoc. | If you sprint before you smash, you can add half your jump distance to the distance you can travel to hit the target.
 **Aftershocks:** | Increases the duration of the Pulse Grenade, Lightning Grenade, and Aftermath. | Pulse and Lightning grenades now last 4 rounds.  Aftermath now lasts 6 rounds.
 **Transfusion:** | Kills with Storm Fist or Shoulder Charge immediately trigger health regeneration. | Your ghost will begin your recovery this round, no matter how much recovery time remains.
 
@@ -209,7 +209,7 @@ Feature | Description | Benefit
 :---|:---|:---
 **Unstoppable:** | You are harder to kill while using Fist of Havoc. | While you are charging in for your Fist of Havoc, gain a number of temporary hit points equal to your hit point maximum.  These points expire at the beginning of your next turn.
 **Shoulder Charge:** | After sprinting for a short time, unleash a devastating melee attack. | You must sprint for at least 10 feet and then Make a melee attack against the target, as with Storm Fist, to Shoulder charge into an opponent.  This attack does 2d6, plus your strength modifier, plus your proficiency modifier, in damage.
-**Juggernaut:** | After sprinting for a short time, gain a protective shield. | You must sprint for at least 10 feet.  A shield appears in front of you which has a number of hit points equal to your current hit point maximum.  Note that this shield doesn't protect your flanks or rear.
+**Juggernaut:** | After sprinting for a short time, gain a protective shield. | You must sprint for at least 10 feet.  You gain a shield with hit points equal to your current hit point maximum until the start of your next turn.  Note that this shield doesn't protect your flanks or rear.
 
 ### [Defender](http://destiny-grimoire.info/#Card-307030)
 _"The wall against which the Darkness breaks."_
@@ -220,7 +220,7 @@ Armed with unflinching conviction and an armory of Void techniques, Defenders bl
 #### Super Ability - [Ward of Dawn](http://destiny-grimoire.info/#Card-301130)
 Open a pocket in the universe, an impregnable fortress for you and your allies. The mighty Ward allows Guardians to hold key points and gather their strength in the face of overwhelming opposition.  
 
-At level 3, you can spend 50 Light from your Super Ability pool to create a bubble with a 15 foot radius from the titan which prevents ranged attacks from penetrating.  The bubble lasts for 5 rounds or until destroyed and has 100 hit points.  Enemies are not prevented from entering your bubble.
+At level 3, you can spend 50 Light from your Super Ability pool to create a bubble with a 20 foot radius from the titan which prevents ranged attacks from penetrating.  The bubble lasts for 5 rounds or until destroyed and has 100 hit points.  Enemies are not prevented from entering your bubble.
 
 At level 8, you can choose one of the following additional features for your Ward of Dawn.
 
