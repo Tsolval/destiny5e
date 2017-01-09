@@ -1,11 +1,19 @@
 > I was nothingness. If I existed before, I existed as possibility, as potential, stretched thin across the aether. And maybe there was a body that looked like my body, complete with a soul that could be confused for someone rather like me. What I am now was not yet real. And then I was born, and the universe was free to begin.
+
 > Others were present at my birth.
+
 > A great ceremony had just begun. Because newborns are selfish beasts, I assumed I was the object of attention.
+
 > I didn't notice the singing until the singers fell silent. And then She appeared.
+
 > She was above me. Ethereal and handsome and elegant. I assumed my face was like her face and that odd idea gave me strength enough to smile.
+
 > "Secrets," she said. "Creation is built on secrets and the encryptions that keep those secrets safe."
+
 > I made my first sound. It meant nothing but she understood it as a question.
+
 > "We are a beautiful creation," she said. "And we must keep ourselves very safe."
+
 > [Ghost Fragment: Awoken 2](http://destiny-grimoire.info/#Card-102140 "Destiny Grimoire")
 
 # [Awoken](http://destiny-grimoire.info/#Card-102020 "Destiny Grimoire")
@@ -26,7 +34,7 @@ Cos, Gahl, Gamenj, Gazush, Gol, Gum, Jamej, Janj, Javesh, Jehl, Jemunj, Jilehl, 
 ### Known Awoken
 | Name              | Titles                                                   |
 |-------------------|----------------------------------------------------------|
-| Mara Sov          | Queen of the Awoken                                      | 
+| Mara Sov          | Queen of the Awoken                                      |
 | Uldren Sov        | Prince of the Reef, Master of Crows                      |
 | Petra Venj        | Queen's Emissary, Acting Queen of the Reef               |
 | Commander Zavala  | Vanguard of the Titans                                   |
@@ -37,12 +45,12 @@ Cos, Gahl, Gamenj, Gazush, Gol, Gum, Jamej, Janj, Javesh, Jehl, Jemunj, Jilehl, 
 | Techeun Kalli     | Tech Witch in service to Mara Sov                        |
 | Techeun Lissyl    | Tech Witch in service to Mara Sov                        |
 | Techeun Nascia    | Tech Witch in service to Mara Sov                        |
-| Techeun Portia    | Tech Witch in service to Mara Sov                        | 
+| Techeun Portia    | Tech Witch in service to Mara Sov                        |
 | Techeun Sedia     | Tech Witch in service to Mara Sov                        |
 | Techeun Shuro Chi | Tech Witch in service to Mara Sov                        |
 | Abra Zire         | Paladin of the Royal Armada                              |
 | Pavel Nolg        | Paladin of the Royal Army                                |
-| Yasmin Eld        | Paladin of the Royal Awoken Guard                        | 
+| Yasmin Eld        | Paladin of the Royal Awoken Guard                        |
 | Hallam Fen        | Paladin of the Royal Armada                              |
 | Imogen Rife       | Paladin of the Royal Armada                              |
 | Devi Cassl        | Paladin of the Royal Army                                |

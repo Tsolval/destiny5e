@@ -94,10 +94,10 @@ While traveling for an hour or more in your favored terrain, you gain the follow
 You choose an additional favored terrain type at 6th level.
 
 ### Double Jump
-At level two, you gain the Double Jump ability which allows you to make a dexterous second leap while still in the air.  This allows your long jump and high jump to cover twice your normal jump distance.
+At level two, you gain the Double Jump ability which allows you to make a dexterous second leap while still in the air.  Depending on how it is used, Double Jump can extend either your long jump or your high jump as described below.
 
 #### Long Jump
-When you make a long jump with Double Jump, you can cover a number of feet equal to twice your Dexterity score (not modifier) if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half that distance.  Each foot you clear on the jump costs a foot of distance.
+When you make a long jump with Double Jump, you can cover a number of feet up to twice your Dexterity score (not modifier) if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half that distance.  Each foot you clear on the jump costs a foot of distance.
 
 #### High Jump
 When you make a high jump with Double Jump, you leap into the air a number of feet equal to (3 + dexterity modifier) * 2 if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half this distance.  Each foot you clear on the jump costs a foot of movement.
@@ -106,55 +106,55 @@ At 5th level, your Double Jump ability gains one of three features based on your
 
 Feature | Description | Benefit
 :---|:---|:---
-**Increased&nbsp;Height:** | Upgrades Double Jump to travel to greater height. | Increases your high jump to (3 + dexterity modifier) * 3.
-**Increased&nbsp;Control:** | Upgrades Double Jump for better directional control while in the air. | You can now change direction up to 90 degrees once while in the middle of a jump.
-**Triple&nbsp;Jump:** | Upgrades Double Jump to Triple Jump, allowing you to jump while in the air twice. | You can now long and high jump up to triple the normal distance.
+**Increased Height:** | Upgrades Double Jump to travel to greater height. | Increases your high jump to (3 + dexterity modifier) * 3.
+**Increased Control:** | Upgrades Double Jump for better directional control while in the air. | You can now change direction up to 90 degrees once while in the middle of a jump.
+**Triple Jump:** | Upgrades Double Jump to Triple Jump, allowing you to jump while in the air twice. | You can now long and high jump up to triple the normal distance.
 **Blink:** | Teleport a short distance. | You teleport up to your maximum Double Jump distance. You cannot blink through solid obstacles, and you have to be able to see where you are going, but you can Blink over traps, difficult terrain, etc.
 
 ### Light Pools
-At level 2, you gain access to three pools of Light. One supplies power to your special Melee attacks, one empowers your Grenades, and one is used for your Super Ability. All pools start at 0 Light. The Melee pool has a maximum of 20 Light points, the Grenade pool max is 30, and the pool empowering your Super Ability maxes at 50 points. During its round, Your ghost distills Light from the environment, enemies you've destroyed, and Orbs of Light you've encountered, and distributes it to your resource pools. See the section on Ghosts for more information.
+At level 2, you gain access to three pools of Light. One supplies power to your special melee attacks, one empowers your grenades, and one is used for your super ability. All pools start at 0 Light. The melee pool has a maximum of 20 Light points, the grenade pool max is 30, and the pool empowering your super ability maxes at 50 points. During its round, Your ghost distills Light from the environment, enemies you've destroyed, and Orbs of Light you've encountered, and distributes it to your resource pools. See the section on Ghosts for more information.
 
 ### Melee - [Stab](http://destiny-grimoire.info/#Card-301190)
 _With their finely tuned reflexes, Hunters are naturally gifted with knives. The make and shape of the perfect knife is a matter of endless debate._
 
-At level two, you gain access to a special light-enhanced, close-quarters, dagger-based melee attack. This melee consumes 20 Light from your Melee resource pool and upgrades a standard melee attack.  You can use this attack on any enemy within 5 feet to deal 1d8 damage for every Hunter level.  Add your Dexterity modifier and Proficiency bonus to both the attack and damage rolls.
+At level two, you gain access to a special Light-enhanced, close-quarters, dagger-based melee attack. This melee consumes 20 Light from your melee resource pool and upgrades a standard melee attack.  You can use this attack on any enemy within 5 feet to deal 1d8 for every Hunter level plus your Dexterity modifier damage. Add your Dexterity modifier and Proficiency bonus to the attack roll.
 
 At 5th level, your melee will gain a feature based on your chosen Archetype. See the archetype section for options.
 
 ### Grenade
-At level two, you gain access to a special light-powered grenade. These grenades consume 30 light from your Grenade resource pool. As an action, a character can throw a grenade at a point up to 60 feet away.  Each creature within 20 feet of an exploding grenade must make a DC 15 Dexterity saving throw, taking 5d6 Light damage on a failed save, or half as much damage on a successful one (round down).
+At level two, you gain access to a special Light-powered grenade. These grenades consume 30 Light from your grenade resource pool. As an action, a character can throw a grenade at a point up to 60 feet away.  Each creature within 20 feet of an exploding grenade must make a DC 15 Dexterity saving throw, taking 5d6 Light damage on a failed save, or half as much damage on a successful one (round down).
 
 At 3rd and 5th level, your grenade is affected by your chosen Archetype. See the archetype section for details.
 
 ### Hunter Archetype
-At level 3, you choose one of the available Archetypes, see below, and gain your chosen Archetype's Super Ability.  This ability consumes 50 light from your Super resource pool.
+At level 3, you choose one of the available archetypes, see below, and gain your chosen archetype's super ability.  This ability consumes 50 Light from your super resource pool.
 
 ### Hunter Paths
 At level 4, you begin walking one of these Hunter's Paths.  Choose one and gain its benefits.
 
 Path | Description | Benefit
 :---|:---|:---
-**Path&nbsp;Forgotten:** | Training focused on toughness and speed.           | AC +1, Movement +5
-**Path&nbsp;Forbidden:** | Training focused on battle recovery and speed.     | Movement +5, Recovery -1
-**Path&nbsp;Unknown:**   | Training focused on battle recovery and toughness. | AC +1, Recovery -1
+**Path Forgotten:** | Training focused on toughness and speed.           | AC +1, Movement +5
+**Path Forbidden:** | Training focused on battle recovery and speed.     | Movement +5, Recovery -1
+**Path Unknown:**   | Training focused on battle recovery and toughness. | AC +1, Recovery -1
 
 ### Hunter Ways
 At level 4, you begin following one of these Hunter's Ways.  Choose one and gain its benefits.
 
 Way | Description | Benefit
 :---|:---|:---
-**Way&nbsp;of&nbsp;the&nbsp;Drifter:**  | Training focused on all attributes. | AC +1, Movement +5, Recovery -1
-**Way&nbsp;of&nbsp;the&nbsp;Fearless:** | Training focused on toughness at all costs.  | AC +2
-**Way&nbsp;of&nbsp;the&nbsp;Nomad:**    | Training focused on maximum battle recovery. | Recovery -2
+**Way of the Drifter:**  | Training focused on all attributes. | AC +1, Movement +5, Recovery -1
+**Way of the Fearless:** | Training focused on toughness at all costs.  | AC +2
+**Way of the Nomad:**    | Training focused on maximum battle recovery. | Recovery -2
 
 ### Hunter's Prey
 At 6th level, you gain one of the following features of your choice.
 
 Feature | Description
 :---|:---
-**Colossus&nbsp;Slayer:** | Your tenacity can wear down the most potent foes.  When you hit a creature with a weapon Attack, the creature takes an extra 1d8 damage if it’s below its hit point maximum. You can deal this extra damage only once per turn.
-**Giant&nbsp;Killer:** | When a Large or larger creature within 5 feet of you hits or misses you with an Attack, you can use your reaction to Attack that creature immediately after its Attack, provided that you can see the creature.
-**Horde&nbsp;Breaker:** | Once on each of your turns when you make a weapon Attack, you can make another Attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
+**Colossus Slayer:** | Your tenacity can wear down the most potent foes.  When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it’s below its hit point maximum. You can deal this extra damage only once per turn.
+**Giant Killer:** | When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.
+**Horde Breaker:** | Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
 
 ## Hunter Archetypes
 ### [Gunslinger](http://destiny-grimoire.info/#Card-307040)
@@ -163,17 +163,18 @@ _"A lone wolf who lives for the perfect shot."_
 In the end, doesn't it all come down to you and your gun?
 
 Don't see much else to say about it. That's just truth.
+
 #### Super Ability - [Golden Gun](http://destiny-grimoire.info/#Card-301140)
 Draw a hand cannon burning with Solar Light and loaded with three rounds of sunfire. Aim steady and keep your wits about you. You are a Gunslinger, and this is what you live for.
 
-At level 3, you can spend 50 Light from your Super Ability pool to summon a flaming hand cannon which lasts for 5 rounds or until it has fired 3 shots. Golden Gun has a range of 30/90.  In addition to your dexterity modifier and proficiency bonus, this weapon has a +2 to its attack and deals 8d12 Solar damage on a hit, plus dexterity and proficiency modifiers. 
+At level 3, you can spend 50 Light from your super ability pool to summon a flaming hand cannon which lasts for 5 rounds or until it has fired 3 shots. Golden Gun has a range of 40/120. In addition to your Dexterity modifier and proficiency bonus, this weapon has a +2 to its attack and deals 8d12 + Dexterity modifier in Solar damage.
 
 At level 8, you can choose one of the following additional features for your Golden Gun.
 
 Feature | Description | Benefit
 :---|:---|:---
 **Deadeye:** | Significantly increases the accuracy of Golden Gun. | Attack bonus increases from +2 to +5
-**Combustion:** | Killing enemies with Golden Gun causes them to explode after about one second. | The victim explodes violently, dealing 5d6 splash damage to creatures within 20 feet as if it were a grenade.
+**Combustion:** | Killing enemies with Golden Gun causes them to explode after about one second. | The victim explodes violently, dealing splash damage as if it were a grenade.
 **Gunfighter:** | Reduces the cooldown of Golden Gun, allowing it to be used more often. | Cost reduced to 40 light.
 
 #### Throwing Knife
@@ -183,9 +184,9 @@ At 5th level, choose one of the following features to add to your Throwing Knife
 
 Feature | Description | Benefit
 :---|:---|:---
-**Circle&nbsp;of&nbsp;Life:** | Getting a precision kill with Throwing Knife reduces Golden Gun's cooldown. | Add 1d10 light to the Super pool 
-**Incendiary&nbsp;Blade:** | Throwing Knife sets enemies on fire, dealing additional damage over time. | Deals 1d4 damage each round for 3 rounds.
-**Knife&nbsp;Juggler:** | Precision kills with Throwing Knife immediately resets its cooldown. | If you get a critical hit, return the cost of your Throwing Knife to the Melee resource pool.
+**Circle of Life:** | Getting a precision kill with Throwing Knife reduces Golden Gun's cooldown. | Each Throwing Knife kill adds 1d10 Light to your super resource pool.
+**Incendiary Blade:** | Throwing Knife sets enemies on fire, dealing additional damage over time. | Enemies burn for 1d4 damage each round for 3 rounds.
+**Knife Juggler:** | Precision kills with Throwing Knife immediately resets its cooldown. | If you get a critical hit, return the cost of your Throwing Knife to the melee resource pool.
 
 #### Solar Grenades
 At 3rd level, your grenade now does Solar damage.
@@ -194,9 +195,9 @@ At 5th level, select one of the following grenade types.  Your grenade ability w
 
 Grenade | Description | Benefit
 :---|:---|:---
-**Incendiary&nbsp;Grenade:** | An explosive grenade that sets enemies on fire, causing additional damage to them. | Deals 1d4 damage each round for 3 rounds to any enemy caught in the blast 
-**Swarm&nbsp;Grenade:** | A grenade which detonates on impact, releasing multiple drones that seek nearby enemies. | The grenade no longer explodes, but leaves 12 drones at the target location for up to 3 rounds.  The drones track to enemies that pass within 10 feet of them doing 2d6 damage each.
-**Tripmine&nbsp;Grenade:** | An explosive grenade that sticks to surfaces and detonates when enemies pass through its laser trigger. | The grenade now has a range of 15 feet.  Attached to a surface, the grenade lasts for up to 3 rounds and detonates once an enemy enters its range.  If attached directly to an enemy, it explodes immediately and does an additional 1d6 damage to the targeted enemy.
+**Incendiary Grenade:** | An explosive grenade that sets enemies on fire, causing additional damage to them. | Enemies caught in the blast burn for 1d4 damage each round for 3 rounds.
+**Swarm Grenade:** | A grenade which detonates on impact, releasing multiple drones that seek nearby enemies. | Instead of exploding, the grenade drops 12 drones.  Each drone tracks enemies within 20 feet and deals 2d6 damage.  Drones move 30 feet and last 3 rounds.
+**Tripmine Grenade:** | An explosive grenade that sticks to surfaces and detonates when enemies pass through its laser trigger. | Attached to a surface, the grenade lasts for up to 3 rounds and detonates once an enemy enters its range.  If attached directly to an enemy, it explodes immediately and does an additional 1d6 damage to the targeted enemy.
 
 #### Additional Features
 At level 7, you choose one of the following abilities.
@@ -204,16 +205,16 @@ At level 7, you choose one of the following abilities.
 Feature | Description | Benefit
 :---|:---|:---
 **Scavenger:** | Picking up ammo reduces the cooldown of your grenade and Throwing Knife. | Each box of ammo you pick up grants 1d4 light
-**Keyhole:** | Golden Gun overpenetrates and can damage multiple targets. | Draw an imaginary line from you through your target.  If any other targets are along that line and within range, apply the damage to any of them that would have been hit by your original to-hit roll. 
-**Gunslinger's&nbsp;Trance:** | Precision kills increase weapon stability. Stacks up to 3 times. | If you make a kill with a critical hit, gain +1 to all attack rolls for 3 rounds.
+**Keyhole:** | Golden Gun overpenetrates and can damage multiple targets. | Draw an imaginary line from you through your target.  If any other targets are along that line and within range, apply the damage to any of them that would have been hit by your original to-hit roll.
+**Gunslinger's Trance:** | Precision kills increase weapon stability. Stacks up to 3 times. | If you make a kill with a critical hit, gain +1 to all attack rolls for 3 rounds.
 
 And at 9th level, you can add one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Chain&nbsp;of&nbsp;Woe:** | Precision kills allow follow up attacks. Stacks up to 3 times. | If you kill a target with a critical hit, attack another target.  You can attack (and kill) a maximum of 4 targets a round with this ability
-**Over&nbsp;the&nbsp;Horizon:** | Increases the range of Golden Gun. | Range increases to 60/120.
-**Gambler's&nbsp;Dagger:** | Gain an additional Throwing Knife. | Melee pool maximum increases to 40.
+**Chain of Woe:** | Precision kills allow follow up attacks. Stacks up to 3 times. | Critical kills allow you to attack another target, with advantage.  You can attack (and kill) a maximum of 4 targets a round with this ability
+**Over the Horizon:** | Increases the range of Golden Gun. | Range increases to 60/120.
+**Gambler's Dagger:** | Gain an additional Throwing Knife. | Melee pool maximum increases to 40.
 
 ### [Bladedancer](http://destiny-grimoire.info/#Card-307050)
 _"Beautiful lethality, relentless style."_
@@ -225,15 +226,15 @@ Leave the noise and fire to others. There's work to be done, out there in the da
 #### Super Ability - [Arc Blade](http://destiny-grimoire.info/#Card-301140)
 Set aside your weapons and lose yourself in the blade trance. Arc Light galvanizes your armor and hastens your movements, and when your knife finds a target it discharges a snap of annihilating current. For as long as the trance lasts, you are the very shadow of death.
 
-At level 3, you can spend 50 Light from your Super Ability pool to energize your Arc Blades and begin a dance of death which lasts for 5 rounds.  You are considered to be dual wielding for the duration of this ability, and thus you attack twice per round.  For each attack, choose a target and roll to hit, as normal.  If you hit, You deal 3d10 damage.  You add your Dexterity modifier and proficiency bonus to all attack and damage rolls.
+At level 3, you can spend 50 Light from your super ability pool to energize your daggers and begin a dance of death which lasts for 5 rounds.  You are considered to be dual wielding for the duration of this ability, and thus you attack twice per round.  For each attack, choose a target and roll to hit, adding your Dexterity modifier and proficiency bonus as normal.  If you hit, You deal 3d10 + Dexterity modifier damage.
 
 At level 8, you can choose one of the following additional features for your Super ability.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Showstopper:** | Damage nearby enemies. | Apply 2d10 damage to every enemy within 10 feet of you.
-**Razor's&nbsp;Edge:** | Unleash a destructive wave of energy that travels along the ground in a straight path from the front of the player. | This wave of energy travels in a straight line in front of you for 30 feet, dealing 2d10 damage to enemies in its path. 
-**Vanish:** | Disappear from sight for the duration of the Arc Blade Super or until an attack is made. | You enter an automatic stealth mode on a bonus action.
+**Showstopper:** | Damage nearby enemies. | Apply 2d10 damage to every enemy within 15 feet of you.
+**Razor's Edge:** | Unleash a destructive wave of energy that travels along the ground in a straight path from the front of the player. | This wave of energy travels in a straight line in front of you for 60 feet, dealing 2d10 damage to enemies in its path.
+**Vanish:** | Disappear from sight for the duration of the Arc Blade Super or until an attack is made. | You enter stealth on a bonus action which lasts until Arc Blade ends or you attack.
 
 #### Blink Strike
 At 3rd Level, your melee ability becomes Blink Strike and now does Arc damage.  Teleport to a target within 10 feet of you and gain advantage on the attack as if it were a sneak attack.
@@ -243,8 +244,8 @@ At 5th level, choose one of the following features to add to your Blink Strike.
 Feature | Description | Benefit
 :---|:---|:---
 **Backstab:** | Hitting an enemy from behind with Blink Strike causes significantly more damage. | If you attack a creature's flank or rear, you do an additional 1d6 damage.
-**Escape&nbsp;Artist:** | Hitting an enemy with Blink Strike grants brief invisibility. | Your Arc abilities grant you automatic Stealth for 3 rounds when you hit an enemy.
-**Fast&nbsp;Twitch:** | Reduces the cooldown of Blink Strike. | Blink Strike now costs 10 light.
+**Escape Artist:** | Hitting an enemy with Blink Strike grants brief invisibility. | Your Arc abilities grant you stealth for 3 rounds when you hit an enemy.
+**Fast Twitch:** | Reduces the cooldown of Blink Strike. | Blink Strike now costs 10 light.
 
 #### Arc Grenades
 At 3rd level, your grenade now does Arc damage.
@@ -253,17 +254,17 @@ At 5th level, select one of the following grenade types.  Your grenade ability w
 
 Grenade | Description | Benefit
 :---|:---|:---
-**Flux&nbsp;Grenade:** | An explosive grenade which deals additional damage when attached to enemies. | If your roll to hit meets or exceeds the AC of an enemy standing in the targeted area, the grenade sticks to this enemy and does an unavoidable 2d6 damage to it.
-**Skip&nbsp;Grenade:** | A grenade which splits on impact, creating multiple projectiles which seek enemies. | The grenade no longer explodes, but splits into 5 drones which seek enemies within 20 yards of ground zero.  Drone targets must pass a DC 15 Dexterity save per drone or take 2d6 damage.
-**Arcbolt&nbsp;Grenade:** | A grenade that chains bolts of lightning to nearby enemies. | The grenade no longer explodes.  When the grenade goes off, each target in the area is hit by a bolt of lightning which then chains to a creature within 10 feet of that target.  Each target hit by a lightning bolt takes 2d10 damage.
+**Flux Grenade:** | An explosive grenade which deals additional damage when attached to enemies. | If your roll to hit meets or exceeds the AC of an enemy standing in the targeted area, the grenade sticks to this enemy and does an unavoidable 2d6 damage to it.
+**Skip Grenade:** | A grenade which splits on impact, creating multiple projectiles which seek enemies. | The grenade no longer explodes, but splits into 5 drones which seek enemies within 20 yards of ground zero.  Drone targets must pass a DC 15 Dexterity save per drone or take 2d6 damage.
+**Arcbolt Grenade:** | A grenade that chains bolts of lightning to nearby enemies. | The grenade no longer explodes.  When the grenade goes off, each target in the area is hit by a bolt of lightning which then chains to a creature within 10 feet of that target.  Each target hit by a lightning bolt takes 2d10 damage.
 
 #### Additional Features
 At level 7, you choose one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Fleet&nbsp;Footed:** | Increases maximum sprint speed. | Your movement is increased by 5.
-**Quick&nbsp;Draw:** | Weapons are ready immediately. | You can ready your weapon as a bonus action.
+**Fleet Footed:** | Increases maximum sprint speed. | Your movement is increased by 5.
+**Quick Draw:** | Weapons are ready immediately. | You can ready your weapon as a bonus action.
 **Shadowjack:** | Increases the duration of invisibility effects. | The durations of your Arc Powered stealth abilities are increased to 5 rounds.
 
 And at 9th level, you can add one of the following abilities.
@@ -272,7 +273,7 @@ Feature | Description | Benefit
 :---|:---|:---
 **Encore:** | Killing an enemy with Arc Blade extends its duration. | Killing 2 enemies extends your Arc Blade by 1 round.
 **Stalker:** | Gain invisibility after crouching in place for a short time. | Spending a round crouching grants automatic stealth for 3 rounds.
-**Hungering&nbsp;Blade:** | Kills with Arc Blade and Blink Strike immediately regenerate health. | If one of these attacks kills your target, then your health will begin to recharge immediately.
+**Hungering Blade:** | Kills with Arc Blade and Blink Strike immediately regenerate health. | If one of these attacks kills your target, then your health will begin to recharge immediately.
 
 ### [Nightstalker](http://destiny-grimoire.info/#Card-700050)
 _“Draw from the Void. Light the way.”_
@@ -288,47 +289,14 @@ Do not hunt the monster. Become the monster.
 #### Super Ability - [Shadowshot](http://destiny-grimoire.info/#Card-700110)
 Summon the power of the Void to draw back and launch a precision long-range projectile that reaches out and snares enemies with slowing, draining tethers of Void Light. Shadowshot lets a Hunter's dead-eye precision carve a path to new battles.
 
-At level 3, you can spend 50 Light from your Super pool to use your Shadowshot super ability to create a void tether which lasts for 30 seconds (5 rounds).  You deploy Shadowshot in a 5 foot square and it reaches tendrils of void energy toward up to 10 enemies no more than 20 feet away.  If your Shadowshot hits an enemy directly, that enemy takes 5d10 damage from the attack.
-
-<table>
-  <thead>
-    <tr>
-      <th>Super</th>
-      <th>Type</th>
-      <th>Attack (Optional)</th>
-      <th>Damage</th>
-      <th>Special</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
-    <th>Shadowshot:</th>
-    <td>Void</td>
-    <td>Deploy to a square within 30 feet or roll 1d20 + dex mod + prof bonus</td>
-    <td>3d10 + dex mod + prof bonus</td>
-    <td>Tether and Drain 10 enemies within 20 feet</td>
-  </tr>
-  <tr>
-    <th>Tether:</th>
-    <td colspan="4">Tethered enemies move as if they are in difficult terrain.</td>
-  </tr>
-  <tr>
-    <th>Drain:</th>
-    <td colspan="4">Drained enemies cannot use grenade, melee, or super abilities.</td>
-  </tr>
-  <tr>
-    <th>Health:</th>
-    <td colspan="4">The Shadowshot has hit points equivalent to twice its creators maximum hit points and can thus be directly dispelled via damage.</td>
-  </tr>
-  </tbody>
-</table>
+At level 3, you can spend 50 Light from your super resource pool to fire a Void energy vortex to a spot up to 60 feet away.  This anchor reaches tendrils of void energy toward up to 10 enemies no more than 20 feet away for 5 rounds. If you hit an enemy (roll to hit and add your Dexterity modifier and proficiency bonus) with Shadowshot, that enemy takes 5d10 + Dexterity modifier damage from the attack.  Tethered enemies move as if they were in difficult terrain.  Drained enemies cannot use abilities such as grenade, melee, or super abilities.  The Shadowshot is destructible and has hit points equivalent to twice it's creator's maximum hit points.
 
 At level 8, you can choose one of the following additional features for your Super ability.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Blood&nbsp;Bound:** | Tethered enemies explode when killed. Damage to tethered enemies is shared to all. | When a tethered enemy takes damage, apply the same amount of damage to every other tethered enemy.
-**Black&nbsp;Hole:** | The Void Anchor has increased range, lasts significantly longer, and can tether more targets. | Tether may now reach up to 15 enemies no more than 25 feet away and lasts for 6 rounds.
+**Blood Bound:** | Tethered enemies explode when killed. Damage to tethered enemies is shared to all. | When a tethered enemy takes damage, apply the damage to every other tethered enemy.  When killed, tethered enemies explode and do splash damage like a grenade.
+**Black Hole:** | The Void Anchor has increased range, lasts significantly longer, and can tether more targets. | Tether may now reach up to 15 enemies no more than 25 feet away and lasts for 6 rounds.
 **Quiver:** | Fire Shadowshot up to three times. Void Anchors have reduced range. | You can fire up to three projectiles.  Range is reduced to 15 feet.
 
 #### Smoke
@@ -338,8 +306,8 @@ At 5th level, choose one of the following features to add to your Smoke.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Envenomed:** | Adds a toxin that damages enemies within the smoke. | Any creature who inhales the toxin must pass a DC 13 Constitution saving throw or take 3d6 poison damage and must repeat the saving throw at the start of each of its turns.  On each successive failed save, the creature takes 1d6 poison damage.  After three successful saves the poison ends.
-**Vanish&nbsp;in&nbsp;Smoke:** | You and allies near Smoke explosions vanish from sight. | Allies are hidden for 3 rounds.
+**Envenomed:** | Adds a toxin that damages enemies within the smoke. | Any creature who inhales the toxin must pass a DC 13 Constitution saving throw or take 3d6 poison damage and must repeat the saving throw at the start of each of its turns.  On each successive failed save, the creature takes 1d6 poison damage.  After three successful saves the poison ends. Poisoned enemies have disadvantage on attack rolls and ability checks.
+**Vanish in Smoke:** | You and allies near Smoke explosions vanish from sight. | Allies are hidden for 3 rounds.
 **Snare:** | Allows smoke to stick to surfaces, detonating when enemies are near. | Smoke pellets stick to surfaces and detonate when enemies enter their area of effect.
 
 #### Void Grenades
@@ -349,23 +317,23 @@ At 5th level, select one of the following grenade types.  Your grenade ability w
 
 Grenade | Description | Benefit
 :---|:---|:---
-**Spike&nbsp;Grenade:** | A grenade that attaches to any surface and emits a torrent of damaging void light. | The grenade now does damage in a conical area 20 feet long and 10 feet wide. The grenade lasts for 3 rounds, but no longer explodes. Instead, any enemy inside or passing through the cone created by the grenade takes 2d6 damage.
-**Voidwall&nbsp;Grenade:** | A Grenade that creates a horizontal wall of burning void light. | This grenade creates a line of void fire to expand 15 feet to the left and 15 feet to the right from the point of impact (from your perspective) for 3 rounds that burns enemies inside of it or passing through it for 2d6 damage.
-**Vortex&nbsp;Grenade:** | A grenade that creates a vortex which continually damages enemies inside the sphere. | Instead of exploding, your grenade remains for 3 rounds doing 2d6 damage each round to enemies within its blast radius. 
+**Spike Grenade:** | A grenade that attaches to any surface and emits a torrent of damaging void light. | The grenade now does damage in a conical area 20 feet long and 10 feet wide. The grenade lasts for 3 rounds, but no longer explodes. Instead, any enemy inside or passing through the cone created by the grenade takes 2d6 damage.
+**Voidwall Grenade:** | A Grenade that creates a horizontal wall of burning void light. | This grenade creates a wall of Void Light 30 feet across, perpendicular to the throw, and centered on the impact point that lasts for 3 rounds and burns enemies it touches for 2d6 damage.
+**Vortex Grenade:** | A grenade that creates a vortex which continually damages enemies inside the sphere. | Instead of exploding, your grenade remains for 3 rounds doing 2d6 damage each round to enemies within its blast radius.
 
 #### Additional Features
 At level 7, you choose one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Courage&nbsp;of&nbsp;the&nbsp;Pack:** | Killing tethered targets increases Recovery and Armor for you and nearby allies. Stacks up to 5 times. | Each stack reduces recovery by one and increases AC by 1 for allies within 30 feet.  Effect lasts 3 rounds.
-**Light&nbsp;of&nbsp;the&nbsp;Pack:** | Killing tethered targets creates Orbs of Light for your allies. | 1 Orb is created for every 2 dead tethered enemies.
+**Courage of the Pack:** | Killing tethered targets increases Recovery and Armor for you and nearby allies. Stacks up to 5 times. | Each stack reduces recovery by one and increases AC by 1 for allies within 30 feet.  Effect lasts 3 rounds.
+**Light of the Pack:** | Killing tethered targets creates Orbs of Light for your allies. | 1 Orb is created for every 2 dead tethered enemies.
 **Lockdown:** | Grenade and Smoke effects last twice as long, allowing strong territory control.
 
 And at 9th level, you can add one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Keen&nbsp;Scout:** | Sprint and Sneak faster, gain Enhanced Tracker, and ability to Mark targets you damage. | Increase your movement speed by 5 feet.  Targets you damage are marked, granting all allies advantage to hit for 3 rounds.  Treasure and materials show up on your HUD, though how to get to them may still be an issue.
+**Keen Scout:** | Sprint and Sneak faster, gain Enhanced Tracker, and ability to Mark targets you damage. | Increase your movement speed by 5 feet.  Targets you damage are marked, granting all allies advantage to hit for 3 rounds.  Treasure and materials show up on your HUD, though how to get to them may still be an issue.
 **Predator:** | The Void Anchors fired from Shadowshot become traps that stick to surfaces and wait for prey. | Shadowshots activate when enemies enter their area of effect.
-**Shadestep:** |  Crouch, Roll, and Blink; Become invincible | Once per round, when an attacker that you can see hits you with an Attack, you can use your reaction to evade the attack and avoid damage.
+**Shadestep:** |  Crouch, Roll, and Blink; Become invincible | Once per round, when an attacker that you can see hits you with an attack, you can use your reaction to evade and avoid damage.

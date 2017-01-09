@@ -1,12 +1,21 @@
 > -- which in the end is just a matter of substrate chauvinism. It doesn't matter if the system thinks with flesh or superconductor or topological braids in doped metallic hydrogen, as long as the logic is the same. And our logic is the same. Yours and mine.
+
 > If I am a machine then so are you. If you are not a machine then neither am I. Exo minds are human. It is incontrovertible.
-> You understand? I'm going to take that slack-jawed stare as understanding. 
+
+> You understand? I'm going to take that slack-jawed stare as understanding.
+
 > Now here's the real question. Why are Exo minds human? What's the design imperative? Why does a war machine - yes, absolutely, I am a war machine, built by human hands; and you are a survival machine built by the engine of evolution. Don't interrupt me.
+
 > Why does a war machine have emotions? Why should a war machine have awareness? These are not useful traits on the battlefield. Don't flatter yourself. They are not useful. So why should the Exo mind mimic the human architecture so closely?
+
 > You know what I smell on you? I smell the stink of anthropocentrism. I think you think that there's only one way to think. That's why the Exo mind is so human, you presume. Because all higher thought converges.
+
 > My friend, you should meet the Vex. There is nothing human in them.
+
 > Now. This is what I believe happened, back in the time before any Exo can remember. It explains everything.
+
 > I think someone wanted to live forever.
+
 > [Ghost Fragment: Exo](http://destiny-grimoire.info/#Card-102140)
 
 # [Exo](http://destiny-grimoire.info/#Card-102140)

@@ -1,27 +1,41 @@
 > Hope. And standing with strangers.
-> That’s what I remember. Hope churning beneath my skin, assuring me there was a place besides this place. A realm that would nurture us, not kill us. The Earth was ruin. Chaos and madness and death. We were standing on the Earth. Where I am now. But why am I still here? It was my turn to leave. I remember. I was waiting with others like me, and the ships would soon take us away.
-> But to where? Where was this hope?
-> I must have known. There had to be a name, coordinates. Except all of that is forgotten. Other than my absolute conviction in salvation, nothing remains.
-> The Traveler.
-> I remember that now.
-> Which was...
-> What?
-> I don’t know. Something has stolen my words, the imagery. But I still remember what it promised us...
-> The universe.
-> Yes.
-> Creation held in our hands.
-> But I was here for a reason.
-> And what would I surrender, just for the faint chance to remember what that good reason was.
-> --Ghost Fragment: Human 4
 
-# Human
+> That’s what I remember. Hope churning beneath my skin, assuring me there was a place besides this place. A realm that would nurture us, not kill us. The Earth was ruin. Chaos and madness and death. We were standing on the Earth. Where I am now. But why am I still here? It was my turn to leave. I remember. I was waiting with others like me, and the ships would soon take us away.
+
+> But to where? Where was this hope?
+
+> I must have known. There had to be a name, coordinates. Except all of that is forgotten. Other than my absolute conviction in salvation, nothing remains.
+
+> The Traveler.
+
+> I remember that now.
+
+> Which was...
+
+> What?
+
+> I don’t know. Something has stolen my words, the imagery. But I still remember what it promised us...
+
+> The universe.
+
+> Yes.
+
+> Creation held in our hands.
+
+> But I was here for a reason.
+
+> And what would I surrender, just for the faint chance to remember what that good reason was.
+
+> --[Ghost Fragment: Human 5](http://www.destiny-grimoire.info/#Card-700010)
+
+# [Human](http://www.destiny-grimoire.info/#Card-102010)
 _"This was our world, our solar system. We were here first. And no matter what the darkness brings, we will be here at the dawn."_
 ___
 Humans are survivors, tough and resilient, descended from those who built a Golden Age only to see it ripped away. Now, after an age of retreat and desperate struggle, they fight to take back their solar system and claim a new future.  There are those who believe the Traveler chose Earth for a reason. Now it is humanity's obligation to prove itself worthy of the Traveler's faith.
 
 The human race developed on Earth through the millennia. Gradually the humans became technologically advanced enough to become a space-faring race. On a mission to Mars, mankind found the mystical being, The Traveler, a monolithic sphere of immense power. Through the Traveler's assistance, the mankind entered its Golden Age. Average human's life expectancy tripled, their scientific innovations progressed magnificently, and most importantly the humans expanded to other planets. They established towns and cities throughout the solar system.
 
-## Human Names
+## [Human Names](http://fantasynamegenerators.com/destiny-human-names.php)
 ### Male Names
 Adam, Aiden, Alexander, Bailey, Ben, Benjamin, Bobby, Bradley, Brandon, Caleb, Charlie, Daniel, Dexter, Dylan, Evan, Ewan, Finlay, Harry, Hayden, Jackson, Joe, Leon, Liam, Louie, Luca, Mason, Max, Nathan, Oscar, Patrick, Reuben, Rory, Tom, Zac, Zak
 
