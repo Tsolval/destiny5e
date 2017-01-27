@@ -7,33 +7,6 @@ _"We have butchers at our gates - four-armed and eager for slaughter."_
 
 The Fallen are a tribal race, collecting in groups called Houses headed by a leader called a Kell.  Guardians know about the following Fallen combatants.
 
-## [Dreg](See more at: http://destiny-grimoire.info/#Card-207130)
-_"Don't underestimate a cutthroat, or you'll get your throat cut."_
-
-Dregs cling to the lowest rung of Fallen society. Docked of their lower arms in a ritual of humiliation and obedience, Dregs seek to prove their worth. Only a few will survive to gain promotion and regrow their limbs. Their suicidal bravery is fueled by ambition and shame.
-
-## [Shank](See more at: http://destiny-grimoire.info/#Card-207150)
-_"Death flies on tarnished wings."_
-
-Shanks are the bulldogs of the Fallen. Small and tough enough to go where Dregs won't fit, they scout, keep watch, and patrol. Fallen Walkers deploy Shanks from internal bays for tactical support and field repairs.
-
-## [Vandal](See more at: http://destiny-grimoire.info/#Card-207120)
-_"You could drown the City in the blood they've spilt."_
-
-Soldiers, brawlers, assassins, and scouts, Vandals are the seasoned regulars who fill out the skilled roles within a Fallen crew. Whether from distance or up close and personal, they are seasoned, efficient killers, with an arsenal of weaponry and tech to match their bloodlust.
-
-## [Captain](See more at: http://destiny-grimoire.info/#Card-207100)
-_"Waves of them smashed against our walls, hissing and wailing. But it was the one who stood beyond them, silent and scenting the air, that froze the blood in our veins."_
-
-Having clawed and knifed his way to the top, scattering bodies and limbs in his wake, the Captain is the strongest and most ferocious member of the crew he musters around himself. His ration of Ether is the largest, his blades the sharpest, his guns the finest. Upon his shoulders hangs the flag of his House, if he swears loyalty to any. For his crew, the slightest hesitation to comply earns a slash from his sword. Defiance results in immediate amputation, if he is in a good mood, or death, if he is not.
-
-## [Servitor](See more at: http://destiny-grimoire.info/#Card-207140)
-_"A floating light, a sleepless eye. Their hope, their faith, their sustenance."_
-
-Servitors are living relics of the once-mighty Fallen civilization. Packed with ultra-sophisticated machinery, they process matter and energy into the Ether that the Fallen depend on for life. In battle they support the Fallen with defensive systems and their own powerful energy weapons. Outside, they anchor Fallen comms and provide vital technological acumen.
-
-Servitors have complex relationships with each other and with their Fallen crews. Servitors are attached to a Prime, a massive Servitor which exists in unclear symbiosis with a Fallen Archon. The Archon conveys the Kell's wishes to the Prime Servitor, and exerts some measure of control. Recent developments suggest that Prime Servitors are more than a focus of worship and logistical activity. They may play a key role in Fallen star flight.
-
 ## Fallen Houses
 ### [House of Exile](See more at: http://destiny-grimoire.info/#Card-207070)
 _"The Devils take whatever nature has yet to claim."_
@@ -63,5 +36,4 @@ The colors of the House of Kings are rarely seen. They act with brutal contempt,
 _"These ones are mine."_
 
 The bulk of the House of Wolves now falls under the control of the Queen of the Reef. There are many stories of how this came to be, but they are too varied for the truth to be separated from rumor.
-
 
