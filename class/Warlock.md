@@ -348,16 +348,16 @@ Feature | Description | Benefit
 
 ## Cantrips
 ### Warlock Cantrips
-Blade Ward
-Chill Touch
-Dancing Lights
-Eldritch Blast
-Fire Bolt
-Guidance
-Message
-Prestidigitation
-Produce Flame
-Resistance
-Shocking Grasp
-Spare the Dying
-True Strike
+Blade Ward<br>
+Chill Touch<br>
+Dancing Lights<br>
+Eldritch Blast<br>
+Fire Bolt<br>
+Guidance<br>
+Message<br>
+Prestidigitation<br>
+Produce Flame<br>
+Resistance<br>
+Shocking Grasp<br>
+Spare the Dying<br>
+True Strike<br>
