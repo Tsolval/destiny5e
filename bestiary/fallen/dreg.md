@@ -18,21 +18,22 @@ Most Dregs are cannon fodder and do not provide much in the way of resistance. H
 
 ---
 
-**Armor Class:** 12<br>
-**Hit Points:** 6 at first level + 1d6(4) for every level over 1st <br>
-**Speed:** 30 ft
+**Armor Class:** 13 (leather)<br>
+**Hit Points:**  12 (6d6 -6)<br>
+**Speed:** 35 ft <br>
 
 ---
 
 STR|DEX|CON|INT|WIS|CHA
 ---|---|---|---|---|---
-8(-1)|16(+3)|9(-1)|8(-1)|7(-2)|8(-1)
+8(-1)|15(+2)|9(-1)|10(+0)|10(+0)|8(-1)
 
 ---
 
-**Senses:** passive Perception 8<br>
-**Languages:** Common, Fallen<br>
-**Challenge:** 1/8 (50 xp)
+**Senses:** passive Perception 8 <br>
+**Languages:** Common, Fallen <br>
+**Proficiency:** +2 <br>
+**Challenge:** 1/4 (50 xp)
 
 ---
 
@@ -43,9 +44,16 @@ STR|DEX|CON|INT|WIS|CHA
   <dd>Dregs gain advantage on an attack roll against a creature if at least one of the Dreg's allies is within 5 feet of the creature and the ally isn't incapacitated.</dd>
 </dl>
 
-Dreg: 1/8
-Shank: 1/4
-Vandal: 1/2
-Captain: 1
-Servitor: 3
+---
+
+<dl>
+  <dt>Shock Dagger</dt>
+  <dd>Melee Weapon Attack: +3 to hit, reach 5 ft., one target.  Hit: 2 (1d4) slashing damage + 4 (1d6+1) Arc damage</dd>
+  <dt>Shock Pistol</dt>
+  <dd>Ranged Weapon Attack: +3 to hit, range 40/120, reload (12 shots), one target.  Hit: 7 (2d6 + 1) Arc damage</dd>
+  <dt>Shock Grenade</dt>
+  <dd>Thrown Explosive Attack: range 60 ft., splash damage (20 feet).  Hit: 9 (3d6) Arc damage; DC 12 Dexterity save for half damage. </dd>
+  <dt>Shrapnel Launchers</dt>
+  <dd>Ranged Weapon Attack: + 3 to hit, range 30/90, reload (4 shots), one target.  Hit: 8 (2d8 + 1) Solar damage.</dd>
+</dl>
 

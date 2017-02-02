@@ -8,7 +8,7 @@ _"We have butchers at our gates - four-armed and eager for slaughter."_
 The Fallen are a tribal race, collecting in groups called Houses headed by a leader called a Kell.  Guardians know about the following Fallen combatants.
 
 ## Fallen Houses
-### [House of Exile](See more at: http://destiny-grimoire.info/#Card-207070)
+### [House of Devils](See more at: http://destiny-grimoire.info/#Card-207070)
 _"The Devils take whatever nature has yet to claim."_
 
 These are the scourge of the City, the shadow below our walls. This is the House that led the battle at the Twilight Gap, the House we tell our children about to frighten them into behaving.
@@ -37,3 +37,11 @@ _"These ones are mine."_
 
 The bulk of the House of Wolves now falls under the control of the Queen of the Reef. There are many stories of how this came to be, but they are too varied for the truth to be separated from rumor.
 
+### Other Houses
+The House of Judgement - This house claims the right of Judgement over the entire Fallen race.  Variks, leader and only known member of this house, and warden of Mara Sov's Prison of Elders, is known for aiding The Guardian's pursuit of Skolas, Kell of the House of Wolves.
+
+The House of Rain - An extinct Fallen House known for their prophecies.
+
+The House of Scar - An extinct Fallen House mentioned by Variks.
+
+The House of Stone - An extinct Fallen House who "stood before the Maw" of what is assumed to be The Darkness. Their Kell was Chelchis, Kell of Stone, who is still highly revered by the Fallen.
