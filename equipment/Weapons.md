@@ -17,7 +17,7 @@ Sidearm         | 2d6 piercing  | 3 lbs.  | 45/90   | Ammunition (125), Reload (
 ## Heavy Weapons
 Weapon          | Damage        | Weight  | Range   | Properties
 ----------------|---------------|---------|---------|------------------------------------------------------
-Rocket Launcher | 8d10 piercing | 12 lbs. | 60/120  | Heavy, Ammunition (3), Reload (1), Two-Handed, Explosive (20')
+Rocket Launcher | 8d10 piercing | 12 lbs. | 60/120  | Heavy, Ammunition (3), Reload (1), Two-Handed, Explosive (10/20)
 Machine Gun     | 3d10 piercing | 12 lbs. | 60/120  | Heavy, Ammunition (350), Reload (150), Two-Handed, Automatic Fire
 Energy Sword    | 3d10 light    | 6 lbs.  | ---     | Heavy, Ammunition (60), Two-Handed
 
@@ -30,7 +30,7 @@ Shock Pistol      | 2d6 arc   | 4 lbs.  | 40/120  | Ammunition, Reload (12)
 Shock Rifle       | 2d8 arc   | 8 lbs.  | 80/240  | Ammunition, Reload (30), Two-Handed, Burst Fire
 Shrapnel Launcher | 2d8 solar | 7 lbs.  | 30/90   | Ammunition, Reload (6), Two-Handed
 Wire Rifle        | 2d10 arc  | 8 lbs.  | 100/300 | Ammunition, Reload (4), Two-Handed, Farsighted (15)
-Shock Grenade     | 3d6 arc   | 1 lb.   | 60      | Thrown, Splash (20 ft radius), Save (DC 12 Dexterity) for half damage
+Shock Grenade     | 3d6 arc   | 1 lb.   | 60      | Thrown, Explosive (10/20), Save (DC 12 Dexterity) for half damage
 Plasma Cannon     | 2d10 arc  | 8 lbs.  | 40/120  | Ammunition, Reload (12)
 Shock Mini-Gun    | 3d4 arc   | 8 lbs.  | 40/120  | Ammunition, Reload (50), Burst Fire
 Sniper Carbine    | 2d12 arc  | 9 lbs.  | 120/360 | Ammunition, Reload (1), Loading, Farsighted (30)
@@ -55,7 +55,7 @@ Web Mines         | ---       | 6 lbs.  | 60      | Casts a web in a 20 foot rad
 <dt>Rapid</dt>
 <dd>This weapon fires very quickly, and can fire off multiple shots rapidly.  The number in the parenthesis represents the number of times per round that the weapon can be fired.</dd>
 <dt>Explosive</dt>
-<dd>This weapon fires highly explosive rounds.  The number in the parenthesis is the blast radius.  Every creature in the blast radius that succeeds at a DC 15 Dexterity save takes half of the weapon's damage.</dd>
+<dd>This weapon explodes or has explosive ammunition.  The first number in the parenthesis is the blast radius.  Creatures in this radius will take full damage or half damage on a successful save.  If a second number is present, it represents a less damaging radius.  Creatures outside of the initial blast range, but within this extended range take half damage, or no damage on a successful save.</dd>
 <dt>Range</dt>
 <dd>A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property.  The range lists two numbers.  The first is the weapon's normal range in feet, and the second indicates the weapon's long range.  When attacking a target beyond normal range, you have disavantage on the attack roll.  You can't attack a target beyond the weapon's range.</dd>
 <dt>Farsighted</dt>
