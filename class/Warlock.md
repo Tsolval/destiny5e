@@ -94,9 +94,18 @@ You are proficient with the following items, in addition to any proficiencies pr
   <dd>Choose 4 from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Medicine, Nature, Perception, Performance, Persuasion, Sleight of Hand, and Stealth, Survival.</dd>
 </dl>
 
+## Equipment
+You start with the following equipment, in addition to the equipment granted by your background.
+<ul>
+  <li>One set of warlock armor (+1 AC)</li>
+  <li>One primary weapon of your choice</li>
+  <li>One special weapon of your choice</li>
+  <li>A basic cloak</li>
+</ul>
+
 ## Class Features
 ### Arcane Optics
-You have spent many hours researching the Travelers gift and have gained a few insights into the nature of Light which allow you to manipulate it to your advantage.  At first level, you know two cantrips of your choice from the Traditional Warlock spell list at the bottom of this page.  You may learn additional cantrips at higher levels, as indicated in the Cantrips Known column of the Warlock table.
+You have spent many hours researching the Travelers gift and have gained a few insights into the nature of Light which allow you to manipulate it to your advantage.  At first level, you know two cantrips of your choice from the Traditional Warlock spell list at the bottom of this page.  You may learn additional cantrips at higher levels, as indicated in the Cantrips Known column of the Warlock table.  A Warlock's Bond is the spell focus and is required for casting these cantrips.
 
 ### Awakened Mind
 Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures.  You can telepathically speak to any creature you can see within 30 feet of you.  You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.

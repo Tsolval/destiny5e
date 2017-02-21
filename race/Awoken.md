@@ -68,7 +68,7 @@ Your Awoken character has a variety of natural Abilities which are bestowed upon
 
 <dl>
   <dt>Ability Score Increase:</dt>
-  <dd>Your Dexterity score increases by 2 and your Wisdom and Charisma scores each increase by 1.</dd>
+  <dd>Your Dexterity score increases by 2.</dd>
   <dt>Age:</dt>
   <dd>Awoken reach adulthood in their late teens and generally live for about a century.  An Awoken Guardian, sustained by Light, can live for much longer.</dd>
   <dt>Alignment:</dt>

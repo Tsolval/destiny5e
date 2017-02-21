@@ -3,6 +3,10 @@ _"Waves of them smashed against our walls, hissing and wailing. But it was the o
 
 Having clawed and knifed his way to the top, scattering bodies and limbs in his wake, the Captain is the strongest and most ferocious member of the crew he musters around himself. His ration of Ether is the largest, his blades the sharpest, his guns the finest. Upon his shoulders hangs the flag of his House, if he swears loyalty to any. For his crew, the slightest hesitation to comply earns a slash from his sword. Defiance results in immediate amputation, if he is in a good mood, or death, if he is not.
 
+Fallen Captains are extremely tough combatants. They favor either Shrapnel Launchers or Shock Rifles. Alternatively, they can dual-wield a pair of Shock Blades. They possess personal short-range teleportation systems as well as powerful Arc shields.
+
+Captains are extremely aggressive. They lead by example, charging fearlessly into the fray and rallying their fellow Fallen around them. Though they will back off if their shield breaks or if they take heavy fire, Captains are otherwise fearless and will charge into the battle even if the odds are against them.
+
 
 ## Fallen Captain
 

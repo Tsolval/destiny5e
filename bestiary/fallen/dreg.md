@@ -14,7 +14,7 @@ Most Dregs are cannon fodder and do not provide much in the way of resistance. H
 
 ## Fallen Dreg
 
-### Medium humanoid (Fallen), chaotic evil
+### Medium humanoid (Fallen), chaotic neutral
 
 ---
 

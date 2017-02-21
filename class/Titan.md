@@ -82,6 +82,15 @@ You are proficient with the following items, in addition to any proficiencies pr
   <dd>Choose 4 from Animal Handling, Athletics, History, Insight, Intimidation, Investigation, Perception, Persuasion, Survival</dd>
 </dl>
 
+## Equipment
+You start with the following equipment, in addition to the equipment granted by your background.
+<ul>
+  <li>One set of titan armor (+5 AC)</li>
+  <li>One primary weapon of your choice</li>
+  <li>One special weapon of your choice</li>
+  <li>A basic cloak</li>
+</ul>
+
 ## Class Features
 ### Fighting Style
 You adopt a particular style of fighting as your specialty.  Choose one of the options in the fighting style table, below.  You can't take a Fighting Style option more than once, even if you later get to choose again.

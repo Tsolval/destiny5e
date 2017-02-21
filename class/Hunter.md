@@ -50,7 +50,7 @@ Hunters stalk the wilderness beyond the City, harnessing the Light to reclaim th
   <dd>1d10(6) + your Constitution modifier per level after 1st</dd>
 </dl>
 
-## Starting Proficiencies10
+## Starting Proficiencies
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 <dl>
@@ -65,6 +65,15 @@ You are proficient with the following items, in addition to any proficiencies pr
   <dt>Skills:</dt>
   <dd>Choose 4 from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth.<dd>
 </dl>
+
+## Equipment
+You start with the following equipment, in addition to the equipment granted by your background.
+<ul>
+  <li>One set of hunter armor (+3 AC)</li>
+  <li>One primary weapon of your choice</li>
+  <li>One special weapon of your choice</li>
+  <li>A basic cloak</li>
+</ul>
 
 ## Class Features
 ### Expertise
