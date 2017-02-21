@@ -139,7 +139,7 @@ At level two, you gain access to a special Light-enhanced, close-quarters, hand-
 At 5th level, your melee will gain a feature based on your chosen Archetype. See the archetype section for options.
 
 ### Grenade
-At level two, you gain access to a special Light-powered grenade. These grenades consume 30 Light from your grenade resource pool. As an action, a character can throw a grenade at a point up to 60 feet away.  Each creature within 20 feet of an exploding grenade must make a DC 15 Dexterity saving throw, taking 5d6 Light damage on a failed save, or half as much damage on a successful one (round down).
+At level two, you gain access to a special Light-powered grenade. These grenades consume 30 Light from your grenade resource pool. As an action, a character can throw a grenade to any 5 foot area up to 60 feet away.  The grenade will explode, dealing 5d6 damage.  Creatures within 10 feet who pass a DC 15 Dexterity saving throw take half damage.  Creatures between 10 and 20 feet from the grenade take half damage or no damage on a successful save.
 
 At 3rd and 5th level, your grenade is affected by your chosen Archetype. See the archetype section for details.
 
