@@ -1,5 +1,6 @@
 # Weapons
 All weapon listings below show base values.
+
 ## Primary Weapons
 Weapon          | Damage        | Weight  | Range   | Properties
 ----------------|---------------|---------|---------|------------------------------------------------------
@@ -7,6 +8,7 @@ Hand Cannon     | 2d10 piercing | 4 lbs.  | 40/90   | Ammunition (60), Reload (6
 Scout Rifle     | 2d8 piercing  | 8 lbs.  | 80/240  | Ammunition (120), Reload (12), Two-Handed, Farsighted (15)
 Pulse Rifle     | 2d8 piercing  | 8 lbs.  | 60/120  | Ammunition (240), Reload (24), Two-Handed, Burst Fire
 Auto Rifle      | 2d6 piercing  | 8 lbs.  | 60/120  | Ammunition (300), Reload (30), Two-Handed, Automatic Fire
+
 ## Special Weapons
 Weapon          | Damage        | Weight  | Range   | Properties
 ----------------|---------------|---------|---------|------------------------------------------------------
@@ -14,6 +16,7 @@ Shotgun         | 3d10 piercing | 7 lbs.  | 30/90   | Ammunition (30), Reload (6
 Fusion Rifle    | 3d10 piercing | 7 lbs.  | 60/120  | Ammunition (60), Reload (12), Two-Handed
 Sniper Rifle    | 3d12 piercing | 9 lbs.  | 120/360 | Ammunition (20), Reload (4), Two-Handed, Farsighted (30)
 Sidearm         | 2d6 piercing  | 3 lbs.  | 45/90   | Ammunition (125), Reload (25), Light, Burst Fire, Rapid (2)
+
 ## Heavy Weapons
 Weapon          | Damage        | Weight  | Range   | Properties
 ----------------|---------------|---------|---------|------------------------------------------------------
@@ -55,7 +58,7 @@ Web Mines         | ---       | 6 lbs.  | 60      | Casts a web in a 20 foot rad
 <dt>Rapid</dt>
 <dd>This weapon fires very quickly, and can fire off multiple shots rapidly.  The number in the parenthesis represents the number of times per round that the weapon can be fired.</dd>
 <dt>Explosive</dt>
-<dd>This weapon explodes or has explosive ammunition.  The first number in the parenthesis is the blast radius.  Creatures in this radius will take full damage or half damage on a successful save.  If a second number is present, it represents a less damaging radius.  Creatures outside of the initial blast range, but within this extended range take half damage, or no damage on a successful save.</dd>
+<dd>This weapon explodes or has explosive ammunition.  The first number in the parenthesis represents the blast radius and the second number represents the shrapnel radius.  Creatures in the vicinity must make a DC 15 Dexterity save.  Creatures in the blast radius take full damage or half on a sucessful save.  Creatures in the shrapnel radius take half damage or no damage on a sucessful save.</dd>
 <dt>Range</dt>
 <dd>A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property.  The range lists two numbers.  The first is the weapon's normal range in feet, and the second indicates the weapon's long range.  When attacking a target beyond normal range, you have disavantage on the attack roll.  You can't attack a target beyond the weapon's range.</dd>
 <dt>Farsighted</dt>
