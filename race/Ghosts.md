@@ -18,9 +18,9 @@ ___
 **Speed:** 0 ft., fly 60 ft, spaceflight 1 Gm per day
 ___
 
- STR | DEX | CON | INT | WIS | CHA 
+ STR | DEX | CON | INT | WIS | CHA
 -----|-----|-----|-----|-----|-----
- 6 (-2) | 14 (+2) | 13 (+1) | 13 (+1) | 14 (+2) | 10 (+0) 
+ 6 (-2) | 14 (+2) | 13 (+1) | 13 (+1) | 14 (+2) | 10 (+0)
 ___
 
 **Saving Throws:** Dex +4, Wis +4<br>
@@ -95,7 +95,7 @@ Finally, it's time to flesh out your Ghost. Describe what it looks and sounds li
 #### Ghost Names
 |            |         |          |
 |------------|---------|----------|
-| Cassiopeia | Obverse | Obsidian | 
+| Cassiopeia | Obverse | Obsidian |
 
 #### Alignment
 Your Ghost will always have the same alignment as you. Although it may try to guide your choices to prevent it, If your alignment shifts over the course of the game, your Ghost will shift along with you.
@@ -148,7 +148,7 @@ Your Ghost can help you collect ammunition boxes to help restock your ammo pouch
 ### Regenerate
 Your Ghost can help provide for your health, but backlashes from being attacked complicate the process and prevent recovery. If you are hurt, but haven't been injured in at least 5 rounds (30 seconds), your Ghost can use the Regenerate action to initiate the healing process.
 
-When your Ghost spends its action to Regenerate, immediately roll your Guardian's hit die and add the result back to your health pool. Roll the hit die again at the beginning of every round until either you have completely regained all your health or until you have taken damage.  Note that a Ghost only has to take an action to start the regeneration process.  You can still regenerate health on subsequent rounds while your Ghost performs other actions. 
+When your Ghost spends its action to Regenerate, immediately roll your Guardian's hit die and add the result back to your health pool. Roll the hit die again at the beginning of every round until either you have completely regained all your health or until you have taken damage.  Note that a Ghost only has to take an action to start the regeneration process.  You can still regenerate health on subsequent rounds while your Ghost performs other actions.
 
 Any ability or skill which reduces the recovery cooldown reduces the number of rounds after injury before your Ghost can use Regenerate to a minimum of 1.
 
@@ -156,15 +156,15 @@ Any ability or skill which reduces the recovery cooldown reduces the number of r
 If your Guardian falls unconsious on the battlefield, your Ghost can take a defend action, greatly enhancing your chance to survive.  When this action is taken, your Ghost goes enters a protective stance over your body, encasing you both in a protective shell which guards your Light from consumption.  This stance imposes disadvantage on any attack against you or the Ghost and grants advantage on your death saves.  Have your ghost take this action as soon as possible when you fall unconscious.
 
 ### Resurrect
-If there are no threats within visible range, or if an ally stands within 5 feet and there are no threats within 10 feet, your Ghost will resurrect you.  The resurrection process takes the full turn.  The Ghost cannot move, speak, or take any other action during the turn and the Guardian is resurrected at the start of his/her next turn with a single hitpoint.  
+If there are no threats within visible range, or if an ally stands within 5 feet and there are no threats within 10 feet, your Ghost will resurrect you.  The resurrection process takes the full turn.  The Ghost cannot move, speak, or take any other action during the turn and the Guardian is resurrected at the start of his/her next turn with a single hitpoint.
 ___
 
 ## Death
-When you fall unconscious in battle, have your Ghost take the Defend action as soon as possible, and continue to defend as long as you can. Hopefully you'll pass your three death saves, stabilize, and then your Ghost can use the Regenerate action on you to begin your recovery and get you back into the fight. 
+When you fall unconscious in battle, have your Ghost take the Defend action as soon as possible, and continue to defend as long as you can. Hopefully you'll pass your three death saves, stabilize, and then your Ghost can use the Regenerate action on you to begin your recovery and get you back into the fight.
 
 If you die, however, you will lose control over your Ghost completely.  If your Ghost wasn't Defending when you died, and it is within visible range, it will immediately move to Defend, despite any previous orders.  It will be able to do nothing but Defend so long as it can see a threat.   If the threat is cleared, or there is another Guardian within 5 feet and no enemies within 10 feet, your Ghost will resurrect you.
 
-If the threat cannot be pushed back, the creatures of Darkness will consume the last reservoirs of your light, and your Guardian will be forever gone.  If this happens, your Guardian is dead and cannot be ressurrected.  
+If the threat cannot be pushed back, the creatures of Darkness will consume the last reservoirs of your light, and your Guardian will be forever gone.  If this happens, your Guardian is dead and cannot be ressurrected.
 
 Most Ghosts would find the thought of abandoning their Guardian abhorrent, at best.  But if circumstances somehow prevent it from protecting you, or if it is forced away, your Ghost may survive your death.  A survivor such as this, if it doesn't self-destruct or fall into despair, may begin the search for another Guardian.
 
@@ -177,9 +177,19 @@ Most Ghosts would find the thought of abandoning their Guardian abhorrent, at be
 
 > [Dead Ghosts](http://destiny-grimoire.info/#Card-103094)
 
-Ghosts almost invariably refuse to abandon their Guardians.  So when a Guardian is killed in battle, the Ghost become vulnerable.  Ghosts will be targeted and, if possible, destroyed by the enemy to keep the Guardians from rising again.  
+If the Ghost cannot revive their host quickly enough then both Ghost and Guardian are doomed.  Given the chance, creatures of Darkness will consume your Ghost.  If that happens, you will no longer be powered by Light and will age and die as any other living being.
 
-If the Ghost cannot revive their host quickly enough then both Ghost and Guardian are doomed.  Given the chance, creatures of Darkness will consume your Ghost.  If that happens, you will no longer be powered by Light and will age and die as any other living being.  
+Ghosts almost invariably refuse to abandon their Guardians.  So when a Guardian is killed in battle, the Ghost become vulnerable.  Ghosts will be targeted and, if possible, destroyed by the enemy to keep the Guardians from rising again.
+
+## Surviving Ghosts
+Most ghosts find the thought of outliving their guardian detestable, at best. But if circumstances somehow prevent a ghost from dying alongside its guardian, it may become what is known as a Survivor.
+
+Surviving ghosts find themselves in a strange, uncomfortable position. Through no fault of their own they have lost a bond-mate who was, in more ways than one, an integral part of themselves. They have lost a person they brought into life, merged with - spiritually and physically, and swore to protect. Some have compared it to losing your child, your lover, and your honor all in the same instant.
+
+On top of this deep sense of personal loss, a survivor has to face pity from guardians and abhorrence from other ghosts. Survivors are anathema to their kind, and they know it.
+
+If the surviving ghost doesn't self-destruct or wallow in despair, it may recover its seed and begin again the long search for a guardian. Never forgetting, only moving forward.
+
 
 ## Corrupted Ghosts
 > Two more scans and she could move on to the elevated grid. There wasn't really anything new other than the delta to sea level, but at less than 30% of the way through 2<sup>128</sup> scans, even a distinction without a difference could feel like a brand new shell.

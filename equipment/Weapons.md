@@ -75,3 +75,15 @@ Other materials need to be scavenged on site, generally in the course of Patrols
 The most powerful Guardian equipment transcends ordinary science, entering the realm of Golden Age secrets and the Traveler's power itself. This wargear demands Ascendant Energy and Ascendant Shards - burning fragments of the universal fundament, earned through mighty acts of heroism.
 Look for them in daily Story challenges and Raids.
 
+## Weapon Rarity
+There are several quality levels of weapons and some weapons are imbued with incredible properties that may make them extremely useful.
+### Common
+Common weapons are basic, and appear as described in the tables above.
+### Uncommon
+Uncommon weapons are of a slightly better quality than normal.  They act as +1 weapons and may have one Weapon Modification.  Roll once on the appropriate Weapon Modification table based on the weapon type.
+### Rare
+Rare weapons have a slight quality increase over Uncommon weapons.  They act as +2 weapons and may have up to two Weapon Modifications.  Roll twice on the appropriate Weapon Modification table based on the weapon type.
+### Legendary
+Legendary weapons, typically remnants of the Golden Age, are instruments of the highest quality.  They act as +3 weapons and may have up to three Weapon Modifications.  Roll three times on the appropriate Weapon Modification table based on the weapon type.
+### Exotic
+Exotic weapons are unique artifacts, carefully crafted to accentuate the traits of a specific warrior (or type of warrior).  Unlike other weapons, Exotic weapons require attunement, and you can only wield one Exotic weapon at any time.  Exotic weapons may may have one ore more prerequisites, in which case you must satisfy those prerequisites in order to attune to it.  Attuning to an Exotic weapon requires a short rest during which you must spend time with the weapon in question.  While every Exotic weapon is different, they typically have the same benefits as Legendary weapons in addition to a special property unique to this weapon.  Roll three times on the appropriate Weapon Modification table based on the weapon type and once on the Weapon Artifact table.
