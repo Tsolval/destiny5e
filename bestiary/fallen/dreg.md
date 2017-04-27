@@ -19,21 +19,21 @@ Most Dregs are cannon fodder and do not provide much in the way of resistance. H
 ---
 
 **Armor Class:** 13 (leather)<br>
-**Hit Points:**  12 (6d6 -6)<br>
+**Hit Points:**  8 (6d6 -6)<br>
 **Speed:** 35 ft <br>
 
 ---
 
 STR|DEX|CON|INT|WIS|CHA
 ---|---|---|---|---|---
-8(-1)|15(+2)|9(-1)|10(+0)|10(+0)|8(-1)
+7(-2)|15(+2)|9(-1)|8(-1)|7(-2)|8(-1)
 
 ---
 
 **Senses:** passive Perception 8 <br>
 **Languages:** Common, Fallen <br>
 **Proficiency:** +2 <br>
-**Challenge:** 1/4 (50 xp)
+**Challenge:** 1/8 (50 xp)
 
 ---
 

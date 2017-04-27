@@ -16,14 +16,14 @@ The House of Wolves also employs three variants of the Shank. The Repeater Shank
 ---
 
 **Armor Class:** 14 (metal plating)<br>
-**Hit Points:**  24 (6d8)<br>
+**Hit Points:**  20 (6d8)<br>
 **Speed:** 40 ft <br>
 
 ---
 
 STR|DEX|CON|INT|WIS|CHA
 ---|---|---|---|---|---
-8(-1) | 12(+1) | 13(+1) | 12(+1) | 9(-1) | 9(-1)
+8(-1) | 12(+1) | 15(+2) | 12(+1) | 10(+0) | 8(-1)
 
 ---
 
