@@ -1,5 +1,5 @@
 # Loot
-Guardians, in their quest to preservere against the Darkness, will often encounter new equipment and gear.  Most of the time, this gear will drop in the form of a data engram, which must be taken to a member of the Cryptarchs to be decoded.  When the encoding is cracked, the tiny ball of glimmer expands into the item it was intended to be.
+Guardians, in their quest to persevere against the Darkness, will often encounter new equipment and gear.  Most of the time, this gear will drop in the form of a data engram, which must be taken to a member of the Cryptarchs to be decoded.  When the encoding is cracked, the tiny ball of glimmer expands into the item it was intended to be.
 
 ## Item Rarity
 Items of various quality exist and some may be imbued with incredible properties that make them extremely useful.
@@ -28,17 +28,88 @@ Unlike other items, Exotic items require attunement.  Attuning to an Exotic item
 #### Auto Rifle
 | d? | Mod | Description |
 |----|-----|-------------|
-| 1 | Elemental | This weapon does Elemental damage. Roll once on the damage type table. |
-| 3 | Barrel | This weapon has an improved barrel.  Roll once for the installed barrel.  |
-| 4 |
+| | Headseeker | Before you make an attack with this weapon, you can choose to take a -5 penalty to the attack roll.  If the attack hits, you add +10 to the attack's damage. |
+| | Keen Scout | While holding this weapon, you cannot be surprised, and creatures don't get advantage to attack you because they are hidden from you. |
+| | Arc Shot | This weapon deals Arc Damage |
+| | Void Shot | This weapon deals Void Damage |
+| | Solar Shot | This weapon deals Solar Damage |
+
+| d? | Modification | Description |
+|---|---|---|
+| | Rangefinder | This weapon doesn't impose disadvantage at long range. |
+| | Piercing Rounds | Attacks with this weapon ignore half cover and three-quarters cover.
+| | Penetrating Rounds | When you hit a target, roll again at -5 to see if you hit the creature behind it.  You can hit multiple creatures this way, each with an additional -5 to hit, up to the maximum range of your weapon. |
+| | Improved Sights | This weapon gains +1 to hit. |
+| | Lightweight Frame | This weapon grants +5 Movement. |
+| | Speed Reload | You can reload this weapon as a bonus action. |
+| | Heavy Rounds | This weapon deals +1 damage. |
+| | Slugthrower | Once per round, when you attack a single creature with this weapon it must pass a DC 13 Constitution save or be stunned until the end of your next turn. |
+
+| d? | Condition | Description |
+| | None | There is no condition on this item |
+| | Killing | Benefit is triggered when you kill an enemy. |
+| | Assisting | Benefit triggers when you finish off an enemy damaged by someone else. |
+| | Wounded | Benefit is active while less than 30% of your maximum health remains. |
+| | Healthy | Benefit is active while at least 90% of your maximum health remains. |
+| | Surrounded | Benefit is active while there are three or more enemies within 10 ft of you. |
+| | Threatened | Benefit is active while there are two ore more enemies within 10 ft of you. |
+| | Half Full | Benefit is triggered when less than half your maximum ammo remains. |
+| | Empty | Benefit is triggered when your gun is empty. |
+| | Surviving | Benefit is triggered while you are the last living member of your party. |
+| | Covered | Benefit is active when you are behind cover. |
+| | Reloading | Benefit is triggered after a reload. |
 
 
+[one bonus]
+| 34 | Perfect Balance | This weapon has extremely low recoil. |
 
-Common - no mods
-Uncommon -  one Mod (Partial Refund, Rodeo, Eye of the Storm, Danger Close, Last Resort, Spray and Play, Rangefinder, Grenadier, Glass Half Full, Underdog, Rescue Mag, Surrounded, Persistence, Battle Runner, Reactive Reload, Counterbalance)
+[one condition, one bonus]
+| 1 | Partial Refund | Chance to return a portion of the magazine after an assist.  If you get the final blow on an enemy that was previously damaged by someone else, you gain back every bullet you spent this round up to a maximum of 10. |
+[one condition, two bonus]
+| 2 | Underdog | This weapon gains a boost to range and handling when health is low.  If you start your round with 20% health or less, you can reload on a bonus action and can attack twice.  In addition, attacking at long range doesn't impose disadvantage on attacks with this weapon. |
+| 3 | Danger Close | This weapon gains increased reload and handling when two or more enemies are in close proximity.  If there are at least two enemies within 10 feet of you, you can use a bonus action to reload this weapon and you can attack twice. |
+| 7 | Glass Half Full | The bottom half of each magazine causes additional damage. Any attack you initiate when the clip is at half maximum grants +1 to damage. |
+| 8 | Eye of the Storm | This weapon becomes more accurate as your health gets lower. When your health is under half of your maximum, The weapon gains an additional +1 to hit. |
+| 9 | Surrounded | This weapon gains bonus damage when three or more enemies are in close proximity.  When there are at least 3 enemies within 10 feet of you, this weapon deals +1 damage. |
+| 10 | Spray and Play | Increases the reload speed of this weapon when its mag is empty. If your clip is empty, you can use a bonus action to reload this weapon. |
+| 11 | Reactive Reload | Reloading this weapon after a kill grants a +1 damage bonus for 3 rounds. |
+| 13 | Rescue Mag | Chance to refill this weapon's magazine when critically wounded. If you start the round with 20% or less of your maximum hit points, roll a d6.  On a 5 or a 6, your magazine refills. |
+| 14 | Last Resort | This weapon handles and reloads faster when the wielder is the last living player of their Fireteam. If none of your party members survive, you can reload on a bonus action and can attack twice. |
+| 15 | Battle Runner | Kills with this weapon grant a brief boost to the sprint's top speed. Your speed is increased by 10 ft for 3 rounds after a kill. |
+| 16 | Grenadier | Kills with this weapon grant an additional 1d6 light directly to your grenade light pool. |
+| 29 | Guerilla Fighter | Increased accuracy, handling and damage resistance when shooting this weapon from behind cover. |
+| 30 | Grave Robber | Melee kills while this weapon is equipped have a chance to refill the magazine. |
+| 32 | Hip Fire | This weapon has bonus accuracy while firing from the hip. |
+| 33 | Hot Swap | Readying this weapon grants a brief period of bonus accuracy. |
+| 35 | Crowd Control | Kills with this weapon grant bonus damage for a short time. |
+| 36 | Replenish | This weapon's magazine will be refilled whenever you unleash your Super. |
+| 37 | Focused Fire | When zoomed, this weapon fires slower, but causes additional damage. |
+| 41 | Will of Light | This weapon deals bonus damage against Taken enemies. |
+| 42 | Hannibal | This weapon deals bonus damage against Cabal Centurions. |
+| 43 | Demotion | This weapon has a chance to stun Fallen Captains. |
+| 44 | Mutiny | This weapon deals bonus damage against Fallen Captains. |
+| 45 | Malleus Maleficarum | This weapon deals bonus damage against Hive Wizards. |
+| 46 | Sword of Aegeus | This weapon deals bonus damage against Vex Minotaurs. |
+| 47 | Disciplinarian | This weapon deals a small amount of bonus damage to Fallen enemies. |
 
+[one bonus, one detriment]
+| 25 | Oiled Frame | Faster Reload Reduced Range |
+| 26 | Appended Magazine | Increased Magazine Size Slower Reload |
+| 27 | Rifled Barrel | Increased Range Slower Reload |
+| 28 | Reinforced Barrel | Increased Range Reduced Stability |
+| 38 | Injection Mold | Increased Stability, Faster Handling Reduced Range |
+| 39 | Feather Mag | Faster Reload Reduced Magazine Size |
+| 40 | Armor Piercing Rounds | These iridium-core rounds overpenetrate targets. Their mass slows down weapon handling. |
+| 21 | Skip Rounds | Ceramic-jacketed rounds ricochet on hard surfaces. Their extreme density lets you carry more rounds in reserve. Added mass slows down weapon handling. |
+| 23 | Smallbore | Increased Range and Stability Slower Reload, Reduced Magazine Size |
+| 24 | Hand-laid Stock | Increased Stability Reduced Range |
 
+Automatic Fire specific
+| 4 | Persistence | This weapon grows more accurate the longer it is fired. When you use the automatic fire mode of this weapon, every burst after the first gains +1 to the DC. For example, an Uncommon weapon with this perk, firing 3 burst, would have a DC 14 on the first burst, DC 15 on the second, and DC 16 on the third.|
 
+Automatic and Burst Fire specific
+| 6 | Counterbalance | This weapon has increased stability. Increase the DC of this weapon's burst or automatic fire by 1.|
+| 17 | Fitted Stock | Increases weapon stability. |
 
 #### Handcannon
 #### Pulse Rifle
