@@ -28,17 +28,28 @@ ___
 Hunters stalk the wilderness beyond the City, harnessing the Light to reclaim the secrets of our lost worlds. They are daring scouts and stealthy killers, expert with knives and precision weapons. Hunters blaze their own trails and write their own laws.
 
 ## Table: The Hunter
-| Level | Proficiency Bonus | Features | Sneak Attack |
-|:-----:|:-----------------:|----------|:------------:|
-| **1st** | +2 | Expertise, Sneak Attack, Natural Explorer    | 1d6 |
-| **2nd** | +2 | Double Jump, Light Pools, Melee, Grenade     | 1d6 |
-| **3rd** | +2 | Hunter Archetype, Super Ability              | 2d6 |
-| **4th** | +2 | Hunter’s Path, Way of the Hunter, Feat       | 2d6 |
-| **5th** | +3 | Grenade, Melee, Double Jump Features         | 3d6 |
-| **6th** | +3 | Hunter’s Prey, Expertise Improvements |  3d6 |
-| **7th** | +3 | Hunter Archetype Improvement                 | 4d6 |
-| **8th** | +3 | Super Ability Improvement, Feat              | 4d6 |
-| **9th** | +4 | Hunter Archetype Improvement                 | 5d6 |
+| Level    | Proficiency Bonus | Sneak Attack | Features                      |
+|:--------:|:--:|:----:|------------------------------------------------------|
+| **1st**  | +2 | 1d6  | Expertise, Sneak Attack, Natural Explorer            |
+| **2nd**  | +2 | 1d6  | Cunning Action, Hunter Society, Double Jump, Grenade |
+| **3rd**  | +2 | 2d6  | Hunter's Prey, Super Ability                         |
+| **4th**  | +2 | 2d6  | Ability Score Improvement, Stab                      |
+| **5th**  | +3 | 3d6  | Uncanny Dodge, Extra Attack                          |
+| **6th**  | +3 | 3d6  | Expertise, Hunter's Path                             |
+| **7th**  | +3 | 4d6  | Evasion, Way of the Hunter                           |
+| **8th**  | +3 | 4d6  | Ability Score Improvement, Double Jump Feature       |
+| **9th**  | +4 | 5d6  | Hide in Plain Sight, Grenade Feature                 |
+| **10th** | +4 | 5d6  | Super Ability Feature                                |
+| **11th** | +4 | 6d6  | Multiattack, Stab Feature                            |
+| **12th** | +4 | 6d6  | Ability Score Improvement                            |
+| **13th** | +5 | 7d6  | Hunter Society Improvement                           |
+| **14th** | +5 | 7d6  | Blindsense                                           |
+| **15th** | +5 | 8d6  | Stalker's Dodge                                      |
+| **16th** | +5 | 8d6  | Ability Score Improvement                            |
+| **17th** | +6 | 9d6  | Hunter Society Improvement                           |
+| **18th** | +6 | 9d6  | Feral Senses, Elusive                                |
+| **19th** | +6 | 10d6 | Ability Score Improvement                            |
+| **20th** | +6 | 10d6 | Stroke of Luck                                       |
 
 ## Hit Points
 <dl>
@@ -112,7 +123,7 @@ When you make a long jump with Double Jump, you can cover a number of feet up to
 #### High Jump
 When you make a high jump with Double Jump, you leap into the air a number of feet equal to (3 + dexterity modifier) * 2 if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half this distance.  Each foot you clear on the jump costs a foot of movement.
 
-At 5th level, your Double Jump ability gains one of three features based on your selected Hunter Archetype.  Nightstalkers and Gunslingers can choose between Increased Control, Increased Height, and Triple Jump.  Bladedancers get to choose between Increased Control, Increased Height, and Blink.
+At 5th level, your Double Jump ability gains one of three features based on your selected Hunter Society.  Nightstalkers and Gunslingers can choose between Increased Control, Increased Height, and Triple Jump.  Bladedancers get to choose between Increased Control, Increased Height, and Blink.
 
 Feature | Description | Benefit
 :---|:---|:---
@@ -129,15 +140,15 @@ _With their finely tuned reflexes, Hunters are naturally gifted with knives. The
 
 At level two, you gain access to a special Light-enhanced, close-quarters, dagger-based melee attack. This melee consumes 20 Light from your melee resource pool and upgrades a standard melee attack.  You can use this attack on any enemy within 5 feet to deal 1d8 for every Hunter level plus your Dexterity modifier damage. Add your Dexterity modifier and Proficiency bonus to the attack roll.
 
-At 5th level, your melee will gain a feature based on your chosen Archetype. See the archetype section for options.
+At 5th level, your melee will gain a feature based on your chosen Society. See the society section for options.
 
 ### Grenade
 At level two, you gain access to a special Light-powered grenade. These grenades consume 30 Light from your grenade resource pool. As an action, a character can throw a grenade to any 5 foot area up to 60 feet away.  The grenade will explode, dealing 5d6 damage.  Creatures within 10 feet who pass a DC 15 Dexterity saving throw take half damage.  Creatures between 10 and 20 feet from the grenade take half damage or no damage on a successful save.
 
-At 3rd and 5th level, your grenade is affected by your chosen Archetype. See the archetype section for details.
+At 3rd and 5th level, your grenade is affected by your chosen Society. See the society section for details.
 
-### Hunter Archetype
-At level 3, you choose one of the available archetypes, see below, and gain your chosen archetype's super ability.  This ability consumes 50 Light from your super resource pool.
+### Hunter Society
+At level 3, you choose one of the available societies, see below, and gain your chosen society's super ability.  This ability consumes 50 Light from your super resource pool.
 
 ### Hunter Paths
 At level 4, you begin walking one of these Hunter's Paths.  Choose one and gain its benefits.
@@ -166,7 +177,7 @@ Feature | Description
 **Giant Killer:** | When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.
 **Horde Breaker:** | Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
 
-## Hunter Archetypes
+## Hunter Societies
 ### [Gunslinger](http://destiny-grimoire.info/#Card-307040)
 _"A lone wolf who lives for the perfect shot."_
 

@@ -56,23 +56,34 @@ ___
 Warrior-scholars of the Light, Warlocks devote themselves to understanding the Traveler and its power. A Warlock's mind is an arsenal of deadly secrets, balanced between godhood and madness. On the battlefield, those secrets can shatter reality itself.
 
 ## Table: The Warlock
-|  Level  | Proficiency Bonus | Features | Cantrips Known |
-|:-------:|:---:|:-----------------------|:--------------:|
-| **1st** | +2  | Arcane Optics, Awakened Mind        | 2 |
-| **2nd** | +2  | Glide, Light Pools, Melee, Grenade  | 2 |
-| **3rd** | +2  | Warlock Archetype, Super Ability    | 2 |
-| **4th** | +2  | Arcane Study, Ancient Order, Feat   | 3 |
-| **5th** | +3  | Grenade, Melee, Glide Features      | 3 |
-| **6th** | +3  | Entropic Ward, Traveller's Gift     | 3 |
-| **7th** | +3  | Warlock Archetype Improvement       | 3 |
-| **8th** | +3  | Super Ability Improvement, Feat     | 3 |
-| **9th** | +4  | Warlock Archetype Improvement       | 3 |
+| Level    | Proficiency Bonus | Cantrips Known | Invocations Known | Features                          |
+|:--------:|:--:|:-:|:-:|-------------------------------------------------------------------------------|
+| **1st**  | +2 | 2 | - | Arcane Optics, Awakened Mind                                                  |
+| **2nd**  | +2 | 2 | 2 | Eldritch Invocations(2), Traveller's Light, Warlock Archetype, Glide, Grenade |
+| **3rd**  | +2 | 2 | 2 | Traveller's Gift, Super Ability                                               |
+| **4th**  | +2 | 3 | 2 | Ability Score Improvement, Melee                                              |
+| **5th**  | +3 | 3 | 3 | Eldritch Invocations(3), Extra Attack                                         |
+| **6th**  | +3 | 3 | 3 | Will of the Light, Arcane Study                                               |
+| **7th**  | +3 | 3 | 4 | Eldritch Invocations(4), Entropic Ward, Ancient Order                         |
+| **8th**  | +3 | 3 | 4 | Ability Score Improvement, Glide Feature                                      |
+| **9th**  | +4 | 3 | 5 | Mystic Arcanum (5th Level), Grenade Feature                                   |
+| **10th** | +4 | 4 | 5 | Super Ability Feature                                                         |
+| **11th** | +4 | 4 | 5 | Mystic Arcanum (6th Level), Melee Feature                                     |
+| **12th** | +4 | 4 | 6 | Ability Score Improvement                                                     |
+| **13th** | +5 | 4 | 6 | Mystic Arcanum (7th Level), Warlock Archetype Improvement                     |
+| **14th** | +5 | 4 | 6 |                                                                               |
+| **15th** | +5 | 4 | 7 | Mystic Arcanum (8th Level)                                                    |
+| **16th** | +5 | 4 | 7 | Ability Score Improvement                                                     |
+| **17th** | +6 | 4 | 7 | Mystic Arcanum (9th Level), Warlock Archetype Improvement                     |
+| **18th** | +6 | 4 | 8 |                                                                               |
+| **19th** | +6 | 4 | 8 | Ability Score Improvement                                                     |
+| **20th** | +6 | 4 | 8 | Mystic Arcanum (Any Level up to 9)                                            |
 
 ## Hit Points
 <dl>
   <dt>Hit Dice:</dt>
   <dd>1d10 per level</dd>
-  <dt>Hit Points at 1st Level:</dt>
+  <dt>Hit Points at 1stLevel:</dt>
   <dd>10 + your Constitution Modifier</dd>
   <dt>Hit Points at Higher Levels:</dt>
   <dd>1d10(6) + your Constitution modifier per level after 1st</dd>
@@ -105,49 +116,31 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ## Class Features
 ### Arcane Optics
-You have spent many hours researching the Travelers gift and have gained a few insights into the nature of Light which allow you to manipulate it to your advantage.  At first level, you know two cantrips of your choice from the Traditional Warlock spell list at the bottom of this page.  You may learn additional cantrips at higher levels, as indicated in the Cantrips Known column of the Warlock table.  A Warlock's Bond is the spell focus and is required for casting these cantrips.
+You have spent many hours researching the Travelers gift and have gained a few insights into the nature of Light which allow you to manipulate it to your advantage.  At 1st level, you know two cantrips of your choice from the Traditional Warlock spell list at the bottom of this page.  You may learn additional cantrips at higher levels, as indicated in the Cantrips Known column of the Warlock table.  A Warlock's Bond is the spell focus and is required for casting these cantrips.
 
 ### Awakened Mind
 Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures.  You can telepathically speak to any creature you can see within 30 feet of you.  You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
 
-### Glide
-At level two, you gain the Glide ability which allows you to use your Light to neutralize your own gravity.  Depending on how it is used, Glide can extend either your long jump or your high jump as described below.
-
-#### Long Jump
-When you make a long jump with Glide, you can cover a number of feet up to twice your Wisdom score (not modifier) if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half that distance.  Each foot you clear on the jump costs a foot of distance.
-
-#### High Jump
-When you make a high jump with Lift, you leap into the air a number of feet equal to (3 + willpower modifier) * 2 if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half this distance.  Each foot you clear on the jump costs a foot of movement.
-
-At 5th level, your Glide ability gains one of the following features based on your selected Archetype.  Sunsingers and Stormcallers can choose between Focused Control, Focused Burst, and Balanced Glide.  Voidwalkers can choose between Focused Control, Focused Burst, and Blink.
-
-Feature | Description | Benefit
-:---|:---|:---
-**Focused Control:** | Upgrades Glide for better directional control while in mid-air. | You can now change direction up to 90 degrees once while in the middle of a jump.
-**Focused Burst:** | Upgrades Glide to provide an initial burst of speed. | You gain +10 Movement during rounds when you use Focused Burst.
-**Balanced Glide:** | Upgrades Glide to provide bonuses to both speed and control. | You gain +5 Movement during rounds when you use Balanced Glide and you may alter your jump direction up to 45 degrees in any direction once while in the air.
-**Blink:** | Teleport a short distance. | You teleport up to your maximum Glide distance.  You cannot blink through solid obstacles, and you have to be able to see where you are going, but you can Blink over traps, difficult terrain, etc.
-
-### Light Pools
-At level 2, you gain access to three pools of Light. One supplies power to your special melee attacks, one empowers your grenades, and one is used for your super ability. All pools start at 0 Light. The melee pool has a maximum of 20 Light points, the grenade pool max is 30, and the pool empowering your super ability maxes at 50 points. During its round, Your ghost distills Light from the environment, enemies you've destroyed, and Orbs of Light you've encountered, and distributes it to your resource pools. See the section on Ghosts for more information.
-
-### Melee - [Palm](http://destiny-grimoire.info/#Card-301200)
-_Curiosity gets a Warlock into trouble, and force of will gets a Warlock out. Even novices can shear reality with a single deadly gesture._
-
-At level two, you gain access to a special Light-enhanced, close-quarters, hand-to-hand melee attack. This melee consumes 20 Light from your melee resource pool and upgrades a standard melee attack.  You can use this attack on any enemy within 5 feet to deal 1d8 for every Warlock level plus your Wisdom modifier damage. Add your Wisdom modifier and Proficiency bonus to the attack roll.
-
-At 5th level, your melee will gain a feature based on your chosen Archetype. See the archetype section for options.
-
-### Grenade
-At level two, you gain access to a special Light-powered grenade. These grenades consume 30 Light from your grenade resource pool. As an action, a character can throw a grenade to any 5 foot area up to 60 feet away.  The grenade will explode, dealing 5d6 damage.  Creatures within 10 feet who pass a DC 15 Dexterity saving throw take half damage.  Creatures between 10 and 20 feet from the grenade take half damage or no damage on a successful save.
-
-At 3rd and 5th level, your grenade is affected by your chosen Archetype. See the archetype section for details.
-
 ### Warlock Archetype
-At level 3, you choose one of the available archetypes, see below, and gain your chosen archetype's super ability.  This ability consumes 50 Light from your super resource pool.
+At level 2, you begin to grow into the power granted to you by the light which infuses you.  Choose one of the available warlock archetypes, see below.  Your choice grants you features as you gain levels.
 
-### Arcane Study
-At level 4, you specialize in one of these Warlock Ideals. Choose one and gain its benefits.
+### Eldritch Invocations
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.  At 2nd level, you gain two eldritch invocations of your choice. Your invocation options are detailed at the end of the class description.  When you gain certain warlock levels, you gain additional invocations of your choice.  Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.  A level prerequisite in an invocation refers to warlock level, not character level.  Your invocations increase to 3 at 5th level and to 4 at 7th level.
+
+### Traveller's Light
+At 2nd level, you gain the ability to channel the Traveller's Light to heal wounds.  You have a pool of d6s that you spend to fuel this healing.  The number of dice in the pool equals 1 + your warlock level.  As a bonus action, you can touch a creature and heal it, spending dice from the pool.  The maximum number of dice you can spend at once equals your Wisdom modifier (minimum of one die).  Roll the dice you spend, add them together, and restore a number of hit points equal to the total.  Your pool regains all expended dice when you finish a long rest.
+
+### Traveller's Gift
+At 3rd level, the Traveler has gifted you with a repository of knowledge to aid you in your arcane endeavors.  Your ghost provides you with direct access to this knowledge.  When you gain this feature, choose three cantrips from any class's spell list (the three needn't be from the same list). So long as your ghost is near, you can cast those cantrips at will. They don't count against your number of cantrips known. If they don't appear on the Warlock spell list, they are nonetheless Warlock spells for you.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two Ability Scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.  Alternatively, you can choose to adopt a single Feat instead of taking this Ability increase.
+
+#### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, when you take the Attack action on your turn.
+
+#### Arcane Study
+At level 6, you specialize in one of these Warlock Ideals. Choose one and gain its benefits.
 
 Ideal | Description | Benefit
 :---|:---|:---
@@ -155,8 +148,8 @@ Ideal | Description | Benefit
 **Arcane Spirit:** | Training focused on battle recovery and toughness. | AC +1, Recovery -1
 **Arcane Force:** | Training focused on toughness and speed. | AC +1, Movement +5
 
-### Ancient Order
-At level 4, you are invited to join these Warlock Orders. Choose one and gain its benefits.
+#### Ancient Order
+At level 7, you are invited to join these Warlock Orders. Choose one and gain its benefits.
 
 Order | Description | Benefit
 :---|:---|:---
@@ -164,11 +157,14 @@ Order | Description | Benefit
 **Chaos Order:** | Training focused on speed. | Movement +10
 **Divine Order:** | Training focused on toughness at all costs. | AC +2
 
-### Entropic Ward
-At 6th level, you learn to magically ward yourself against attack and to turn an enemy’s failed strike into good luck for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn. Once you use this feature, you can’t use it again until you finish a short or long rest.
+### Will of the Light
+Starting at 6th level, you can call on the Traveller's Light to alter fate in your favor.  When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll.  You can do so after seeing the initial roll, but before any of the rolls effects occur.  Once you use this feature, you cannot use it again until you finish a short or long rest.
 
-### Traveller's Gift
-The Traveler, via the Speaker, has gifted you with a repository of knowledge to aid you in your arcane endeavors. Your ghost provides you with direct access to this knowledge.  When you gain this feature, choose three cantrips from any class's spell list (the three needn't be from the same list). So long as your ghost is near, you can cast those cantrips at will. They don't count against your number of cantrips known. If they don't appear on the Warlock spell list, they are nonetheless Warlock spells for you.
+### Entropic Ward
+At 7th level, you learn to magically ward yourself against attack and to turn an enemy’s failed strike into good luck for yourself.  When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll.  If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn.  Once you use this feature, you can’t use it again until you finish a short or long rest.
+
+### Mystic Arcanum
+At 9th level, the Traveller bestows upon you a magical secret called an arcanum.  Choose one 5th level spell from the warlock spell list below as this arcanum.  You can cast your arcanum spell once and then you must finish a long rest before you can do so again.  At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 6th-level spell at 11th level, one 7th-level spell at 13th level, one 8th-level spell at 15th level, one 9th-level spell at 17th level and another spell of any level at 20th level.  You regain all uses of your Mystic Arcanum when you finish a long rest.
 
 ## Warlock Archetypes
 ### [Voidwalker](http://destiny-grimoire.info/#Card-307060)
@@ -181,34 +177,30 @@ But you will not be held back. Gifted with the Traveler's Light, armed with the 
 
 You will fear nothing, and nothing will not fear you.
 
-#### Super Ability - [Nova Bomb](http://destiny-grimoire.info/#Card-301160)
-Channel the Traveler's Light into a bolt of energy with the power of a collapsing star. The devastating Nova Bomb scours the battlefield with ethereal fire - but be careful in its use. It takes precious moments to summon, and it must be aimed precisely to avoid obstacles.
+#### Light Pools
+At level 2, you gain access to three pools of Light. One supplies power to your special melee attacks, one empowers your grenades, and one is used for your super ability. All pools start at 0 Light. The melee pool has a maximum of 20 Light points, the grenade pool max is 30, and the pool empowering your super ability maxes at 50 points. During its round, Your ghost distills Light from the environment, enemies you've destroyed, and Orbs of Light you've encountered, and distributes it to your resource pools. See the section on Ghosts for more information.
 
-At level 3, you can spend 50 Light from your super ability pool to conjure and throw a mass of deadly Void energy toward any enemy within 60 feet. The Nova Bomb will explode as soon as it hits anything, releasing a blast of Void Light with a 20 foot radius.  All enemies within the blast area that fail a DC 17 Dexterity save take 8d12 Void damage + Willpower modifier or half if they succeed.
+#### Glide
+At level 2, you gain the Glide ability which allows you to use your Light to neutralize your own gravity.  Depending on how it is used, Glide can extend either your long jump or your high jump as described below.
 
-At level 8, you can choose one of the following additional features for your Nova Bomb.
+##### Long Jump
+When you make a long jump with Glide, you can cover a number of feet up to twice your Wisdom score (not modifier) if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half that distance.  Each foot you clear on the jump costs a foot of distance.
 
-Feature | Description | Benefit
-:---|:---|:---
-**Vortex:** | Nova Bomb creates a temporary vortex which continually damages enemies trapped inside. | The vortex extends 15 feet from ground zero, lasts for 5 rounds and deals 2d12 damage per round to any enemy creature that touches the field.
-**Shatter:** | Nova Bomb splits into three projectiles. | Blast radius reduced from 15 to 10 feet per projectile.  The second and third projectiles land 5 feet behind and 15 feet to the left and right of the main projectile.
-**Lance:** | Nova Bomb travels farther and faster, and does more damage. | Range is increased to 90 feet, Blast radius is reduced to 10 feet, and damage is increased to 10d12.
+##### High Jump
+When you make a high jump with Lift, you leap into the air a number of feet equal to (3 + willpower modifier) * 2 if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half this distance.  Each foot you clear on the jump costs a foot of movement.
 
-#### Energy Drain
-At 3rd level, your melee ability becomes Energy Drain.  This void palm attack drains an additional 1d6 Light from your enemies to replenish your grenade resource pool over the next 3 rounds.
-
-At 5th level, choose one of the following features to modify your Energy Drain ability.
+At 8th level, your Glide gains a feature of your choice based on your Archetype.  Voidwalkers can choose between Focused Control, Focused Burst, and Blink.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Surge:** | Damaging an enemy with Energy Drain increases your weapon and movement speed. | For 3 rounds, you gain Movement +5 and you may ready or reload your weapon as a bonus action.
-**Life Steal:** | Damaging an enemy with Energy Drain immediately restores a significant portion of your health. | Replenish your health by 1d8 for every Warlock level.
-**Soul Rip:** | Damaging an enemy with Energy Drain reduces the cooldown of Nova Bomb. | Add 1d8 Light to your super pool.  This is in addition to the 1d6 for the grenade pool.
+**Focused Control:** | Upgrades Glide for better directional control while in mid-air. | You can now change direction up to 90 degrees once while in the middle of a jump.
+**Focused Burst:** | Upgrades Glide to provide an initial burst of speed. | You gain +10 Movement during rounds when you use Focused Burst.
+**Blink:** | Teleport a short distance. | You teleport up to your maximum Glide distance.  You cannot blink through solid obstacles, and you have to be able to see where you are going, but you can Blink over traps, difficult terrain, etc.
 
 #### Void Grenades
-At 3rd level, your grenade now does Void damage.
+At level 2, you gain access to a special Light-powered grenade. These grenades consume 30 Light from your grenade resource pool.  As an action, a character can throw a grenade to any 5 foot area up to 60 feet away.  The grenade will explode, dealing 5d6 void damage.  Creatures within 10 feet who pass a DC 15 Dexterity saving throw take half damage.  Creatures between 10 and 20 feet from the grenade take half damage or no damage on a successful save.
 
-At 5th level, select one of the following grenade types. Your grenade ability will be modified as described.
+At 9th level, select one of the following grenade types. Your grenade ability will be modified as described.
 
 Grenade | Description | Benefit
 :---|:---|:---
@@ -216,8 +208,34 @@ Grenade | Description | Benefit
 **Scatter Grenade:** | A grenade that splits into many submunitions and covers a large area with explosions. | Submunitions scatter to the spaces surrounding the target square and explode, doing an additional 1d4 unavoidable damage to enemies in the blast range.
 **Axion Bolt:** | A bolt of Void Light which forks into smaller bolts on impact which seek toward enemies. | The grenade doesn't explode, but splits into two bolts which last for 3 rounds and seek enemies within 20 feet of the impact zone.  Bolts have 30 Movement and deal 3d6 damage when they contact an enemy. The GM decides whether or not the bolts track the same target.
 
+#### [Nova Bomb](http://destiny-grimoire.info/#Card-301160)
+Channel the Traveler's Light into a bolt of energy with the power of a collapsing star. The devastating Nova Bomb scours the battlefield with ethereal fire - but be careful in its use. It takes precious moments to summon, and it must be aimed precisely to avoid obstacles.
+
+At level 3, you can spend 50 Light from your super ability pool to conjure and throw a mass of deadly Void energy toward any enemy within 60 feet. The Nova Bomb will explode as soon as it hits anything, releasing a blast of Void Light with a 20 foot radius.  All enemies within the blast area that fail a DC 17 Dexterity save take 8d12 Void damage + Willpower modifier or half if they succeed.
+
+At level 10, you can choose one of the following additional features for your Nova Bomb.
+
+Feature | Description | Benefit
+:---|:---|:---
+**Vortex:** | Nova Bomb creates a temporary vortex which continually damages enemies trapped inside. | The vortex extends 15 feet from ground zero, lasts for 5 rounds and deals 2d12 damage per round to any enemy creature that touches the field.
+**Shatter:** | Nova Bomb splits into three projectiles. | Blast radius reduced from 15 to 10 feet per projectile.  The second and third projectiles land 5 feet behind and 15 feet to the left and right of the main projectile.
+**Lance:** | Nova Bomb travels farther and faster, and does more damage. | Range is increased to 90 feet, Blast radius is reduced to 10 feet, and damage is increased to 10d12.
+
+#### Energy Drain - [Palm](http://destiny-grimoire.info/#Card-301200)
+_Curiosity gets a Warlock into trouble, and force of will gets a Warlock out. Even novices can shear reality with a single deadly gesture._
+
+At level 4, you gain access to a special Light-enhanced, close-quarters, hand-to-hand melee attack. This melee consumes 20 Light from your melee resource pool and upgrades a standard melee attack.  You can use this attack on any enemy within 5 feet to deal 1d8 void damage for every Warlock level plus your Wisdom modifier damage. Add your Wisdom modifier and Proficiency bonus to the attack roll.  This palm attack also drains an additional 3d6 Light from your enemies to replenish your grenade resource pool.
+
+At 11th level, choose one of the following features to modify your Energy Drain ability.
+
+Feature | Description | Benefit
+:---|:---|:---
+**Surge:** | Damaging an enemy with Energy Drain increases your weapon and movement speed. | For 3 rounds, you gain Movement +5 and you may ready or reload your weapon as a bonus action.
+**Life Steal:** | Damaging an enemy with Energy Drain immediately restores a significant portion of your health. | Replenish your health by 1d8 for every Warlock level.
+**Soul Rip:** | Damaging an enemy with Energy Drain reduces the cooldown of Nova Bomb. | Add 1d8 Light to your super pool.  This is in addition to the 1d6 for the grenade pool.
+
 #### Additional Features
-At level 7, you choose one of the following abilities.
+At level 13, you choose one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
@@ -225,7 +243,7 @@ Feature | Description | Benefit
 **Angry Magic:** | Nova Bomb tracks enemies. | Enemies can no longer save for half damage.
 **The Hunger:** | Increases the duration of the Energy Drain effect. | Energy Drain effects now last for 5 rounds.
 
-And at 9th level, you can add one of the following abilities.
+And at 17th level, you can add one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
@@ -235,11 +253,43 @@ Feature | Description | Benefit
 
 ### [Sunsinger](http://destiny-grimoire.info/#Card-307070)
 _"There are flames that even the Darkness cannot extinguish."_
-These are dark times. Humanity stands on the brink of extinction. We will carry fire into that darkness - a beacon to guide the way, and a pyre to consume our great enemy.
+
+These are dark times.  Humanity stands on the brink of extinction.  We will carry fire into that darkness - a beacon to guide the way, and a pyre to consume our great enemy.
 
 The Light saved us from death and forged us into weapons. We seek to understand it, to embrace it, to consume and be consumed by it. We hope to become radiant.
 
 Our fellow Guardians need our power. Our civilization needs our strength.
+
+#### Light Pools
+At level 2, you gain access to three pools of Light. One supplies power to your special melee attacks, one empowers your grenades, and one is used for your super ability. All pools start at 0 Light. The melee pool has a maximum of 20 Light points, the grenade pool max is 30, and the pool empowering your super ability maxes at 50 points. During its round, Your ghost distills Light from the environment, enemies you've destroyed, and Orbs of Light you've encountered, and distributes it to your resource pools. See the section on Ghosts for more information.
+
+#### Glide
+At level 2, you gain the Glide ability which allows you to use your Light to neutralize your own gravity.  Depending on how it is used, Glide can extend either your long jump or your high jump as described below.
+
+##### Long Jump
+When you make a long jump with Glide, you can cover a number of feet up to twice your Wisdom score (not modifier) if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half that distance.  Each foot you clear on the jump costs a foot of distance.
+
+##### High Jump
+When you make a high jump with Lift, you leap into the air a number of feet equal to (3 + willpower modifier) * 2 if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half this distance.  Each foot you clear on the jump costs a foot of movement.
+
+At 8th level, your Glide gains a feature of your choice based on your Archetype.  Sunsingers can choose between Focused Control, Focused Burst, and Balanced Glide.
+
+Feature | Description | Benefit
+:---|:---|:---
+**Focused Control:** | Upgrades Glide for better directional control while in mid-air. | You can now change direction up to 90 degrees once while in the middle of a jump.
+**Focused Burst:** | Upgrades Glide to provide an initial burst of speed. | You gain +10 Movement during rounds when you use Focused Burst.
+**Balanced Glide:** | Upgrades Glide to provide bonuses to both speed and control. | You gain +5 Movement during rounds when you use Balanced Glide and you may alter your jump direction up to 45 degrees in any direction once while in the air.
+
+#### Solar Grenades
+At level 2, you gain access to a special Light-powered grenade. These grenades consume 30 Light from your grenade resource pool.  As an action, a character can throw a grenade to any 5 foot area up to 60 feet away.  The grenade will explode, dealing 5d6 solar damage.  Creatures within 10 feet who pass a DC 15 Dexterity saving throw take half damage.  Creatures between 10 and 20 feet from the grenade take half damage or no damage on a successful save.
+
+At 9th level, select one of the following grenade types.  Your grenade ability will be modified as described.
+
+Grenade | Description | Benefit
+:---|:---|:---
+**Solar Grenade:** | A grenade that creates a flare of Solar Light which continually damages enemies trapped inside. | Instead of exploding, your grenade remains for 3 rounds doing 3d6 damage each round to enemies within its blast radius.
+**Firebolt Grenade:** | A grenade that unleashes bolts of Solar Light at nearby enemies. | The grenade no longer explodes, but its area of effect is increased to 30 feet. When the grenade goes off, up to 3 targets in the area are hit by a bolt of fire which deals an unavoidable 3d6 damage.
+**Fusion Grenade:** | A grenade that causes bonus damage when attached to its target. | If your roll to hit meets or exceeds the AC of an enemy standing in the targeted area, the grenade sticks to this enemy and does an additional 2d6 damage to it.
 
 #### Super Ability - [Radiance](http://destiny-grimoire.info/#Card-301170)
 Open yourself to the Light. Glimpse, for a few rapturous moments, the truth beyond the powers you wield.
@@ -248,7 +298,7 @@ A Warlock in a state of Radiance threatens to slip beyond the bonds of the mater
 
 At level 3, you can spend 50 Light from your super ability pool to bathe yourself in Light for 5 rounds, strengthening your grenade and melee damage and lowering their cooldowns.  While Radiance is active, your melee cost is reduced by 5 and its damage is doubled.  In addition, your grenade damage is raised is increased by 1d6 and its cost is reduced by half.
 
-At level 8, you can choose one of the following additional features for Radiance.
+At level 10, you can choose one of the following additional features for Radiance.
 
 Feature | Description | Benefit
 :---|:---|:---
@@ -256,10 +306,12 @@ Feature | Description | Benefit
 **Radiant Skin:** | While active, Radiance reduces incoming damage. | You take half damage during Radiance.
 **Fireborn:** | Radiance can now be activated from beyond the grave. Doing so returns you to life. | You stand up immediately and regain health.  Roll a number of d10 equivalent to your level and replenish your hit points by this amount.
 
-#### Scorch
-At 3rd Level, your melee ability becomes Scorch.  It now deals Solar Damage and can Ignite enemies, dealing 1d4 damage per round for 3 rounds.
+#### Scorch - [Palm](http://destiny-grimoire.info/#Card-301200)
+_Curiosity gets a Warlock into trouble, and force of will gets a Warlock out. Even novices can shear reality with a single deadly gesture._
 
-At 5th level, choose one of the following features to add to your Scorch.
+At level 4, you gain access to a special Light-enhanced, close-quarters, hand-to-hand melee attack. This melee consumes 20 Light from your melee resource pool and upgrades a standard melee attack.  You can use this attack on any enemy within 5 feet to deal 1d8 solar damage for every Warlock level plus your Wisdom modifier damage. Add your Wisdom modifier and Proficiency bonus to the attack roll.  This palm attack can Ignite enemies, dealing 1d4 damage per round for 3 rounds.
+
+At 11th level, choose one of the following features to modify your Energy Drain ability.
 
 Feature | Description | Benefit
 :---|:---|:---
@@ -267,19 +319,8 @@ Feature | Description | Benefit
 **Solar Wind:** | Reduces the cooldown of Scorch. Hitting an enemy with Scorch knocks them back. | The cost of Scorch is reduced to 10 Light.  Enemies hit with Scorch are knocked 10 feet away from you.
 **Brimstone:** | Reduces the cooldown of Scorch. Killing enemies with Scorch causes them to explode. | The cost of Scorch is reduced to 15 Light.  Victims explode as if they were a grenade.
 
-#### Solar Grenades
-At 3rd level, your grenade now does Solar damage.
-
-At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
-
-Grenade | Description | Benefit
-:---|:---|:---
-**Solar Grenade:** | A grenade that creates a flare of Solar Light which continually damages enemies trapped inside. | Instead of exploding, your grenade remains for 3 rounds doing 3d6 damage each round to enemies within its blast radius.
-**Firebolt Grenade:** | A grenade that unleashes bolts of Solar Light at nearby enemies. | The grenade no longer explodes, but its area of effect is increased to 30 feet. When the grenade goes off, up to 3 targets in the area are hit by a bolt of fire which deals an unavoidable 3d6 damage.
-**Fusion Grenade:** | A grenade that causes bonus damage when attached to its target. | If your roll to hit meets or exceeds the AC of an enemy standing in the targeted area, the grenade sticks to this enemy and does an additional 2d6 damage to it.
-
 #### Additional Features
-At level 7, you choose one of the following abilities.
+At level 9, you choose one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
@@ -287,7 +328,7 @@ Feature | Description | Benefit
 **Viking Funeral:** | Enemies you ignite take more damage from all sources. Stacks up to 3 times. | Each stack increases all damage to the target by 1d4.  Each stack lasts for 3 rounds.
 **Sunburst:** | Killing an enemy with Scorch generates an Orb of Light. | Make them take one for your team.
 
-And at 9th level, you can add one of the following abilities.
+And at 17th level, you can add one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
@@ -303,34 +344,30 @@ You must feel it take hold, let it flow through, but not consume you. You are a 
 
 You are a weapon.
 
-#### Super Ability - [Storm Trance](http://destiny-grimoire.info/#Card-700120)
-Focus your Light to call forth a powerful Arc storm, and siphon it, channeling lightning through your fingertips to send it surging between your targets. A Warlock in Stormtrance is exercising such unbreakable focus that the Arc energy they summon draws them off the ground, the air humming and crackling around them. Like lightning you bend your path forward through the air, striking down anything too slow escape the storm.
+#### Light Pools
+At level 2, you gain access to three pools of Light. One supplies power to your special melee attacks, one empowers your grenades, and one is used for your super ability. All pools start at 0 Light. The melee pool has a maximum of 20 Light points, the grenade pool max is 30, and the pool empowering your super ability maxes at 50 points. During its round, Your ghost distills Light from the environment, enemies you've destroyed, and Orbs of Light you've encountered, and distributes it to your resource pools. See the section on Ghosts for more information.
 
-At level 3, you you can spend 50 Light from your super ability pool to summon a thunderstorm and channel lightning into your enemies for 5 rounds, allowing you to essentially dual wield lightning. Point your hand at an enemy within 20 feet of you to cause the lightning to stream into them, doing 2d10 damage per hand, per round.  Lightning can chain to another enemy within 10 feet of your target dealing 2d10 damage.
+#### Glide
+At level 2, you gain the Glide ability which allows you to use your Light to neutralize your own gravity.  Depending on how it is used, Glide can extend either your long jump or your high jump as described below.
 
-At level 8, you can choose one of the following additional features for Radiance.
+##### Long Jump
+When you make a long jump with Glide, you can cover a number of feet up to twice your Wisdom score (not modifier) if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half that distance.  Each foot you clear on the jump costs a foot of distance.
 
-Feature | Description | Benefit
-:---|:---|:---
-**Landfall:** | On casting Stormtrance, fire a bolt of lightning into the ground, creating a devastating shockwave under you. | Landfall deals 5d10 damage in a 10 foot radius, and blinds enemies within 15 feet.
-**Superconductor:** | Doubles your Stormtrance lightning's chaining capabilities. | Chained lightning can now spread 15 feet from your target, and can chain a second time.
-**Ionic Blink:** | Teleport during Stormtrance. | This teleport is equivalent to blink.
+##### High Jump
+When you make a high jump with Lift, you leap into the air a number of feet equal to (3 + willpower modifier) * 2 if you move at least 10 feet on foot immediately before the jump.  A standing long jump covers only half this distance.  Each foot you clear on the jump costs a foot of movement.
 
-#### Thunderstrike
-At 3rd Level, your melee ability becomes Thunderstrike.  It now deals 1d10 Arc damage.
-
-At 5th level, choose one of the following features to add to your Scorch.
+At 8th level, your Glide gains a feature of your choice based on your Archetype.  Stormcallers can choose between Focused Control, Focused Burst, and Balanced Glide.
 
 Feature | Description | Benefit
 :---|:---|:---
-**Chain Lightning:** | Your Thunderstrike chains from the struck target to another nearby enemy. | An enemy within 10 feet is struck by lightning and takes 1d10 damage.
-**Amplitude:** | Your Thunderstrike has a greater range. | Thunderstrike can now hit enemies 10 feet from you.
-**Rising Storm:** | Hits with Thunderstrike charge your super ability and melee energy. | Hits add 1d8 to your super resource pool and 1d6 to your melee resource pool.
+**Focused Control:** | Upgrades Glide for better directional control while in mid-air. | You can now change direction up to 90 degrees once while in the middle of a jump.
+**Focused Burst:** | Upgrades Glide to provide an initial burst of speed. | You gain +10 Movement during rounds when you use Focused Burst.
+**Balanced Glide:** | Upgrades Glide to provide bonuses to both speed and control. | You gain +5 Movement during rounds when you use Balanced Glide and you may alter your jump direction up to 45 degrees in any direction once while in the air.
 
 #### Arc Grenades
-At 3rd level, your grenade now does Arc damage.
+At level 2, you gain access to a special Light-powered grenade. These grenades consume 30 Light from your grenade resource pool.  As an action, a character can throw a grenade to any 5 foot area up to 60 feet away.  The grenade will explode, dealing 5d6 arc damage.  Creatures within 10 feet who pass a DC 15 Dexterity saving throw take half damage.  Creatures between 10 and 20 feet from the grenade take half damage or no damage on a successful save.
 
-At 5th level, select one of the following grenade types.  Your grenade ability will be modified as described.
+At 9th level, select one of the following grenade types.  Your grenade ability will be modified as described.
 
 Grenade | Description | Benefit
 :---|:---|:---
@@ -338,8 +375,32 @@ Grenade | Description | Benefit
 **Storm Grenade:** | This grenade calls down a localized lightning storm. | Instead of exploding, this lightning strikes twice.  It deals 3d6 each round for 2 rounds.
 **Arcbolt Grenade:** | A grenade that chains bolts of lightning to nearby enemies. | The grenade no longer explodes, but its area of effect is increased to 30 feet. When the grenade goes off, up to 3 targets in the area are hit by a bolt of lightning and take 2d10 damage.
 
+#### Super Ability - [Storm Trance](http://destiny-grimoire.info/#Card-700120)
+Focus your Light to call forth a powerful Arc storm, and siphon it, channeling lightning through your fingertips to send it surging between your targets. A Warlock in Stormtrance is exercising such unbreakable focus that the Arc energy they summon draws them off the ground, the air humming and crackling around them. Like lightning you bend your path forward through the air, striking down anything too slow escape the storm.
+
+At level 3, you you can spend 50 Light from your super ability pool to summon a thunderstorm and channel lightning into your enemies for 5 rounds, allowing you to essentially dual wield lightning. Point your hand at an enemy within 20 feet of you to cause the lightning to stream into them, doing 2d10 damage per hand, per round.  Lightning can chain to another enemy within 10 feet of your target dealing 2d10 damage.
+
+At level 10, you can choose one of the following additional features for Radiance.
+
+Feature | Description | Benefit
+:---|:---|:---
+**Landfall:** | On casting Stormtrance, fire a bolt of lightning into the ground, creating a devastating shockwave under you. | Landfall deals 5d10 damage in a 10 foot radius, and blinds enemies within 15 feet.
+**Superconductor:** | Doubles your Stormtrance lightning's chaining capabilities. | Chained lightning can now spread 15 feet from your target, and can chain a second time.
+**Ionic Blink:** | Teleport during Stormtrance. | This teleport is equivalent to blink.
+
+#### Thunderstrike - [Palm](http://destiny-grimoire.info/#Card-301200)
+At level 4, you gain access to a special Light-enhanced, close-quarters, hand-to-hand melee attack. This melee consumes 20 Light from your melee resource pool and upgrades a standard melee attack.  You can use this attack on any enemy within 5 feet to deal 1d10 arc damage for every Warlock level plus your Wisdom modifier damage. Add your Wisdom modifier and Proficiency bonus to the attack roll.
+
+At 11th level, choose one of the following features to add to your Scorch.
+
+Feature | Description | Benefit
+:---|:---|:---
+**Chain Lightning:** | Your Thunderstrike chains from the struck target to another nearby enemy. | An enemy within 10 feet is struck by lightning and takes 1d10 damage.
+**Amplitude:** | Your Thunderstrike has a greater range. | Thunderstrike can now hit enemies 10 feet from you.
+**Rising Storm:** | Hits with Thunderstrike charge your super ability and melee energy. | Hits add 1d8 to your super resource pool and 1d6 to your melee resource pool.
+
 #### Additional Features
-At level 7, you choose one of the following abilities.
+At level 13, you choose one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
@@ -347,7 +408,7 @@ Feature | Description | Benefit
 **Feedback:** | Incoming melee attacks fully recharge and intensify your Thunderstrike. | If you are hit by a melee attack, add the cost of a melee to your melee resource pool.
 **Transcendence:** | When cast with full grenade and melee energy, Stormtrance restores your health to full and drains slower. | Your health is reset to maximum and Stormtrance now lasts for 6 rounds.
 
-And at 9th level, you can add one of the following abilities.
+And at 17th level, you can add one of the following abilities.
 
 Feature | Description | Benefit
 :---|:---|:---
