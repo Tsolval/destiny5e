@@ -57,28 +57,28 @@ _"We have found new ways to weaponize curiosity. Pathways into the darkness."_
 Warrior-scholars of the Light, Warlocks devote themselves to understanding the Traveler and its power. A Warlock's mind is an arsenal of deadly secrets, balanced between godhood and madness. On the battlefield, those secrets can shatter reality itself.
 
 ## Table: The Warlock
-| Level    | Proficiency Bonus | Cantrips Known | Invocations Known | Features                        |
-|:--------:|:--:|:-:|:-:|-----------------------------------------------------------------------------|
-| **1st**  | +2 | 2 | - | Arcane Optics, Awakened Mind                                                |
-| **2nd**  | +2 | 2 | 2 | Eldritch Invocations, Traveller's Light, Warlock Discipline, Glide, Grenade |
-| **3rd**  | +2 | 2 | 2 | Traveller's Gift, Super Ability                                             |
-| **4th**  | +2 | 3 | 2 | Ability Score Improvement, Melee                                            |
-| **5th**  | +3 | 3 | 3 | Eldritch Invocations+, Extra Attack                                         |
-| **6th**  | +3 | 3 | 3 | Will of the Light, Arcane Study                                             |
-| **7th**  | +3 | 3 | 4 | Eldritch Invocations+, Entropic Ward, Ancient Order                         |
-| **8th**  | +3 | 3 | 4 | Ability Score Improvement, Glide Feature                                    |
-| **9th**  | +4 | 3 | 5 | Mystic Arcanum (5th Level), Grenade Feature                                 |
-| **10th** | +4 | 4 | 5 | Super Ability Feature                                                       |
-| **11th** | +4 | 4 | 5 | Mystic Arcanum (6th Level), Melee Feature                                   |
-| **12th** | +4 | 4 | 6 | Ability Score Improvement                                                   |
-| **13th** | +5 | 4 | 6 | Mystic Arcanum (7th Level), Discipline Loyalty Feature                      |
-| **14th** | +5 | 4 | 6 |                                                                             |
-| **15th** | +5 | 4 | 7 | Mystic Arcanum (8th Level)                                                  |
-| **16th** | +5 | 4 | 7 | Ability Score Improvement                                                   |
-| **17th** | +6 | 4 | 7 | Mystic Arcanum (9th Level), Warlock Discipline Improvement                  |
-| **18th** | +6 | 4 | 8 |                                                                             |
-| **19th** | +6 | 4 | 8 | Ability Score Improvement                                                   |
-| **20th** | +6 | 4 | 8 | Mystic Arcanum (Any Level up to 9)                                          |
+| Level    | Proficiency Bonus | Cantrips Known | Invocations Known | Features                       |
+|:--------:|:--:|:-:|:-:|----------------------------------------------------------------------------|
+| **1st**  | +2 | 2 | - | Arcane Optics, Awakened Mind                                               |
+| **2nd**  | +2 | 2 | 2 | Eldritch Invocations, Traveler's Light, Warlock Discipline, Glide, Grenade |
+| **3rd**  | +2 | 2 | 2 | Traveler's Gift, Super Ability                                             |
+| **4th**  | +2 | 3 | 2 | Ability Score Improvement, Melee                                           |
+| **5th**  | +3 | 3 | 3 | Eldritch Invocations+, Extra Attack                                        |
+| **6th**  | +3 | 3 | 3 | Will of the Light, Arcane Study                                            |
+| **7th**  | +3 | 3 | 4 | Eldritch Invocations+, Entropic Ward, Ancient Order                        |
+| **8th**  | +3 | 3 | 4 | Ability Score Improvement, Glide Feature                                   |
+| **9th**  | +4 | 3 | 5 | Mystic Arcanum (5th Level), Grenade Feature                                |
+| **10th** | +4 | 4 | 5 | Super Ability Feature                                                      |
+| **11th** | +4 | 4 | 5 | Mystic Arcanum (6th Level), Melee Feature                                  |
+| **12th** | +4 | 4 | 6 | Ability Score Improvement                                                  |
+| **13th** | +5 | 4 | 6 | Mystic Arcanum (7th Level), Discipline Loyalty Feature                     |
+| **14th** | +5 | 4 | 6 |                                                                            |
+| **15th** | +5 | 4 | 7 | Mystic Arcanum (8th Level)                                                 |
+| **16th** | +5 | 4 | 7 | Ability Score Improvement                                                  |
+| **17th** | +6 | 4 | 7 | Mystic Arcanum (9th Level), Warlock Discipline Improvement                 |
+| **18th** | +6 | 4 | 8 |                                                                            |
+| **19th** | +6 | 4 | 8 | Ability Score Improvement                                                  |
+| **20th** | +6 | 4 | 8 | Mystic Arcanum (Any Level up to 9)                                         |
 
 ## Hit Points
 <dl>
@@ -117,20 +117,20 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ## Class Features
 ### Arcane Optics
-You have spent many hours researching the Travelers gift and have gained a few insights into the nature of Light which allow you to manipulate it to your advantage.  At 1st level, you know two cantrips of your choice from the Traditional Warlock spell list at the bottom of this page.  You may learn additional cantrips at higher levels, as indicated in the Cantrips Known column of the Warlock table.  A Warlock's Bond is the spell focus and is required for casting these cantrips.
+You have spent many hours researching the Traveler's gift and have gained a few insights into the nature of Light which allow you to manipulate it to your advantage.  At 1st level, you know two cantrips of your choice from the Traditional Warlock spell list at the bottom of this page.  You may learn additional cantrips at higher levels, as indicated in the Cantrips Known column of the Warlock table.  A Warlock's Bond is the spell focus and is required for casting these cantrips.
 
 ### Awakened Mind
 Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures.  You can telepathically speak to any creature you can see within 30 feet of you.  You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.  This is how Eriana-3 interrogated the Hive Wizard.
 
 ### Eldritch Invocations
-In your study of the Traveller's Light, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
+In your study of the Traveler's Light, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
 
 At 2nd level, you gain two eldritch invocations of your choice. Your invocation options are detailed at the end of the class description.  When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
 
 Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
 
-### Traveller's Light
-At 2nd level, you gain the ability to channel the Traveller's Light to heal wounds.  You have a pool of d6s that you spend to fuel this healing.  The number of dice in the pool equals 1 + your warlock level.  As a bonus action, you can touch a creature and heal it, spending dice from the pool.  The maximum number of dice you can spend at once equals your Wisdom modifier (minimum of one die).  Roll the dice you spend, add them together, and restore a number of hit points equal to the total.  Your pool regains all expended dice when you finish a long rest.
+### Traveler's Light
+At 2nd level, you gain the ability to channel the Traveler's Light to heal wounds.  You have a pool of d6s that you spend to fuel this healing.  The number of dice in the pool equals 1 + your warlock level.  As a bonus action, you can touch a creature and heal it, spending dice from the pool.  The maximum number of dice you can spend at once equals your Wisdom modifier (minimum of one die).  Roll the dice you spend, add them together, and restore a number of hit points equal to the total.  Your pool regains all expended dice when you finish a long rest.
 
 ### Warlock Discipline
 At level 2, you begin to grow into the power granted to you by the light which infuses you.  Choose one of the available warlock disciplines, see below.  Your choice grants you features as you gain levels.
@@ -193,7 +193,7 @@ See your chosen Discipline for more details.
 See your chosen Discipline for more details.
 
 ---
-### Traveller's Gift
+### Traveler's Gift
 At 3rd level, the Traveler has gifted you with a repository of knowledge to aid you in your arcane endeavors.  Your ghost provides you with direct access to this knowledge.  When you gain this feature, choose three cantrips from any class's spell list (the three needn't be from the same list). So long as your ghost is near (within 5 feet), you can cast those cantrips at will. They don't count against your number of cantrips known. If they don't appear on the Warlock spell list, they are nonetheless Warlock spells for you.
 
 ### Ability Score Improvement
@@ -203,13 +203,13 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 Beginning at 5th level, you can attack twice, instead of once, when you take the attack action on your turn.
 
 ### Will of the Light
-Starting at 6th level, you can call on the Traveller's Light to alter fate in your favor.  When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll.  You can do so after seeing the initial roll, but before any of the rolls effects occur.  Once you use this feature, you cannot use it again until you finish a short or long rest.
+Starting at 6th level, you can call on the Traveler's Light to alter fate in your favor.  When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll.  You can do so after seeing the initial roll, but before any of the rolls effects occur.  Once you use this feature, you cannot use it again until you finish a short or long rest.
 
 ### Entropic Ward
 At 7th level, you learn to magically ward yourself against attack and to turn an enemy’s failed strike into good luck for yourself.  When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll.  If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn.  Once you use this feature, you can’t use it again until you finish a short or long rest.
 
 ### Mystic Arcanum
-At 9th level, the Traveller bestows upon you a magical secret called an arcanum.  Choose one 5th level spell from the warlock spell list below as this arcanum.  You can cast your arcanum spell once and then you must finish a long rest before you can do so again.  At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 6th-level spell at 11th level, one 7th-level spell at 13th level, one 8th-level spell at 15th level, one 9th-level spell at 17th level and another spell of any level at 20th level.  You regain all uses of your Mystic Arcanum when you finish a long rest.
+At 9th level, the Traveler bestows upon you a magical secret called an arcanum.  Choose one 5th level spell from the warlock spell list below as this arcanum.  You can cast your arcanum spell once and then you must finish a long rest before you can do so again.  At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 6th-level spell at 11th level, one 7th-level spell at 13th level, one 8th-level spell at 15th level, one 9th-level spell at 17th level and another spell of any level at 20th level.  You regain all uses of your Mystic Arcanum when you finish a long rest.
 
 ## Warlock Disciplines
 ### [Voidwalker](http://destiny-grimoire.info/#Card-307060)
@@ -448,11 +448,9 @@ You can cast _mage armor_ on yourself at will, without expending a spell slot or
 **Prerequisite:** 9th level
 
 You can cast _levitate_ on yourself at will, without expending a spell slot or material components.
-Levitate: PHB:255
 
 ### Beast Speech
 You can cast _speak with animals_ at will, without expending a spell slot.
-Speak With Animals: PHB:277
 
 ### Beguiling Influence
 You gain proficiency in the Deception and Persuasion Skills
@@ -475,7 +473,6 @@ So long as you and your Ghost are merged, you can read all writing.
 
 ### Fiendish Vigor
 You can cast _false life_ on yourself at will as a 1st-level spell, without expending a spell slot or material components.
-False Life: PHB:239
 
 ### Gaze of Two Minds
 You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn.  As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn.  While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
@@ -515,7 +512,6 @@ You can cast _arcane eye_ at will, without expending a spell slot.
 **Prerequisite:** 9th level
 
 You can cast _speak with the dead_ at will, without expending a spell slot.
-Speak With Dead: PHB:277
 
 ### Witch Sight
 **Prerequisite:** 15th level
