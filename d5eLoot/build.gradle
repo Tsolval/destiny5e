@@ -4,7 +4,7 @@ buildscript {
 		jcenter()
 	}
     dependencies {
-        classpath("org.springframework.boot:spring-boot-gradle-plugin:1.4.2.RELEASE")
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:1.5.4.RELEASE")
     }
 }
 
@@ -32,7 +32,9 @@ dependencies {
 	compile 'org.springframework.boot:spring-boot-devtools'
 	compile 'org.codehaus.groovy:groovy-all'
 	
+	testCompile 'org.springframework.boot:spring-boot-starter-test'
 	testCompile 'org.spockframework:spock-spring'
+	testCompile 'org.spockframework:spock-core'
 	testCompile 'junit:junit'
 }
 
