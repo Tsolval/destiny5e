@@ -9,6 +9,7 @@ import org.springframework.stereotype.Component
 import net.tsolval.d5e.loot.mod.ArmorModifier
 import net.tsolval.d5e.loot.mod.WeaponModifier
 import net.tsolval.d5e.loot.model.EngramRarity
+import net.tsolval.d5e.loot.model.Equipment
 import net.tsolval.d5e.loot.model.GearType
 
 /**
@@ -27,47 +28,47 @@ class Cryptarch {
 	 * @return
 	 */
 	def decrypt(EngramRarity rarity) {
-		def item = new Expando()
+		def item = new Equipment()
 		item.rarity = getFinalRarity(rarity)
 		item.type = getItemType()
-		item.mods = getItemMods(item)
+		item.mods = altGetItemMods(item)
 		return item
+	}
+
+	/** alternative method to get available mods for the item. */
+	def altGetItemMods(def item) {
+		def mods = [].toSet()
+		EngramRarity.values().each { r ->
+			if(r < item.rarity) {
+				def modList = item.type.toString().toLowerCase()+"Mods"
+				mods.add(this."${modList}"[random.nextInt(this."${modList}".size())])
+			}
+		}
+		return mods
 	}
 
 	/** Pick from available mods for the item. **/
 	def getItemMods(def item) {
-		def rarity = item.rarity
-		def type = item.type
 		def modCount = 0
 		def mods = [].toSet()
 
-		switch (type) {
+		switch (item.rarity) {
+			case EXOTIC:
+				modCount++
+			case LEGENDARY:
+				modCount++
+			case RARE:
+				modCount++
+			case UNCOMMON:
+				modCount++
+		}
+		switch (item.type) {
 			case ARMOR:
-				switch (rarity) {
-					case EXOTIC:
-					modCount++
-					case LEGENDARY:
-					modCount++
-					case RARE:
-					modCount++
-					case UNCOMMON:
-					modCount++
-				}
 				while (mods.size() < modCount) {
 					mods.add(armorMods[random.nextInt(armorMods.size())])
 				}
 				break
 			case WEAPON:
-				switch (rarity) {
-					case EXOTIC:
-					modCount++
-					case LEGENDARY:
-					modCount++
-					case RARE:
-					modCount++
-					case UNCOMMON:
-					modCount++
-				}
 				while (mods.size() < modCount) {
 					mods.add(weaponMods[random.nextInt(weaponMods.size())])
 				}
@@ -86,13 +87,4 @@ class Cryptarch {
 	def GearType getItemType() {
 		return GearType.values()[random.nextInt(2)]
 	}
-
-	///** Main method for testing this class **/
-	//	static main(args) {
-	//		Cryptarch c = new Cryptarch()
-	//		c.setRandom(new Random())
-	//		for (i in 1..5) {
-	//			println c.decrypt(UNCOMMON)
-	//		}
-	//	}
 }
