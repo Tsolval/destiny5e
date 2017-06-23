@@ -7,7 +7,7 @@ import groovy.transform.ToString
  *
  */
 @ToString(includePackage=false)
-class Equipment {
+class Gear {
 	def rarity
 	def type
 	def mods

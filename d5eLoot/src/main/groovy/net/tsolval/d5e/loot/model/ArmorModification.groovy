@@ -6,6 +6,9 @@ import org.springframework.stereotype.Component
  * @author tsolval
  *
  */
-enum EngramRarity {
-	COMMON, UNCOMMON, RARE, LEGENDARY, EXOTIC
+class ArmorModification extends Modification {
+
+	public ArmorModification() {
+		setType(GearType.ARMOR)
+	}
 }
