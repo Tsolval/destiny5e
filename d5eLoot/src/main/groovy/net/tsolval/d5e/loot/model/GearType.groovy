@@ -7,5 +7,5 @@ import org.springframework.stereotype.Component
  *
  */
 enum GearType {
-	ARMOR, WEAPON
+	ARMOR, PRIMARY, SPECIAL, HEAVY
 }

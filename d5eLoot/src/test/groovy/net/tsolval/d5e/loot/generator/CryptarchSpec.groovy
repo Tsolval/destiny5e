@@ -1,16 +1,11 @@
 package net.tsolval.d5e.loot.generator;
 
-import java.util.List
-
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.test.context.ContextConfiguration
 
 import net.tsolval.d5e.loot.Application
 import net.tsolval.d5e.loot.model.Rarity
-import net.tsolval.d5e.loot.model.WeaponModification
-import net.tsolval.d5e.loot.model.ArmorModification
-import net.tsolval.d5e.loot.model.Gear
-import net.tsolval.d5e.loot.model.GearType
+import net.tsolval.d5e.loot.model.mods.ArmorModification
 import spock.lang.Specification
 /**
  * @author tsolval
@@ -30,11 +25,21 @@ class CryptarchSpec extends Specification {
 		assert gear.mods.size() >= modCount
 
 		and: "the generated gear has the appropriate number of mods for the new rarity"
-		if (gear.mods.rarity == Rarity.COMMON    ) { assert gear.mods.size() == 0 }
-		if (gear.mods.rarity == Rarity.UNCOMMON  ) { assert gear.mods.size() == 1 }
-		if (gear.mods.rarity == Rarity.RARE      ) { assert gear.mods.size() == 2 }
-		if (gear.mods.rarity == Rarity.LEGENDARY ) { assert gear.mods.size() == 3 }
-		if (gear.mods.rarity == Rarity.EXOTIC    ) { assert gear.mods.size() == 4 }
+		if (gear.mods.rarity == Rarity.COMMON    ) {
+			assert gear.mods.size() == 0
+		}
+		if (gear.mods.rarity == Rarity.UNCOMMON  ) {
+			assert gear.mods.size() == 1
+		}
+		if (gear.mods.rarity == Rarity.RARE      ) {
+			assert gear.mods.size() == 2
+		}
+		if (gear.mods.rarity == Rarity.LEGENDARY ) {
+			assert gear.mods.size() == 3
+		}
+		if (gear.mods.rarity == Rarity.EXOTIC    ) {
+			assert gear.mods.size() == 4
+		}
 
 		and: "there are no duplicate mods"
 		assert gear.mods.clone().unique().size() == gear.mods.size()
@@ -54,7 +59,7 @@ class CryptarchSpec extends Specification {
 
 		then: "the new list includes 'defensive'"
 		assert modList.find{ it.name =~ 'defensive' }
-		
+
 		and: "the new list does not include 'protective'"
 		assert !modList.find{ it.name =~ 'protective' }
 	}

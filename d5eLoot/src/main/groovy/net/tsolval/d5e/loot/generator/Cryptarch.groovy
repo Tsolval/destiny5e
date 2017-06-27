@@ -6,11 +6,13 @@ import static  net.tsolval.d5e.loot.model.Rarity.*
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Component
 
-import net.tsolval.d5e.loot.model.ArmorModification
 import net.tsolval.d5e.loot.model.Gear
 import net.tsolval.d5e.loot.model.GearType
 import net.tsolval.d5e.loot.model.Rarity
-import net.tsolval.d5e.loot.model.WeaponModification
+import net.tsolval.d5e.loot.model.mods.ArmorModification
+import net.tsolval.d5e.loot.model.mods.HeavyModification
+import net.tsolval.d5e.loot.model.mods.PrimaryModification
+import net.tsolval.d5e.loot.model.mods.SpecialModification
 
 /**
  * In Destiny The Game, the Cryptarch is responsible for decrypting an Engram and turning it into a piece of Gear.
@@ -22,7 +24,9 @@ class Cryptarch {
 
 	@Autowired Random random
 	@Autowired List<ArmorModification> armorMods
-	@Autowired List<WeaponModification> weaponMods
+	@Autowired List<PrimaryModification> primaryMods
+	@Autowired List<SpecialModification> specialMods
+	@Autowired List<HeavyModification> heavyMods
 
 	/**
 	 * Decrypt a given Engram into a randomly generated piece of gear.

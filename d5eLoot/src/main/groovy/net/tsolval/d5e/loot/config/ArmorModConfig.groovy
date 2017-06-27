@@ -3,8 +3,8 @@ package net.tsolval.d5e.loot.config
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 
-import net.tsolval.d5e.loot.model.ArmorModification
 import net.tsolval.d5e.loot.model.Rarity
+import net.tsolval.d5e.loot.model.mods.ArmorModification
 
 /**
  * @author tsolval

@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+.UNCOMMON {
+   color: #4FD644;
+}
+
+.RARE {
+   color: #82C9F7;
+}
+
+.LEGENDARY {
+   color: #B755D2;
+}
+
+.EXOTIC {
+   color: Gold
+}
+
+.COMMON {
+   color: GhostWhite
+}

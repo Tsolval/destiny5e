@@ -1,9 +1,14 @@
 package net.tsolval.d5e.loot.controller
 
+import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Controller
+import org.springframework.ui.Model
+import org.springframework.web.bind.annotation.GetMapping
+import org.springframework.web.bind.annotation.PathVariable
 import org.springframework.web.bind.annotation.RequestMapping
-import org.springframework.web.bind.annotation.ResponseBody
-import org.springframework.web.servlet.ModelAndView
+
+import net.tsolval.d5e.loot.generator.Cryptarch
+import net.tsolval.d5e.loot.model.Rarity
 
 /**
  * Controls loot pages.
@@ -12,8 +17,17 @@ import org.springframework.web.servlet.ModelAndView
  */
 @Controller
 class LootController {
-	@RequestMapping("/loot")
-	def showMain(){
-		return 'cryptarch'
-	}
+   @Autowired Cryptarch cryptarch
+
+   @RequestMapping("/loot")
+   def showMain(){
+      return 'cryptarch'
+   }
+
+   @GetMapping("/loot/engram/{rarity}")
+   def decryptEngram(@PathVariable Rarity rarity, Model model) {
+      def item = cryptarch.decrypt(rarity)
+      model.addAttribute('item', item)
+      return 'fragments/gear'
+   }
 }

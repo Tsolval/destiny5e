@@ -1,11 +1,7 @@
 // describe build script dependencies
 buildscript {
-	repositories {
-		jcenter()
-	}
-    dependencies {
-        classpath("org.springframework.boot:spring-boot-gradle-plugin:1.5.4.RELEASE")
-    }
+   repositories { jcenter() }
+   dependencies { classpath("org.springframework.boot:spring-boot-gradle-plugin:1.5.4.RELEASE") }
 }
 
 // plugins to support build and development
@@ -15,27 +11,26 @@ apply plugin: 'eclipse'
 
 // In this section you declare where to find the dependencies of your project
 repositories {
-    // Use jcenter for resolving your dependencies.
-    // You can declare any Maven/Ivy/file repository here.
-    jcenter()
+   // Use jcenter for resolving your dependencies.
+   // You can declare any Maven/Ivy/file repository here.
+   jcenter()
 }
 
 // Tell Spring Boot to load changed resources
-bootRun {
-	addResources = true
-}
+bootRun { addResources = true }
 
 // Project dependencies
 dependencies {
-	compile 'org.springframework.boot:spring-boot-starter-thymeleaf'
-	compile 'org.springframework.boot:spring-boot-starter-logging'
-	compile 'org.springframework.boot:spring-boot-starter-web'
-	compile 'org.springframework.boot:spring-boot-devtools'
-	compile 'org.codehaus.groovy:groovy-all'
-	
-	testCompile 'org.springframework.boot:spring-boot-starter-test'
-	testCompile 'org.spockframework:spock-spring'
-	testCompile 'org.spockframework:spock-core'
-	testCompile 'junit:junit'
+   compile 'org.springframework.boot:spring-boot-starter-logging'
+   compile 'org.springframework.boot:spring-boot-starter-web'
+   compile 'org.springframework.boot:spring-boot-devtools'
+   compile 'org.codehaus.jackson:jackson-mapper-asl'
+   compile 'org.codehaus.jackson:jackson-core-asl'
+   compile 'org.codehaus.groovy:groovy-all'
+
+   testCompile 'org.springframework.boot:spring-boot-starter-test'
+   testCompile 'org.spockframework:spock-spring'
+   testCompile 'org.spockframework:spock-core'
+   testCompile 'junit:junit'
 }
 
