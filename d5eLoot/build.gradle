@@ -18,14 +18,15 @@ repositories {
 
 // Tell Spring Boot to load changed resources
 bootRun { addResources = true }
+bootRepackage { mainClass='net.tsolval.d5e.loot.Application' }
+springBoot { mainClass='net.tsolval.d5e.loot.Application' }
 
 // Project dependencies
 dependencies {
+   compile 'org.springframework.boot:spring-boot-starter-groovy-templates'
    compile 'org.springframework.boot:spring-boot-starter-logging'
    compile 'org.springframework.boot:spring-boot-starter-web'
    compile 'org.springframework.boot:spring-boot-devtools'
-   compile 'org.codehaus.jackson:jackson-mapper-asl'
-   compile 'org.codehaus.jackson:jackson-core-asl'
    compile 'org.codehaus.groovy:groovy-all'
 
    testCompile 'org.springframework.boot:spring-boot-starter-test'

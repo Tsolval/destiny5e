@@ -1,4 +1,4 @@
-div(class: 'panel panel-primary') {
+div(class: "panel ${item?.rarity}") {
    div(class: 'panel-heading text-center') {
       yield(class: 'lead', "${item?.rarity} ${item?.type}")
    }

@@ -2,6 +2,7 @@ package net.tsolval.d5e.loot
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration
+import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.context.annotation.ComponentScan
 
 /**
@@ -9,11 +10,9 @@ import org.springframework.context.annotation.ComponentScan
  * @author tsolval
  *
  */
-@EnableAutoConfiguration
-@ComponentScan("net.tsolval.d5e.loot")
+@SpringBootApplication
 class Application {
-
-	static main(args) {
-		SpringApplication.run(Application.class, args)
-	}
+   static main(args) {
+      SpringApplication.run(Application.class, args)
+   }
 }

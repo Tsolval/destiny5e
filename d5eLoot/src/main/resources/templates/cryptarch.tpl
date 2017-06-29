@@ -8,22 +8,23 @@ otherScripts: {
 mainContents: {
    div(class: 'container text-center') {
       h2 {
-         yield 'test'
          yield 'Cryptarch'
          br()
-         small('A Cryptarch for your RPG experience.')
+         small('An engram decryption service for your RPG experience.')
       }
    }
    form (class: 'container') {
-      div(class: 'form-group') {
-         label(for: 'rarity', 'Select the Engram\'s Rarity:')
-         select(id: 'raritySelect', name: 'rarity') {
-            Rarity.values().each {
-               option(value: it, it)
+      div(class: 'row') {
+         div(class: 'col-sm-5 col-centered'){
+            div(class: 'btn-group') {
+               button(class: 'btn COMMON',    id: 'encodedButton',    type: 'button', 'Encoded') 
+               button(class: 'btn UNCOMMON',  id: 'encryptedButton',  type: 'button', 'Encrypted') 
+               button(class: 'btn RARE',      id: 'decoherentButton', type: 'button', 'Decoherent') 
+               button(class: 'btn LEGENDARY', id: 'legendaryButton',  type: 'button', 'Legendary') 
+               button(class: 'btn EXOTIC',    id: 'exoticButton',     type: 'button', 'Exotic') 
             }
          }
       }
-      button(id: 'decryptButton', type: 'button', 'Submit')
    }
    div(class: 'container') {
       section(id: 'item') {
