@@ -1,6 +1,6 @@
 div(class: "panel ${item?.rarity}") {
    div(class: 'panel-heading text-center') {
-      yield(class: 'lead', "${item?.rarity} ${item?.type}")
+      yield(class: 'lead', "${item?.rarity?.description} ${item?.type?.description}")
    }
    table(class: 'table table-default') {
       item?.mods?.each { mod ->

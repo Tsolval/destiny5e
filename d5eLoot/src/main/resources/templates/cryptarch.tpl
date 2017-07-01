@@ -13,19 +13,21 @@ mainContents: {
          small('An engram decryption service for your RPG experience.')
       }
    }
+   hr()
    form (class: 'container') {
       div(class: 'row') {
          div(class: 'col-sm-5 col-centered'){
             div(class: 'btn-group') {
-               button(class: 'btn COMMON',    id: 'encodedButton',    type: 'button', 'Encoded') 
-               button(class: 'btn UNCOMMON',  id: 'encryptedButton',  type: 'button', 'Encrypted') 
-               button(class: 'btn RARE',      id: 'decoherentButton', type: 'button', 'Decoherent') 
-               button(class: 'btn LEGENDARY', id: 'legendaryButton',  type: 'button', 'Legendary') 
-               button(class: 'btn EXOTIC',    id: 'exoticButton',     type: 'button', 'Exotic') 
+               button(class: 'btn COMMON',    id: 'encodedButton',    type: 'button', 'Encoded')
+               button(class: 'btn UNCOMMON',  id: 'encryptedButton',  type: 'button', 'Encrypted')
+               button(class: 'btn RARE',      id: 'decoherentButton', type: 'button', 'Decoherent')
+               button(class: 'btn LEGENDARY', id: 'legendaryButton',  type: 'button', 'Legendary')
+               button(class: 'btn EXOTIC',    id: 'exoticButton',     type: 'button', 'Exotic')
             }
          }
       }
    }
+   hr()
    div(class: 'container') {
       section(id: 'item') {
       }

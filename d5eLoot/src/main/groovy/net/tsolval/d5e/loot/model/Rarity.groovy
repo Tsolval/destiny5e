@@ -11,17 +11,11 @@ import groovy.transform.ToString
  *
  */
 enum Rarity {
-	COMMON, UNCOMMON, RARE, LEGENDARY, EXOTIC
+   COMMON('Common'), UNCOMMON('Uncommon'), RARE('Rare'), LEGENDARY('Legendary'), EXOTIC('Exotic')
 
-	@JsonCreator
-	public static Rarity create(String value) {
-		def rarity
-		if(((CharSequence)value).isInteger()){
-			rarity = Rarity.values()[value as Integer]
-		} else {
-			rarity = value.toUpperCase() as Rarity
-		}
+   def description
 
-		return rarity
-	}
+   def Rarity(def desc) {
+      this.description = desc
+   }
 }

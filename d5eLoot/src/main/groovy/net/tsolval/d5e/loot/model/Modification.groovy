@@ -8,10 +8,10 @@ import groovy.transform.ToString
  *
  */
 @ToString(includes= ["name"], includePackage=false )
-abstract class Modification {
+class Modification {
 	String name
 	String desc
 	String effect
-	GearType type
+	GearType [] type
 	Rarity rarity
 }
