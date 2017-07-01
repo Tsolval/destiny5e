@@ -11,15 +11,5 @@ div(class: "panel ${item?.rarity}") {
          }
       }
    }
-   div(class: 'panel-footer') {
-      table(class: 'table table-default') {
-         tr {
-            td(class: 'COMMON', 'Common')
-            td(class: 'UNCOMMON', 'Uncommon')
-            td(class: 'RARE', 'Rare')
-            td(class: 'LEGENDARY', 'Legendary')
-            td(class: 'EXOTIC', 'Exotic')
-         }
-      }
-   }
+   div(class: 'panel-footer')
 }

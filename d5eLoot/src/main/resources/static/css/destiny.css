@@ -28,5 +28,5 @@ button.COMMON, button.UNCOMMON, button.RARE, button.LEGENDARY, button.EXOTIC {
 
 .col-centered {
    float: none;
-   margin: 0 auto;
+   margin: auto auto;
 }
