@@ -17,7 +17,6 @@ html {
          div(class: 'container-fluid') {
             div(class: 'navbar-header') {
                button(type: 'button', class: 'navbar-toggle', 'data-toggle': 'collapse', 'data-target': '#navigation', ) {
-//               button(type: "button", class: "navbar-toggle", 'data-toggle': "collapse", 'data-target': "#myNavbar">
                   span(class: 'icon-bar', '')
                   span(class: 'icon-bar', '')
                   span(class: 'icon-bar', '')
