@@ -23,7 +23,7 @@ bootRepackage { mainClass='net.tsolval.d5e.loot.Application' }
 springBoot { mainClass='net.tsolval.d5e.loot.Application' }
 
 war { 
-   baseName='loot'
+   baseName='/'
    version='0.1'
 }
 
