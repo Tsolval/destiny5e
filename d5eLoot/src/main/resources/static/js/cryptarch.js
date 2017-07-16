@@ -3,35 +3,35 @@
  */
 $(function() {
    $("#encodedButton").click(function() {
-      var urlName = "/loot/engram/COMMON";
+      var urlName = "/engram/COMMON";
       $("#item").load(urlName);
    });
 });
 
 $(function() {
    $("#encryptedButton").click(function() {
-      var urlName = "/loot/engram/UNCOMMON";
+      var urlName = "/engram/UNCOMMON";
       $("#item").load(urlName);
    });
 });
 
 $(function() {
    $("#decoherentButton").click(function() {
-      var urlName = "/loot/engram/RARE";
+      var urlName = "/engram/RARE";
       $("#item").load(urlName);
    });
 });
 
 $(function() {
    $("#legendaryButton").click(function() {
-      var urlName = "/loot/engram/LEGENDARY";
+      var urlName = "/engram/LEGENDARY";
       $("#item").load(urlName);
    });
 });
 
 $(function() {
    $("#exoticButton").click(function() {
-      var urlName = "/loot/engram/EXOTIC";
+      var urlName = "/engram/EXOTIC";
       $("#item").load(urlName);
    });
 });

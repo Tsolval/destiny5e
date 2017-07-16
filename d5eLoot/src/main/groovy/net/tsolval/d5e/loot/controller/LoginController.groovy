@@ -19,7 +19,7 @@ class LoginController {
 	 * 
 	 * @return
 	 */
-	@RequestMapping("/")
+//	@RequestMapping("/")
 	def showFrontPage(){
 		return 'index'
 	}

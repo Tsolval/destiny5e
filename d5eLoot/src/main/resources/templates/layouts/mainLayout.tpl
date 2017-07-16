@@ -26,22 +26,7 @@ html {
             }
             div(class: 'collapse navbar-collapse', id: 'navigation') {
                ul(class: 'nav navbar-nav') {
-                  li { a(href: '/', 'Home') }
-                  li { a(href: '/loot', 'Cryptarch') }
-               }
-               ul(class: 'nav navbar-nav navbar-right'){
-                  li {
-                     a(href: '#') {
-                        span(class: 'glyphicon glyphicon-user', '')
-                        yield ' Sign Up'
-                     }
-                  }
-                  li {
-                     a(href: '#') {
-                        span(class: 'glyphicon glyphicon-log-in', '')
-                        yield ' Login'
-                     }
-                  }
+                  li { a(href: '/', 'Cryptarch') }
                }
             }
          }

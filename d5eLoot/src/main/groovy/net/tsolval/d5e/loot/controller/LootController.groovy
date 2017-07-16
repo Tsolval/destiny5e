@@ -19,12 +19,12 @@ import net.tsolval.d5e.loot.model.Rarity
 class LootController {
    @Autowired Cryptarch cryptarch
 
-   @RequestMapping("/loot")
+   @RequestMapping("/")
    def showMain(){
       return 'cryptarch'
    }
 
-   @GetMapping("/loot/engram/{rarity}")
+   @GetMapping("/engram/{rarity}")
    def decryptEngram(@PathVariable Rarity rarity, Model model) {
       def item = cryptarch.decrypt(rarity)
       model.addAttribute('item', item)
